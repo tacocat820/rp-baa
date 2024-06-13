@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/carrot_on_a_stick"
   },
   "overrides": [
-	{"predicate": {"custom_model_data": 32000},"model": "item/item/windows_12"}
+	{"predicate": {"custom_model_data": 32000},"model": "minecraft:item/item/windows_12"}
   ]
 }
