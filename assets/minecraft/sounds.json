@@ -1,0 +1,20 @@
+{
+    "what.microwave":
+	{"category": "player","sounds": [{"name": "what/microwave","stream": false}]},
+    "what.bad_to_the_bone":
+	{"category": "player","sounds": [{"name": "what/bad","stream": false}]},
+    "what.ragdoll":
+	{"category": "player","sounds": [{"name": "what/ragdoll","stream": true}]},
+    "what.raah":
+	{"category": "player","sounds": [{"name": "what/raah","stream": false}]},
+    "what.fard":
+	{"category": "player","sounds": [{"name": "what/fard","stream": false}]},
+    "what.slep":
+	{"category": "player","sounds": [{"name": "what/slep","stream": false}]},
+    "what.repeer":
+	{"category": "player","sounds": [{"name": "what/repeer","stream": false}]},
+    "what.static":
+	{"category": "player","sounds": [{"name": "what/static","stream": false}]},
+    "what.nokia":
+	{"category": "player","sounds": [{"name": "what/nokia","stream": false}]}
+}
