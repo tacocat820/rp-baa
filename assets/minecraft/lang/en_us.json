@@ -1,4 +1,9 @@
 {
 	"what.item.cheeseburger": "Cheeseburger",
-	"what.item.cheeseburger_crumbs": "Cheeseburger crumbs"
+	"what.item.cheeseburger_crumbs": "Cheeseburger crumbs",
+	
+	"what.item.dirt_sword": "Dirt sword",
+	"what.item.dirt_pickaxe": "Dirt pickaxe",
+	"what.item.dirt_shovel": "Dirt shovel",
+	"what.item.dirt_hoe": "Dirt hoe"
 }
