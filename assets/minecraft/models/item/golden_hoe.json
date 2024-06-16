@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/golden_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 32000
+      },
+      "model": "minecraft:item/item/dirt_hoe"
+    }
+  ]
+}
