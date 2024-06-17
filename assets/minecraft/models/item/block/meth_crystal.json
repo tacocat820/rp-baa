@@ -1,5 +1,5 @@
 {
-   "parent": "minecraft:item/templates/4s_block",
+   "parent": "minecraft:item/templates/4s_r_block",
     "textures": {
        "b": "item/block/meth_crystal"
     }
