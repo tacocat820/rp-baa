@@ -16,5 +16,7 @@
 	"what.block.backrooms" : "Backrooms wallpaper",
 	"what.block.meth_crystal" : "Red meth",
 	
-	"what.block.chair_plant" : "Chair plant"
+	"what.block.chair_plant" : "Chair plant seeds",
+	"what.block.chair" : "Сhair",
+	"what.block.stool" : "Stool"
 }

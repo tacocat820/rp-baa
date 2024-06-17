@@ -1,0 +1,22 @@
+{
+	"what.item.cheeseburger": "Чизбургер",
+	"what.item.cheeseburger_crumbs": "Чизбургер (умер)",
+	
+	"what.item.dirt_sword": "Земляной меч",
+	"what.item.dirt_pickaxe": "Земляная кирка",
+	"what.item.dirt_shovel": "Земляная лопата",
+	"what.item.dirt_hoe": "Земляная мотыга",
+	"what.item.dirt_axe": "Земляной топор",
+	"what.item.meth" : "Рыжий мет",
+	
+	
+	"what.block.brasil": "Блок Бразилии",
+	"what.block.windows12": "Windows 12",
+	"what.block.uranium_ore": "Урановая руда",
+	"what.block.backrooms" : "Обои из backrooms",
+	"what.block.meth_crystal" : "Рыжий мет",
+	
+	"what.block.chair_plant" : "Семена стула",
+	"what.block.chair" : "Cтул",
+	"what.block.stool" : "Табуретка"
+}
