@@ -13,12 +13,13 @@
 	"what.block.brasil": "Brazil block",
 	"what.block.windows12": "Windows 12",
 	"what.block.uranium_ore": "Uranium ore",
-	"what.block.backrooms" : "Backrooms wallpaper",
 	"what.block.meth_crystal" : "Red meth",
+	"what.block.globe" : "Brazil globe",
+
+	"what.block.backrooms" : "Backrooms wallpaper",
+	"what.block.backrooms_carpet" : "Backrooms carpet",
 	
 	"what.block.chair_plant" : "Chair plant seeds",
 	"what.block.chair" : "Сhair",
-	"what.block.stool" : "Stool",
-	
-	"what.block.globe" : "Brasil globe"
+	"what.block.stool" : "Stool"
 }
