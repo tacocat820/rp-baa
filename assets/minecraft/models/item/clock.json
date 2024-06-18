@@ -70,7 +70,8 @@
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
         { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
 		
-		{ "predicate": { "custom_model_data": 32000 }, "model": "minecraft:item/item/meth" }
+		{ "predicate": { "custom_model_data": 32000 }, "model": "minecraft:item/item/meth" },
+        { "predicate": { "custom_model_data": 32001 }, "model": "minecraft:item/ent/flag/new_zealand" }
 		
     ]
 }

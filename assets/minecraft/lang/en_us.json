@@ -21,5 +21,7 @@
 	
 	"what.block.chair_plant" : "Chair plant seeds",
 	"what.block.chair" : "Сhair",
-	"what.block.stool" : "Stool"
+	"what.block.stool" : "Stool",
+
+	"what.mob.new_zealand" : "New Zealand"
 }
