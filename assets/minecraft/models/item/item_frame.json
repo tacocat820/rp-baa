@@ -15,6 +15,8 @@
   {"predicate": {"custom_model_data": 32007},"model": "minecraft:item/block/chair_plant/2"},
   
   {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/block/stool"},
-  {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/block/chair"}
+  {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/block/chair"},
+  {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/block/globe"},
+  {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/block/backrooms_carpet"}
   ]
 }
