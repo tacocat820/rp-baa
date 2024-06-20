@@ -1,0 +1,11 @@
+{
+   "parent": "minecraft:item/templates/block_6s",
+    "textures": {
+       "0": "item/block/brazil_side",
+	   "1": "item/block/brazil_side",
+	   "2": "item/block/brazil_side",
+	   "3": "item/block/brazil_side",
+	   "4": "item/block/brazil_top",
+	   "5": "item/block/brazil_top"
+    }
+}
