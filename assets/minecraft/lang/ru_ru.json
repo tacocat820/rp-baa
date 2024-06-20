@@ -13,16 +13,17 @@
 	"what.block.brasil": "Блок Бразилии",
 	"what.block.windows12": "Windows 12",
 	"what.block.uranium_ore": "Урановая руда",
-	
+
 	"what.block.backrooms" : "Стены backrooms",
 	"what.block.backrooms_carpet" : "Ковёр backrooms",
 	
 	"what.block.meth_crystal" : "Рыжий мет",
-	
 	"what.block.chair_plant" : "Семена стула",
 	"what.block.chair" : "Cтул",
 	"what.block.stool" : "Табуретка",
 	"what.block.globe" : "Глобус (бразилии)",
 
-	"what.mob.new_zealand" : "Новая Зеландия"
+
+	"what.mob.new_zealand" : "Новая Зеландия",
+	"what.mob.homeless" : "Бездомный"
 }

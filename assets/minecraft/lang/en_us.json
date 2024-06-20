@@ -23,5 +23,7 @@
 	"what.block.chair" : "Сhair",
 	"what.block.stool" : "Stool",
 
-	"what.mob.new_zealand" : "New Zealand"
+
+	"what.mob.new_zealand" : "New Zealand",
+	"what.mob.homeless" : "Homeless"
 }
