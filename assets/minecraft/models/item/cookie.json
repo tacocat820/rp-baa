@@ -16,6 +16,7 @@
       },
       "model": "minecraft:item/item/dead_cheeseburger"
     },
-    {"predicate": {"custom_model_data": 32002},"model": "minecraft:item/item/meth_lollipop"}
+    {"predicate": {"custom_model_data": 32002},"model": "minecraft:item/item/meth_lollipop"},
+	{"predicate": {"custom_model_data": 32003},"model": "minecraft:item/item/pen"}
   ]
 }

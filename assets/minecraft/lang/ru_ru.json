@@ -12,20 +12,23 @@
 	"what.item.dirt_hoe": "Земляная мотыга",
 	"what.item.dirt_axe": "Земляной топор",
 	"what.item.meth" : "Рыжий мет",
+	"what.item.meth_lollipop" : "☠ \"Леденец\"",
+	"what.item.pen" : "Ручка",
 	
 	
-	"what.block.brasil": "Блок Бразилии",
+	"what.block.brazil": "Блок Бразилии",
 	"what.block.windows12": "Windows 12",
 	"what.block.uranium_ore": "Урановая руда",
-
 	"what.block.backrooms" : "Стены backrooms",
 	"what.block.backrooms_carpet" : "Ковёр backrooms",
-	
 	"what.block.meth_crystal" : "Рыжий мет",
+	"what.block.globe" : "Глобус (бразилии)",
+
 	"what.block.chair_plant" : "Семена стула",
 	"what.block.chair" : "Cтул",
 	"what.block.stool" : "Табуретка",
-	"what.block.globe" : "Глобус (бразилии)",
+	"what.block.crafting_table_2" : "Верстак 2",
+	"what.block.obama" : "Блок обамиума",
 
 
 	"what.mob.new_zealand" : "Новая Зеландия",
