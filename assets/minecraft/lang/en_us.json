@@ -12,7 +12,7 @@
 	"what.item.dirt_hoe": "Dirt hoe",
 	"what.item.dirt_axe": "Dirt axe",
 	"what.item.meth" : "Red meth",
-	"what.item.meth_lollipop" : "Meth lollipop",
+	"what.item.meth_lollipop" : "☠ lolipop",
 	"what.item.pen" : "Pen",
 	
 	
@@ -30,6 +30,7 @@
 	"what.block.crafting_table_2" : "Crafting table two",
 	"what.block.obama" : "Obamium block",
 
+	"what.message.homeless": "<Homeless villager> give me chezburger crumbs pls 🥺",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless"

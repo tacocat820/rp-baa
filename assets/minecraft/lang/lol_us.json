@@ -1,4 +1,8 @@
 {
+	"what.help.pages_command":", to opun teh papur nuber NNNhbNNn.",
+	"what.help.page":"papur ",
+	"what.help.page.1":"p.1 - ur her",
+	
 	"what.item.cheeseburger": "cheezfburgor frum teh tre",
 	"what.item.cheeseburger_crumbs": "lil cheezfburgor 4 teh birdies",
     
@@ -7,6 +11,7 @@
 	"what.item.dirt_shovel": "bad spun 2 eat frum",
 	"what.item.dirt_hoe": "durtey doble sticck", 
 	"what.item.dirt_axe": "durtey but very furst chopper",
+	"what.item.pen" : "p3n",
 
 	"what.block.brasil": "big tre wurld blocc",
 	"what.block.globe" : "big tre wurld ball",
@@ -19,6 +24,11 @@
 	"what.block.chair_plant" : "kitty sitty on thingy plent (ken gruw them!!111!!1!!)",
 	"what.block.stool": "kitty sitty on thingy",
 	"what.block.chair": "comfy kitty sitty on thingy",
+	"what.block.crafting_table_2" : "kraftyer krafting tabal",
+	"what.block.obama" : "OBAMA BANANA",
 
-	"what.mob.new_zealand" : "kiwwi burb houm"
+	"what.message.homeless": "<por no houm man :(:(> GIV ME UR CHEZFBURGARZ NAW!!!!!1!!1!",
+
+	"what.mob.new_zealand" : "kiwwi burb houm",
+	"what.mob.homeless" : "por no houm man :(:("
 }
