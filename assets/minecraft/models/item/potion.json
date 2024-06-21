@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "minecraft:item/potion",
+      "layer0": "minecraft:item/potion_overlay"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 32000
+        },
+        "model": "minecraft:item/ent/horse"
+      }
+    ]
+  }
