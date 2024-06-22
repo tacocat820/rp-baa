@@ -12,8 +12,10 @@
 	"what.item.dirt_hoe": "Dirt hoe",
 	"what.item.dirt_axe": "Dirt axe",
 	"what.item.meth" : "Red meth",
-	"what.item.meth_lollipop" : "☠ lolipop",
+	"what.item.meth_lollipop" : "Дolipop ☠",
 	"what.item.pen" : "Pen",
+	"what.item.vbucks" : "Vbucks",
+	"what.item.fortnite_card" : "$19 Fortnite card",
 	
 	
 	"what.block.brazil": "Brazil block",
@@ -34,5 +36,6 @@
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
+	"what.mob.gaming_chair" : "Gaming chair",
 	"what.mob.betterhorse" : "horse but better (a.k.a. Notjuan)"
 }
