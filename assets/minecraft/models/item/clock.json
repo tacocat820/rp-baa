@@ -417,6 +417,12 @@
         "custom_model_data": 32003
       },
       "model": "minecraft:item/item/fortnite_card"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32004
+      },
+      "model": "minecraft:item/item/creator"
     }
   ]
 }

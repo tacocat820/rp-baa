@@ -16,5 +16,7 @@
     "what.static":
 	{"category": "player","sounds": [{"name": "what/static","stream": false}]},
     "what.nokia":
-	{"category": "player","sounds": [{"name": "what/nokia","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/nokia","stream": false}]},
+    "what.destroyer":
+	{"category": "player","sounds": [{"name": "what/creator","stream": true}]}
 }
