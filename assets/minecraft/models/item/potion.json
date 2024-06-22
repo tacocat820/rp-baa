@@ -10,6 +10,7 @@
           "custom_model_data": 32000
         },
         "model": "minecraft:item/ent/horse"
-      }
+      },
+	  {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/stick_2"}
     ]
   }
