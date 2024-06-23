@@ -423,6 +423,7 @@
         "custom_model_data": 32004
       },
       "model": "minecraft:item/item/creator"
-    }
+    },
+	{"predicate": {"custom_model_data": 32005},"model": "minecraft:item/item/email"}
   ]
 }
