@@ -17,7 +17,10 @@
 	"what.item.vbucks" : "Vbucks",
 	"what.item.fortnite_card" : "$19 Fortnite card",
 	"what.item.glass_empty" : "Empty glass",
+
 	"what.item.glass_of_water" : "Glass of water",
+	"what.item.knife" : "Knife",
+	
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.item.music_disc_creator" : "Music..... disc....",
@@ -36,6 +39,7 @@
 	"what.block.stool" : "Stool",
 	"what.block.crafting_table_2" : "Crafting table two",
 	"what.block.obama" : "Obamium block",
+	"what.block.trash_can" : "Trash can",
 
 	"what.message.homeless": "<Homeless villager> give me chezburger crumbs pls 🥺",
 

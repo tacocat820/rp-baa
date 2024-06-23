@@ -16,8 +16,10 @@
 	"what.item.pen" : "Ручка",
 	"what.item.vbucks" : "В-бакс",
 	"what.item.fortnite_card" : "19$ Фортнайт карта",
+
 	"what.item.glass_empty" : "Пустой стакан",
-	"what.item.glass_of_water" : "Стакан воды",
+	"what.item.glass_of_water" : "Стакан с водой",
+	"what.item.knife" : "Нож",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.item.music_disc_creator" : "помогите.",
@@ -36,10 +38,12 @@
 	"what.block.stool" : "Табуретка",
 	"what.block.crafting_table_2" : "Верстак 2",
 	"what.block.obama" : "Блок обамиума",
+	"what.block.trash_can" : "Мусорка",
 
 	"what.message.homeless": "<Бездомный> ддай чезбругрер пж 🥺",
 
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
+	"what.mob.gaming_chair" : "Кресло игровое",
 	"what.mob.betterhorse" : "ОЛЕНЬ"
 }
