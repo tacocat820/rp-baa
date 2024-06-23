@@ -9,6 +9,7 @@
         "custom_model_data": 32000
       },
       "model": "minecraft:item/item/dirt_shovel"
-    }
+    },
+	{"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/email_shovel"}
   ]
 }
