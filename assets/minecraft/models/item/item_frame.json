@@ -19,6 +19,7 @@
   {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/block/globe"},
   {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/block/backrooms_carpet"},
   {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/block/crafting_table_2"},
-  {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/block/obama"}
+  {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/block/obama"},
+  {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/block/trash_can"}
   ]
 }
