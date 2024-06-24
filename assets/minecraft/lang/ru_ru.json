@@ -21,10 +21,18 @@
 	"what.item.glass_of_water" : "Стакан с водой",
 	"what.item.knife" : "Нож",
 
+	"what.item.email" : "Электронная почта",
+	"what.item.email_pickaxe" : "Кирка из элекронной почты",
+	"what.item.email_axe" : "Топор из элекронной почты",
+	"what.item.email_hoe" : "Иотыга из элекронной почты",
+	"what.item.email_sword" : "Меч из элекронной почты",
+	"what.item.email_shovel" : "Лопата из элекронной почты",
+	
+
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.item.music_disc_creator" : "помогите.",
-	
-	
+
+
 	"what.block.brazil": "Блок Бразилии",
 	"what.block.windows12": "Windows 12",
 	"what.block.uranium_ore": "Урановая руда",
