@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/templates/display_as_block",
+	"parent": "minecraft:item/templates/display_as_block_2",
 	"textures": {
 		"1": "block/netherite_block",
 		"2": "block/iron_block",
