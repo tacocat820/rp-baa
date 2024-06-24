@@ -26,6 +26,7 @@
   {"predicate": {"custom_model_data": 32016},"model": "minecraft:item/block/demon_core/closed"},
   {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/block/demon_core/no_top"},
   {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/block/demon_core/no_top_no_rod"},
-  {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/block/demon_core/bowl"}
+  {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/block/demon_core/bowl"},
+  {"predicate": {"custom_model_data": 32020},"model": "minecraft:item/block/pipe_bomb"}
   ]
 }
