@@ -18,5 +18,7 @@
     "what.nokia":
 	{"category": "player","sounds": [{"name": "what/nokia","stream": false}]},
     "what.destroyer":
-	{"category": "player","sounds": [{"name": "what/creator","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/creator","stream": true}]},
+    "what.pipe_bomb":
+	{"category": "player","sounds": [{"name": "what/pipe_bomb","stream": false}]}
 }
