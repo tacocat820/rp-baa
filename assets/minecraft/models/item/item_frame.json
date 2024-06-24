@@ -20,6 +20,12 @@
   {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/block/backrooms_carpet"},
   {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/block/crafting_table_2"},
   {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/block/obama"},
-  {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/block/trash_can"}
+  {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/block/trash_can"},
+
+  {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/block/demon_core/open"},
+  {"predicate": {"custom_model_data": 32016},"model": "minecraft:item/block/demon_core/closed"},
+  {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/block/demon_core/no_top"},
+  {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/block/demon_core/no_top_no_rod"},
+  {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/block/demon_core/bowl"}
   ]
 }
