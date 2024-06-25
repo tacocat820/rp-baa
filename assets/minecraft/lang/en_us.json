@@ -50,6 +50,11 @@
 	"what.block.trash_can" : "Trash can",
 	"what.block.demon_core" : "Demon core",
 	"what.block.pipe_bomb" : "Pipe bomb",
+	"what.block.lego" : "Lego®",
+	
+	
+	"death.attack.foot.pain": "%1$s stepped on lego",
+	
 
 	"what.message.homeless": "<Homeless villager> give me chezburger crumbs pls 🥺",
 
