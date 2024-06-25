@@ -20,5 +20,11 @@
     "what.destroyer":
 	{"category": "player","sounds": [{"name": "what/creator","stream": true}]},
     "what.pipe_bomb":
-	{"category": "player","sounds": [{"name": "what/pipe_bomb","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/pipe_bomb","stream": false}]},
+    "what.uranium":
+	{"category": "player","sounds": [{"name": "what/uranium","stream": false}]},
+    "what.metal_pipe":
+	{"category": "player","sounds": [{"name": "what/metal_pipe","stream": false}]},
+    "what.tadaaa":
+	{"category": "player","sounds": [{"name": "what/tadaaa","stream": false}]}
 }
