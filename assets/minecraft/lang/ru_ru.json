@@ -1,7 +1,7 @@
 {
 	"what.help.pages_command":", чтобы показать N-ую страницу справки.",
 	"what.help.page":"Страница ",
-	
+	"what.help.page.1":"1 - Содержание\n2 - Верстак 2",
 	
 	"what.item.cheeseburger": "Чизбургер",
 	"what.item.cheeseburger_crumbs": "Чизбургер (умер)",
@@ -28,10 +28,10 @@
 	"what.item.email_hoe" : "Иотыга из элекронной почты",
 	"what.item.email_sword" : "Меч из элекронной почты",
 	"what.item.email_shovel" : "Лопата из элекронной почты",
-	
 	"what.item.melon_gun" : "Арбузная пушка",
-	
 	"what.item.fith_" : "fire in the hole",
+	"what.item.nokia" : "Nokia 3310",
+	"what.item.nokia_sword" : "Меч из Nokia 3310",
 	
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
