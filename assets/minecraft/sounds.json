@@ -26,5 +26,7 @@
     "what.metal_pipe":
 	{"category": "player","sounds": [{"name": "what/metal_pipe","stream": false}]},
     "what.tadaaa":
-	{"category": "player","sounds": [{"name": "what/tadaaa","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/tadaaa","stream": false}]},
+    "what.fith":
+	{"category": "player","sounds": [{"name": "what/fire_in_the_hole","stream": false}]}
 }
