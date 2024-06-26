@@ -32,6 +32,7 @@
 	"what.item.fith_" : "fire in the hole",
 	"what.item.nokia" : "Nokia 3310",
 	"what.item.nokia_sword" : "Меч из Nokia 3310",
+	"what.item.beans" : "Бобы",
 	
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -54,6 +55,8 @@
 	"what.block.trash_can" : "Мусорка",
 	"what.block.demon_core" : "Заряд-демон",
 	"what.block.pipe_bomb" : "Трубчатая бомба",
+	
+	"what.block.beans_plant" : "Бобовое растение",
 	
 	
 	

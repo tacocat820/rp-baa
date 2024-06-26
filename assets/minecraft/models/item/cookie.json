@@ -18,6 +18,7 @@
     },
     {"predicate": {"custom_model_data": 32002},"model": "minecraft:item/item/meth_lollipop"},
 	{"predicate": {"custom_model_data": 32003},"model": "minecraft:item/item/pen"},
-	{"predicate": {"custom_model_data": 32004},"model": "minecraft:item/item/fith_"}
+	{"predicate": {"custom_model_data": 32004},"model": "minecraft:item/item/fith_"},
+	{"predicate": {"custom_model_data": 32005},"model": "minecraft:item/item/beans"}
   ]
 }

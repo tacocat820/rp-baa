@@ -31,7 +31,7 @@
 	"what.item.melon_gun" : "Melon gun",
 	"what.item.fith_" : "fire in the hole",
 	"what.item.nokia" : "Nokia phone",
-	"what.item.nokia_sword" : "Nokia sword",
+	"what.item.beans" : "Beans",
 	
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -55,6 +55,7 @@
 	"what.block.demon_core" : "Demon core",
 	"what.block.pipe_bomb" : "Pipe bomb",
 	"what.block.lego" : "Lego®",
+	"what.block.beans_plant" : "Beans plant",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
