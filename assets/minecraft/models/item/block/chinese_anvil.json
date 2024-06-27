@@ -1,0 +1,49 @@
+{
+	"parent": "minecraft:item/templates/display_as_block",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/block/chinese_anvil",
+		"particle": "item/block/chinese_anvil"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 4],
+			"to": [14, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 0, 11]},
+			"faces": {
+				"north": {"uv": [6.5, 3.5, 9.5, 4], "texture": "#0"},
+				"east": {"uv": [7, 5, 9, 5.5], "texture": "#0"},
+				"south": {"uv": [2, 7, 5, 7.5], "texture": "#0"},
+				"west": {"uv": [6.5, 7, 8.5, 7.5], "texture": "#0"},
+				"up": {"uv": [6.5, 2, 3.5, 0], "texture": "#0"},
+				"down": {"uv": [6.5, 2, 3.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 6, 3],
+			"to": [15, 12, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 8, 11]},
+			"faces": {
+				"north": {"uv": [3.5, 4, 7, 5.5], "texture": "#0"},
+				"east": {"uv": [3.5, 5.5, 6, 7], "texture": "#0"},
+				"south": {"uv": [0, 5, 3.5, 6.5], "texture": "#0"},
+				"west": {"uv": [6, 5.5, 8.5, 7], "texture": "#0"},
+				"up": {"uv": [3.5, 2.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [3.5, 2.5, 0, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 2, 5],
+			"to": [12, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 0, 11]},
+			"faces": {
+				"north": {"uv": [6.5, 1.5, 8.5, 2.5], "texture": "#0"},
+				"east": {"uv": [7, 4, 8.5, 5], "texture": "#0"},
+				"south": {"uv": [6.5, 2.5, 8.5, 3.5], "texture": "#0"},
+				"west": {"uv": [5, 7, 6.5, 8], "texture": "#0"},
+				"up": {"uv": [2, 8, 0, 6.5], "texture": "#0"},
+				"down": {"uv": [8.5, 0, 6.5, 1.5], "texture": "#0"}
+			}
+		}
+	]
+}
