@@ -34,6 +34,8 @@
   {"predicate": {"custom_model_data": 32023},"model": "minecraft:item/block/beans_plant/1"},
   {"predicate": {"custom_model_data": 32024},"model": "minecraft:item/block/beans_plant/2"},
 
-  {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/block/demon_core/oops"}
+  {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/block/demon_core/oops"},
+  
+  {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/block/oil_still"}
   ]
 }
