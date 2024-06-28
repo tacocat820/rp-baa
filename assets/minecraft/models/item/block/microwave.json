@@ -1,0 +1,22 @@
+{
+	"parent": "minecraft:item/templates/display_as_block",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/block/microwave",
+		"particle": "item/block/microwave"
+	},
+	"elements": [
+		{
+			"from": [-4, 0, 0],
+			"to": [22, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 6.5, 8], "texture": "#0"},
+				"east": {"uv": [0, 8, 4, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 6.5, 4], "texture": "#0"},
+				"west": {"uv": [4, 8, 8, 12], "texture": "#0"},
+				"up": {"uv": [13, 4, 6.5, 0], "texture": "#0"},
+				"down": {"uv": [13, 4, 6.5, 8], "texture": "#0"}
+			}
+		}
+	]
+}
