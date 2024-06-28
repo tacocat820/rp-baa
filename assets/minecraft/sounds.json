@@ -30,5 +30,7 @@
     "what.fith":
 	{"category": "player","sounds": [{"name": "what/fire_in_the_hole","stream": false}]},
     "what.siren":
-	{"category": "player","sounds": [{"name": "what/siren","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/siren","stream": false}]},
+    "what.bruh":
+	{"category": "player","sounds": [{"name": "what/bruh","stream": false}]}
 }
