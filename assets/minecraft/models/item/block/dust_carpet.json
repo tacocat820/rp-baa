@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/carpet",
+	 "textures": {
+		"b": "item/block/dust"
+	 }
+ }

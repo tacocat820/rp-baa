@@ -38,6 +38,10 @@
   
   {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/block/oil_still"},
   {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/block/bing_chilling"},
-  {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/block/chinese_anvil"}
+  {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/block/chinese_anvil"},
+  
+  {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/block/dust"},
+  {"predicate": {"custom_model_data": 32030},"model": "minecraft:item/block/solid_dust"},
+  {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/block/dust_carpet"}
   ]
 }
