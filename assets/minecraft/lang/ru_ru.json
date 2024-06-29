@@ -67,6 +67,7 @@
 	"what.block.solid_dust" : "Твёрдая пыль",
 	"what.block.dust_carpet" : "Ковёр из пыли",
 	"what.block.microwave" : "Микроволновка",
+	"what.block.plasma" : "Плазма",
 	
 	
 	
@@ -80,5 +81,5 @@
 	"what.mob.pillager" : "Разбойник²",
 	"what.mob.gaming_chair" : "Кресло игровое",
 	"what.mob.betterhorse" : "ОЛЕНЬ",
-	"what.mob.vroomba" : "Vroomba"
+	"what.mob.vroomba" : "Пылесос"
 }
