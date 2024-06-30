@@ -16,6 +16,7 @@
       {"predicate": {"custom_model_data": 32003},"model": "minecraft:item/ent/pillager/attack"},
       {"predicate": {"custom_model_data": 32004},"model": "minecraft:item/ent/gaming_chair"},
       {"predicate": {"custom_model_data": 32005},"model": "minecraft:item/ent/vroomba"},
-      {"predicate": {"custom_model_data": 32006},"model": "minecraft:item/ent/plane"}
+      {"predicate": {"custom_model_data": 32006},"model": "minecraft:item/ent/plane"},
+      {"predicate": {"custom_model_data": 32007},"model": "minecraft:item/ent/donalds"}
     ]
   }
