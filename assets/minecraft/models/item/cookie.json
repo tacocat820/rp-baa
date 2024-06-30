@@ -23,6 +23,8 @@
     {"predicate": {"custom_model_data": 32006},"model": "minecraft:item/item/banana"},
     {"predicate": {"custom_model_data": 32007},"model": "minecraft:item/item/uranium"},
     {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/item/cucumber"},
-    {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/fire"}
+    {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/fire"},
+    {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/villager_meat"},
+    {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/villager_meat_raw"}
   ]
 }
