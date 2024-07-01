@@ -426,6 +426,7 @@
     },
     {"predicate": {"custom_model_data": 32005},"model": "minecraft:item/item/email"},
     {"predicate": {"custom_model_data": 32006},"model": "minecraft:item/item/screwdriver"},
-	{"predicate": {"custom_model_data": 32007},"model": "minecraft:item/item/dust"}
+	  {"predicate": {"custom_model_data": 32007},"model": "minecraft:item/item/dust"},
+    {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/ent/cable"}
   ]
 }
