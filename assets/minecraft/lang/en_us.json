@@ -40,6 +40,7 @@
 	"what.item.uranium" : "Uranium",
 	"what.item.villager_meat" : "Cooked villager",
 	"what.item.villager_meat_raw" : "Villager",
+	"what.item.obamium" : "Obamium",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -88,5 +89,6 @@
 	"what.mob.gaming_chair" : "Gaming chair",
 	"what.mob.betterhorse" : "Notjuan",
 	"what.mob.vroomba" : "Vroomba",
-	"what.mob.cable" : "Cable the cow"
+	"what.mob.cable" : "Cable the cow",
+	"what.mob.mogus" : "Mogus"
 }

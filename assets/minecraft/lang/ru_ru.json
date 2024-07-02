@@ -41,6 +41,7 @@
 	"what.item.uranium" : "Уран",
 	"what.item.villager_meat" : "Жареное мясо крестьянина",
 	"what.item.villager_meat_raw" : "Мясо крестьянина",
+	"what.item.obamium" : "Обамиум",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	
@@ -88,5 +89,6 @@
 	"what.mob.gaming_chair" : "Кресло игровое",
 	"what.mob.betterhorse" : "ОЛЕНЬ",
 	"what.mob.vroomba" : "Пылесос",
-	"what.mob.cable" : "Кол"
+	"what.mob.cable" : "Кол",
+	"what.mob.mogus" : "Могус"
 }

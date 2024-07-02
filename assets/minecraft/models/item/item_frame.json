@@ -45,6 +45,7 @@
   {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/block/dust_carpet"},
   
   {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/block/microwave"},
-  {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/block/plasma"}
+  {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/block/plasma"},
+  {"predicate": {"custom_model_data": 32034},"model": "minecraft:item/item/obamium"}
   ]
 }
