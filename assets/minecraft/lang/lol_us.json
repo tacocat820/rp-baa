@@ -21,8 +21,10 @@
 	"what.item.nokia" : "unbrakbel pfone",
 	"what.item.nokia_sword" : "unbrekbel swows",
 	"what.item.demon_core_mace" : "no-touchy blu glouy thingy on a sticc",
+	"what.item.beans" : "five red things",
 	"what.item.glass_of_oil" : "nah olive oel 🦅🦅",
-	"what.item.obamium" : "obam material",
+	"what.item.knife" : "moguz'z waepon",
+	"what.block.obamium" : "obam material",
 
 	"what.item.cucumber" : "long spoopy gren snek",
 	"what.item.banana" : "bana",
@@ -49,6 +51,8 @@
 	"what.block.demon_core" : "no-touchy blu glouy thingy",
 	"what.block.pipe_bomb" : "woah pibe bomp so kul",
 	"what.block.bing_chilling" : "big resstin'",
+	"what.block.chinese_anvil" : "big resstin's anwil",
+	"what.block.microwave" : "smol wave emitter",
 	"what.block.plasma" : "glo thingy",
 
 	"what.message.homeless": "<por no houm man :(:(> GIV ME UR CHEZFBURGARZ NAW!!!!!1!!1!",
