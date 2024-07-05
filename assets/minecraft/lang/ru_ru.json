@@ -42,6 +42,8 @@
 	"what.item.villager_meat" : "Жареное мясо крестьянина",
 	"what.item.villager_meat_raw" : "Мясо крестьянина",
 	"what.block.obamium" : "Обамиум",
+	"what.item.cooked_seeds" : "Семечки",
+	"what.item.diamond_2" : "Алмаз 2",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	
@@ -75,6 +77,8 @@
 	"what.block.dust_carpet" : "Ковёр из пыли",
 	"what.block.microwave" : "Микроволновка",
 	"what.block.plasma" : "Плазма",
+	"what.block.diamond_ore_2" : "Алмазная руда 2",
+	"what.block.diamond_block_2" : "Алмазный блок 2",
 	
 	
 	

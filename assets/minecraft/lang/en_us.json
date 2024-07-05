@@ -42,6 +42,8 @@
 	"what.item.villager_meat" : "Cooked villager",
 	"what.item.villager_meat_raw" : "Villager",
 	"what.block.obamium" : "Obamium",
+	"what.item.cooked_seeds" : "Cooked seeds",
+	"what.item.diamond_2" : "Diamond 2",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -76,6 +78,8 @@
 	"what.block.dust_carpet" : "Dust carpet",
 	"what.block.microwave" : "Microwave",
 	"what.block.plasma" : "Plasma",
+	"what.block.diamond_ore_2" : "Diamond ore 2",
+	"what.block.diamond_block_2" : "Diamond block 2",
 	
 	
 	
