@@ -428,6 +428,7 @@
     {"predicate": {"custom_model_data": 32006},"model": "minecraft:item/item/screwdriver"},
 	{"predicate": {"custom_model_data": 32007},"model": "minecraft:item/item/dust"},
     {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/ent/cable"},
-	{"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/obamium"}
+    {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/obamium"},
+    {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/diamond_2"}
   ]
 }
