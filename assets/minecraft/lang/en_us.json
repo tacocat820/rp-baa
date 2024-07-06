@@ -44,6 +44,7 @@
 	"what.block.obamium" : "Obamium",
 	"what.item.cooked_seeds" : "Cooked seeds",
 	"what.item.diamond_2" : "Diamond 2",
+	"what.item.gold_2" : "Gold 2",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -80,6 +81,11 @@
 	"what.block.plasma" : "Plasma",
 	"what.block.diamond_ore_2" : "Diamond ore 2",
 	"what.block.diamond_block_2" : "Diamond block 2",
+	"what.block.redstone_ore_2" : "Redstone ore 2",
+	"what.block.redstone_2" : "Redstone 2",
+	"what.block.redstone_block_2" : "Redstone block 2",
+	"what.block.gold_ore_2" : "Gold ore 2",
+	"what.block.gold_block_2" : "Gold block 2",
 	
 	
 	

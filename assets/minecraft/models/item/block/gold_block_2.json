@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/block",
+	 "textures": {
+		"b": "item/block/gold_block_2"
+	 }
+ }
