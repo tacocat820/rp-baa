@@ -48,6 +48,10 @@
   {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/block/plasma"},
   {"predicate": {"custom_model_data": 32034},"model": "minecraft:item/item/obamium"},
   {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/block/diamond_ore_2"},
-  {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/block/diamond_block_2"}
+  {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/block/diamond_block_2"},
+  
+  {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/block/redstone_ore_2"},
+  {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/block/redstone_block_2"},
+  {"predicate": {"custom_model_data": 32039},"model": "minecraft:item/block/redstone_2"}
   ]
 }
