@@ -1,0 +1,11 @@
+{
+   "parent": "minecraft:item/templates/block_6s",
+    "textures": {
+       "0": "item/block/unfurnace_side",
+	   "1": "item/block/unfurnace_side",
+	   "2": "item/block/unfurnace_front",
+	   "3": "item/block/unfurnace_side",
+	   "4": "item/block/unfurnace_top",
+	   "5": "item/block/unfurnace_top"
+    }
+}
