@@ -32,5 +32,7 @@
     "what.siren":
 	{"category": "player","sounds": [{"name": "what/siren","stream": false}]},
     "what.bruh":
-	{"category": "player","sounds": [{"name": "what/bruh","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/bruh","stream": false}]},
+    "what.pixie_dust_notification":
+	{"category": "player","sounds": [{"name": "what/pixie_dust_notification","stream": false}]}
 }
