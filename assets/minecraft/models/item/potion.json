@@ -20,6 +20,8 @@
       {"predicate": {"custom_model_data": 32007},"model": "minecraft:item/ent/donalds"},
       {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/ent/mogus"},
       {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/ent/pigeon"},
-      {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/ent/hmmm"}
+      {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/ent/hmmm"},
+	  {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/ent/gigachicken"},
+	  {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/ent/gigachicken_attack"}
     ]
   }
