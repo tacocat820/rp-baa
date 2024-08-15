@@ -13,6 +13,7 @@
   {"predicate": {"custom_model_data": 32006},"model": "minecraft:item/item/nokia"},
 	{"predicate": {"custom_model_data": 32007},"model": "minecraft:item/item/glass_of_oil"},
   {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/item/soap"},
-	{"predicate": {"custom_model_data": 32009},"model": "minecraft:item/bread"}
+	{"predicate": {"custom_model_data": 32009},"model": "minecraft:item/bread"},
+	{"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/shapka"}
   ]
 }
