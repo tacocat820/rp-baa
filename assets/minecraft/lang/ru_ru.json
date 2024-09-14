@@ -48,6 +48,7 @@
 	"what.item.gold_2" : "Золото 2",
 	"what.item.flying_bread" : "Хлеб-самолёт",
 	"what.item.shapka" : "Шапка",
+	"what.item.glass_shards" : "Осколки стекла",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	
@@ -90,6 +91,8 @@
 	"what.block.gold_block_2" : "Золотой блок 2",
 	"what.block.nokia_block" : "Блок из нокиа",
 	
+	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
+
 	
 	
 	"death.attack.foot.pain": "%1$s наступил на лего",

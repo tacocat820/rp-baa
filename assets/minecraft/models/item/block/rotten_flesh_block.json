@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/block",
+	 "textures": {
+		"b": "item/block/rotten_flesh_block"
+	 }
+ }

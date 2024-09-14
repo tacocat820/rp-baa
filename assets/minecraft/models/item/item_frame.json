@@ -57,7 +57,8 @@
   {"predicate": {"custom_model_data": 32041},"model": "minecraft:item/block/gold_block_2"},
   {"predicate": {"custom_model_data": 32042},"model": "minecraft:item/block/uranium_block"},
   {"predicate": {"custom_model_data": 32043},"model": "minecraft:item/block/nokia_block"},
-  {"predicate": {"custom_model_data": 32044},"model": "minecraft:item/block/unfurnace"}
+  {"predicate": {"custom_model_data": 32044},"model": "minecraft:item/block/unfurnace"},
+  {"predicate": {"custom_model_data": 32045},"model": "minecraft:item/block/rotten_flesh_block"}
   
   ]
 }
