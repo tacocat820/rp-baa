@@ -28,6 +28,7 @@
     {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/villager_meat_raw"},
 	  {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/cooked_seeds"},
     {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/cow"},
-    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/cow_2"}
+    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/cow_2"},
+    {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/block/tree"}
   ]
 }
