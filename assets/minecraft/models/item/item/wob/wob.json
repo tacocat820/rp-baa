@@ -1,0 +1,5 @@
+{
+	"credit": "Made automatically",
+	"parent": "item/handheld",
+	"textures": {"layer0": "item/item/wob/wob"}
+}

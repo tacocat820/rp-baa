@@ -24,6 +24,18 @@
       {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/ent/gigachicken"},
       {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/ent/gigachicken_attack"},
       {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/ent/mosscow"},
-      {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/ent/ritual"}
+      {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/ent/ritual"},
+      {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/ent/corab/walk"},
+      {"predicate": {"custom_model_data": 32016},"model": "minecraft:item/ent/corab/attack"},
+      {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/ent/corab/what"},
+      {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/ent/puffercopter/walk"},
+      {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/ent/puffercopter/attack"},
+      {"predicate": {"custom_model_data": 32020},"model": "minecraft:item/ent/baa/walk"},
+      {"predicate": {"custom_model_data": 32021},"model": "minecraft:item/ent/baa/attack"},
+      {"predicate": {"custom_model_data": 32022},"model": "minecraft:item/ent/drem/walk"},
+      {"predicate": {"custom_model_data": 32023},"model": "minecraft:item/ent/drem/transform"},
+      {"predicate": {"custom_model_data": 32024},"model": "minecraft:item/ent/drem/run"},
+      {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/ent/shrek/walk"},
+      {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/ent/shrek/home"}
     ]
   }

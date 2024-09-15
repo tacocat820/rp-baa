@@ -49,6 +49,7 @@
 	"what.item.flying_bread" : "Flying bread",
 	"what.item.shapka" : "Shapka",
 	"what.item.glass_shards" : "Glass shards",
+	"what.item.wob" : "woB",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -100,6 +101,10 @@
 	
 
 	"what.message.homeless": "<Homeless villager> give me chezburger crumbs pls 🥺",
+	"what.message.feed_ritual": "<Pentagram> FEED ME 30 VILLAGERS AND YOU WILL BE REWARDED",
+	
+	"what.message.fed_ritual_1": "<Pentagram> ",
+	"what.message.fed_ritual_2": " LEFT",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
