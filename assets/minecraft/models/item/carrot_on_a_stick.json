@@ -15,6 +15,7 @@
   {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/item/soap"},
 	{"predicate": {"custom_model_data": 32009},"model": "minecraft:item/bread"},
 	{"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/shapka"},
-	{"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/fire_extinguisher"}
+	{"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/fire_extinguisher"},
+	{"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/wave_bucket"}
   ]
 }

@@ -52,6 +52,8 @@
 	"what.item.wob" : "куЛ",
 	"what.item.fire_extinguisher" : "Огнетушитель",
 	"what.item.tree" : "Дерево",
+	"what.item.grassblockmond" : "Дёрнмаз",
+	"what.item.wave_bucket" : "Ведро волны",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	
@@ -84,6 +86,7 @@
 	"what.block.solid_dust" : "Твёрдая пыль",
 	"what.block.dust_carpet" : "Ковёр из пыли",
 	"what.block.microwave" : "Микроволновка",
+	"what.block.micro" : "Микро",
 	"what.block.plasma" : "Плазма",
 	"what.block.diamond_ore_2" : "Алмазная руда 2",
 	"what.block.diamond_block_2" : "Алмазный блок 2",

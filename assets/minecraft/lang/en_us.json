@@ -52,6 +52,8 @@
 	"what.item.wob" : "woB",
 	"what.item.fire_extinguisher" : "Fire extinguisher",
 	"what.item.tree" : "Tree",
+	"what.item.grassblockmond" : "Grassblockmond",
+	"what.item.wave_bucket" : "Bucket of wave",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -85,6 +87,7 @@
 	"what.block.solid_dust" : "Solid dust",
 	"what.block.dust_carpet" : "Dust carpet",
 	"what.block.microwave" : "Microwave",
+	"what.block.micro" : "Micro",
 	"what.block.plasma" : "Plasma",
 	"what.block.diamond_ore_2" : "Diamond ore 2",
 	"what.block.diamond_block_2" : "Diamond block 2",

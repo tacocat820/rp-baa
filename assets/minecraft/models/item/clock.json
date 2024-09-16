@@ -431,6 +431,8 @@
     {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/obamium"},
     {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/diamond_2"},
     {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/gold_2"},
-    {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/glass_shards"}
+    {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/glass_shards"},
+    {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/deemond"},
+    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/ent/wave"}
   ]
 }
