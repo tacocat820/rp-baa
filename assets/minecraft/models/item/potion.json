@@ -37,6 +37,7 @@
       {"predicate": {"custom_model_data": 32024},"model": "minecraft:item/ent/drem/run"},
       {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/ent/shrek/walk"},
       {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/ent/shrek/home"},
-      {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/ent/psycho"}
+      {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/ent/psycho"},
+      {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/ent/smurf_cat"}
     ]
   }
