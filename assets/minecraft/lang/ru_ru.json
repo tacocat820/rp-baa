@@ -54,6 +54,7 @@
 	"what.item.tree" : "Дерево",
 	"what.item.grassblockmond" : "Дёрнмаз",
 	"what.item.wave_bucket" : "Ведро волны",
+	"what.item.caramel" : "Карамель",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	
@@ -96,6 +97,7 @@
 	"what.block.gold_ore_2" : "Золотая руда 2",
 	"what.block.gold_block_2" : "Золотой блок 2",
 	"what.block.nokia_block" : "Блок из нокиа",
+	"what.block.caramel_bricks" : "Кирпичи из карамели",
 	
 	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
 
@@ -115,5 +117,6 @@
 	"what.mob.cable" : "Кол",
 	"what.mob.mogus" : "Могус",
 	"what.mob.pigeon" : "Дрон",
-	"what.mob.hmmm" : "хмммммммм"
+	"what.mob.hmmm" : "хмммммммм",
+	"what.mob.psycho" : "псих"
 }

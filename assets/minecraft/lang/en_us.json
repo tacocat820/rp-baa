@@ -54,6 +54,7 @@
 	"what.item.tree" : "Tree",
 	"what.item.grassblockmond" : "Grassblockmond",
 	"what.item.wave_bucket" : "Bucket of wave",
+	"what.item.caramel" : "Caramel",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -99,6 +100,7 @@
 	"what.block.nokia_block" : "Nokia block",
 	"what.block.unfurnace" : "Unfurnace",
 	"what.block.rotten_flesh_block" : "Rotten flesh block",
+	"what.block.caramel_bricks" : "Caramel bricks",
 	
 	
 	
@@ -120,5 +122,6 @@
 	"what.mob.cable" : "Cable the cow",
 	"what.mob.mogus" : "Mogus",
 	"what.mob.pigeon" : "Goverment drone",
-	"what.mob.hmmm" : "hmmmmmmmmmm"
+	"what.mob.hmmm" : "hmmmmmmmmmm",
+	"what.mob.psycho" : "psycho"
 }

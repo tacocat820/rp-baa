@@ -59,7 +59,8 @@
   {"predicate": {"custom_model_data": 32043},"model": "minecraft:item/block/nokia_block"},
   {"predicate": {"custom_model_data": 32044},"model": "minecraft:item/block/unfurnace"},
   {"predicate": {"custom_model_data": 32045},"model": "minecraft:item/block/rotten_flesh_block"},
-  {"predicate": {"custom_model_data": 32046},"model": "minecraft:item/block/micro"}
+  {"predicate": {"custom_model_data": 32046},"model": "minecraft:item/block/micro"},
+  {"predicate": {"custom_model_data": 32047},"model": "minecraft:item/block/caramel_bricks"}
   
   ]
 }
