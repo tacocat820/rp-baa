@@ -433,6 +433,12 @@
     {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/gold_2"},
     {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/glass_shards"},
     {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/deemond"},
-    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/ent/wave"}
+    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/ent/wave"},
+    {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/item/deer_nft"},
+    {"predicate": {"custom_model_data": 32016},"model": "minecraft:item/item/whatever_nft"},
+    {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/item/death_nft"},
+    {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/cube_nft"},
+    {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/item/cow_nft"},
+    {"predicate": {"custom_model_data": 32020},"model": "minecraft:item/item/nft"}
   ]
 }

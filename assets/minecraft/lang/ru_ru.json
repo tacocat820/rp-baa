@@ -55,6 +55,8 @@
 	"what.item.grassblockmond" : "Дёрнмаз",
 	"what.item.wave_bucket" : "Ведро волны",
 	"what.item.caramel" : "Карамель",
+	"what.item.soap" : "Мыло",
+	"what.item.nft" : "НФТ",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	
@@ -107,6 +109,10 @@
 	
 
 	"what.message.homeless": "<Бездомный> ддай чезбругрер пж 🥺",
+	"what.message.feed_ritual": "<Pentagram> ран переведи мне лень",
+	
+	"what.message.fed_ritual_1": "<Pentagram> ",
+	"what.message.fed_ritual_2": " LEFT",
 
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
@@ -118,5 +124,7 @@
 	"what.mob.mogus" : "Могус",
 	"what.mob.pigeon" : "Дрон",
 	"what.mob.hmmm" : "хмммммммм",
-	"what.mob.psycho" : "псих"
+	"what.mob.psycho" : "псих",
+	"what.mob.smurf_cat" : "ШАЙЛУШАЙ",
+	"what.mob.shrek" : "Шрек"
 }

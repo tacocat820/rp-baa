@@ -42,6 +42,8 @@
 	"what.item.grassblockmond" : "2 many leturs",
 	"what.item.wave_bucket" : "bukut ov BIG STRON WATURH",
 	"what.item.caramel" : "sugar meth",
+	"what.item.soap" : "2 be clen",
+	"what.item.nft" : "ekspensive pic",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.item.music_disc_creator" : "Round loud thing UHHH",
@@ -72,6 +74,9 @@
 
 	"what.message.homeless": "<por no houm man :(:(> GIV ME UR CHEZFBURGARZ NAW!!!!!1!!1!",
 	"what.message.feed_ritual": "<Pentugrom> FED ME 30 VILAGURZ AND U WIL GET KUL STUVS!!!!",
+	
+	"what.message.fed_ritual_1": "<Pentagram> ",
+	"what.message.fed_ritual_2": " RIGHT",
 
 	"what.mob.new_zealand" : "kiwwi burb houm",
 	"what.mob.pillager" : "weird grey guy but bedder",
@@ -81,5 +86,7 @@
 	"what.mob.cable" : "bagel teh coew",
 	"what.mob.mogus" : "moguz",
 	"what.mob.pigeon" : "spy flie",
-	"what.mob.hmmm" : "hmmmhhmmhmhmhhmhmmhmhmhmhmhmmhhmhhmhhhhhhhhhhhhhhhh"
+	"what.mob.hmmm" : "hmmmhhmmhmhmhhmhmmhmhmhmhmhmmhhmhhmhhhhhhhhhhhhhhhh",
+	"what.mob.smurf_cat" : "blu car",
+	"what.mob.shrek" : "gren srhek"
 }

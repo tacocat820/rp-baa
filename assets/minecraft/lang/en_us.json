@@ -55,6 +55,8 @@
 	"what.item.grassblockmond" : "Grassblockmond",
 	"what.item.wave_bucket" : "Bucket of wave",
 	"what.item.caramel" : "Caramel",
+	"what.item.soap" : "Soap",
+	"what.item.nft" : "NFT",
 
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -123,5 +125,7 @@
 	"what.mob.mogus" : "Mogus",
 	"what.mob.pigeon" : "Goverment drone",
 	"what.mob.hmmm" : "hmmmmmmmmmm",
-	"what.mob.psycho" : "psycho"
+	"what.mob.psycho" : "psycho",
+	"what.mob.smurf_cat" : "Шайлушай",
+	"what.mob.shrek" : "Shrek"
 }
