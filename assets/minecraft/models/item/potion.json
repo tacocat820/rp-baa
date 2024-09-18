@@ -38,6 +38,9 @@
       {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/ent/shrek/walk"},
       {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/ent/shrek/home"},
       {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/ent/psycho"},
-      {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/ent/smurf_cat"}
+      {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/ent/smurf_cat"},
+      {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/ent/fnisser/walk"},
+      {"predicate": {"custom_model_data": 32030},"model": "minecraft:item/ent/fnisser/rock"},
+      {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/ent/fnisser/sniff"}
     ]
   }
