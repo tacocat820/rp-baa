@@ -35,6 +35,8 @@
 	{"category": "player","sounds": [{"name": "what/bruh","stream": false}]},
     "what.iamsteve":
 	{"category": "player","sounds": [{"name": "what/iamsteve","stream": false}]},
+    "what.bite":
+	{"category": "player","sounds": [{"name": "what/bite","stream": false}]},
     "what.pixie_dust_notification":
 	{"category": "player","sounds": [{"name": "what/pixie_dust_notification","stream": false}]},
     "what.unfurnace":
