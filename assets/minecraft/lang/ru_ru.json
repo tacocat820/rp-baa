@@ -6,6 +6,7 @@
 	"what.item.cheeseburger": "Чизбургер",
 	"what.item.cheeseburger_crumbs": "Чизбургер (умер)",
 	"what.item.cow_corpse" : "Труп коровы",
+	"what.item.pig_corpse" : "Труп свиньи",
 	
 	"what.item.dirt_sword": "Земляной меч",
 	"what.item.dirt_pickaxe": "Земляная кирка",
@@ -126,5 +127,7 @@
 	"what.mob.hmmm" : "хмммммммм",
 	"what.mob.psycho" : "псих",
 	"what.mob.smurf_cat" : "ШАЙЛУШАЙ",
-	"what.mob.shrek" : "Шрек"
+	"what.mob.shrek" : "Шрек",
+	"what.mob.fnisser" : "Мерзость",
+	"what.mob.whatever" : "Свиньяя"
 }

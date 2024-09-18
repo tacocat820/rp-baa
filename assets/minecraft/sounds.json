@@ -38,5 +38,7 @@
     "what.pixie_dust_notification":
 	{"category": "player","sounds": [{"name": "what/pixie_dust_notification","stream": false}]},
     "what.unfurnace":
-	{"category": "player","sounds": [{"name": "what/unfurnace","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/unfurnace","stream": false}]},
+    "what.scream":
+	{"category": "player","sounds": [{"name": "what/scream","stream": false}]}
 }

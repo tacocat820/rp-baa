@@ -6,6 +6,7 @@
 	"what.item.cheeseburger": "Cheeseburger",
 	"what.item.cheeseburger_crumbs": "Cheeseburger crumbs",
 	"what.item.cow_corpse" : "Cow corpse",
+	"what.item.pig_corpse" : "Pig corpse",
 	
 	"what.item.dirt_sword": "Dirt sword",
 	"what.item.dirt_pickaxe": "Dirt pickaxe",
@@ -127,5 +128,7 @@
 	"what.mob.hmmm" : "hmmmmmmmmmm",
 	"what.mob.psycho" : "psycho",
 	"what.mob.smurf_cat" : "Шайлушай",
-	"what.mob.shrek" : "Shrek"
+	"what.mob.shrek" : "Shrek",
+	"what.mob.fnisser" : "Fnisser",
+	"what.mob.whatever" : "Pigg"
 }
