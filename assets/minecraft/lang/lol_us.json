@@ -6,6 +6,7 @@
 	"what.item.cheeseburger": "cheezfburgor frum teh tre",
 	"what.item.cheeseburger_crumbs": "lil cheezfburgor 4 teh birdies",
 	"what.item.cow_corpse" : "ded caw LOLLLLLL",
+	"what.item.pig_corpse" : "ded PIG laallalalalal",
     
     "what.item.dirt_sword": "dirtey sord",
 	"what.item.dirt_pickaxe": "dirtey pikakse",
@@ -89,5 +90,7 @@
 	"what.mob.hmmm" : "hmmmhhmmhmhmhhmhmmhmhmhmhmhmmhhmhhmhhhhhhhhhhhhhhhh",
 	"what.mob.psycho" : "minefart movei dude",
 	"what.mob.smurf_cat" : "blu car",
-	"what.mob.shrek" : "gren srhek"
+	"what.mob.shrek" : "gren srhek",
+	"what.mob.fnisser" : "fencer",
+	"what.mob.whatever" : "lonnnn fud"
 }
