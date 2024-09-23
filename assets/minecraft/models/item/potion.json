@@ -42,6 +42,7 @@
       {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/ent/fnisser/walk"},
       {"predicate": {"custom_model_data": 32030},"model": "minecraft:item/ent/fnisser/rock"},
       {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/ent/fnisser/sniff"},
-      {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/ent/whatever"}
+      {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/ent/whatever"},
+      {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/ent/irs_plane/idle"}
     ]
   }
