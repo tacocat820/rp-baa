@@ -134,5 +134,7 @@
 	"what.mob.fnisser" : "Fnisser",
 	"what.mob.whatever" : "Pigg",
 	"what.mob.puffercopter" : "Puffercopter",
-	"what.mob.irs_plane" : "IRS"
+	"what.mob.irs_plane" : "IRS",
+	"what.mob.irs_tank" : "IRS TANK",
+	"what.mob.irs_agent" : "IRS AGENT"
 }

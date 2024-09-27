@@ -46,6 +46,8 @@
       {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/ent/irs_plane/idle"},
       {"predicate": {"custom_model_data": 32034},"model": "minecraft:item/ent/irs_tank/idle"},
       {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/ent/irs_tank/kill"},
-      {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/ent/irs_tank/down"}
+      {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/ent/irs_tank/down"},
+      {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/ent/camel"},
+      {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/ent/dolphin"}
     ]
   }

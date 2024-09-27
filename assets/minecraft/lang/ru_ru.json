@@ -133,5 +133,7 @@
 	"what.mob.fnisser" : "Мерзость",
 	"what.mob.whatever" : "Свиньяя",
 	"what.mob.puffercopter" : "Фугалёт",
-	"what.mob.irs_plane" : "Налоговое Управление США"
+	"what.mob.irs_plane" : "Налоговое Управление США",
+	"what.mob.irs_tank" : "Танк Налогового Управления США",
+	"what.mob.irs_agent" : "Агент Налогового Управления США"
 }
