@@ -48,6 +48,7 @@
       {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/ent/irs_tank/kill"},
       {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/ent/irs_tank/down"},
       {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/ent/camel"},
-      {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/ent/dolphin"}
+      {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/ent/dolphin"},
+      {"predicate": {"custom_model_data": 32039},"model": "minecraft:item/ent/lefishe"}
     ]
   }
