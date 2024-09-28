@@ -32,6 +32,7 @@
     {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/block/tree"},
     {"predicate": {"custom_model_data": 32016},"model": "minecraft:item/item/caramel"},
     {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/item/pig"},
-    {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/bee"}
+    {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/bee"},
+    {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/item/lefishe"}
   ]
 }

@@ -1,0 +1,6 @@
+{
+   "parent": "minecraft:item/templates/plant",
+    "textures": {
+       "b": "item/block/die"
+    }
+}
