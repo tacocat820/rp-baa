@@ -50,6 +50,7 @@
       {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/ent/camel"},
       {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/ent/dolphin"},
       {"predicate": {"custom_model_data": 32039},"model": "minecraft:item/ent/lefishe"},
-      {"predicate": {"custom_model_data": 32040},"model": "minecraft:item/ent/ender_dragon"}
+      {"predicate": {"custom_model_data": 32040},"model": "minecraft:item/ent/ender_dragon"},
+      {"predicate": {"custom_model_data": 32041},"model": "minecraft:item/ent/stevejobs"}
     ]
   }
