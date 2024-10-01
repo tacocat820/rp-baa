@@ -2,12 +2,12 @@
 	"what.help.pages_command":", чтобы показать N-ую страницу справки.",
 	"what.help.page":"Страница ",
 	"what.help.page.1":"1 - Содержание\n2 - Верстак 2",
-	
+
 	"what.item.cheeseburger": "Чизбургер",
 	"what.item.cheeseburger_crumbs": "Чизбургер (умер)",
 	"what.item.cow_corpse" : "Труп коровы",
 	"what.item.pig_corpse" : "Труп свиньи",
-	
+
 	"what.item.dirt_sword": "Земляной меч",
 	"what.item.dirt_pickaxe": "Земляная кирка",
 	"what.item.dirt_shovel": "Земляная лопата",
@@ -62,7 +62,7 @@
 	"what.item.iphone" : "Айфон 10421 ПРО МАКС ультра МЕГА ОЛЕНЬ голубь edition",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
-	
+
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.item.music_disc_creator" : "помогите.",
@@ -87,7 +87,7 @@
 	"what.block.bing_chilling" : "Бинг Чиллинг",
 	"what.block.chinese_anvil" : "Китайский наковальня, +15 социальная кредит за один использовать",
 	"what.block.beans_plant" : "Бобовое растение",
-	
+
 	"what.block.dust" : "Блок пыли",
 	"what.block.solid_dust" : "Твёрдая пыль",
 	"what.block.dust_carpet" : "Ковёр из пыли",
@@ -103,20 +103,21 @@
 	"what.block.gold_block_2" : "Золотой блок 2",
 	"what.block.nokia_block" : "Блок из нокиа",
 	"what.block.caramel_bricks" : "Кирпичи из карамели",
-	
-	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
 
-	
-	
+	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
+	"what.block.die" : "СДОХНИ",
+
+
+
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
-	
+
 
 	"what.message.homeless": "<Бездомный> ддай чезбругрер пж 🥺",
 	"what.message.feed_ritual": "<Pentagram> ран переведи мне лень",
 	"what.message.door_open": "Отдай своего сына, чтобы мы могли съесть его сегодня",
 	"what.message.door_close": "а завтра мы съедим моего сына. Так мы приготовили моего сына и съели его.",
-	
+
 	"what.message.fed_ritual_1": "<Pentagram> ",
 	"what.message.fed_ritual_2": " LEFT",
 
