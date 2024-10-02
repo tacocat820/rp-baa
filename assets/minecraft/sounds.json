@@ -44,5 +44,7 @@
     "what.scream":
 	{"category": "player","sounds": [{"name": "what/scream","stream": false}]},
     "what.lefishe":
-	{"category": "player","sounds": [{"name": "what/lefishe","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/lefishe","stream": false}]},
+	"what.ohmypc":
+	{"category": "player","sounds": [{"name": "what/ohmypc","stream": false}]}
 }

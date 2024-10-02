@@ -65,7 +65,9 @@
   {"predicate": {"custom_model_data": 32049},"model": "minecraft:item/item/sand"},
   {"predicate": {"custom_model_data": 32050},"model": "minecraft:item/block/flower"},
   {"predicate": {"custom_model_data": 32051},"model": "minecraft:item/block/die"},
-  {"predicate": {"custom_model_data": 32052},"model": "minecraft:item/block/door2"}
+  {"predicate": {"custom_model_data": 32052},"model": "minecraft:item/block/door2"},
+  {"predicate": {"custom_model_data": 32053},"model": "minecraft:item/block/pc"},
+  {"predicate": {"custom_model_data": 32054},"model": "minecraft:item/block/pc_off"}
   
   ]
 }
