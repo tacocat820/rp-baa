@@ -103,6 +103,7 @@
 	"what.block.gold_block_2" : "Золотой блок 2",
 	"what.block.nokia_block" : "Блок из нокиа",
 	"what.block.caramel_bricks" : "Кирпичи из карамели",
+	"what.block.floppa" : "Шлёпа",
 
 	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
 	"what.block.die" : "СДОХНИ",
@@ -118,6 +119,8 @@
 	"what.message.feed_ritual": "<Pentagram> ран переведи мне лень",
 	"what.message.door_open": "Отдай своего сына, чтобы мы могли съесть его сегодня",
 	"what.message.door_close": "а завтра мы съедим моего сына. Так мы приготовили моего сына и съели его.",
+	"what.message.stop_drinking": "<???> ХВАТИТ ПИТЬ МОЧУ!!!",
+	"what.message.laugh": "пхпххыахвхаыхвахыхвахывхахывахыва",
 
 	"what.message.fed_ritual_1": "<Pentagram> ",
 	"what.message.fed_ritual_2": " LEFT",
@@ -144,5 +147,6 @@
 	"what.mob.irs_agent" : "Агент Налогового Управления США",
 	"what.mob.lefishe" : "Le Fishe Au Chocolat",
 	"what.mob.ender_dragon" : "Дурак",
-	"what.mob.steve_jobs" : "Стив Джобс"
+	"what.mob.steve_jobs" : "Стив Джобс",
+	"what.mob.floppa" : "Шлёпа"
 }

@@ -68,7 +68,8 @@
   {"predicate": {"custom_model_data": 32052},"model": "minecraft:item/block/door2"},
   {"predicate": {"custom_model_data": 32053},"model": "minecraft:item/block/pc"},
   {"predicate": {"custom_model_data": 32054},"model": "minecraft:item/block/pc_off"},
-  {"predicate": {"custom_model_data": 32055},"model": "minecraft:item/block/floppa"}
+  {"predicate": {"custom_model_data": 32055},"model": "minecraft:item/block/floppa"},
+  {"predicate": {"custom_model_data": 32056},"model": "minecraft:item/block/sacabambaspis"}
   
   ]
 }

@@ -74,12 +74,14 @@
 	"what.block.diamond_ore_2" : "daimond or 2",
 	"what.block.diamond_block_2" : "daimond blok 2",
 	"what.block.caramel_bricks" : "yammi briks",
+	"what.block.floppa" : "bigg earz bigggggggggggggggggggggggggggg cat",
 
 	"what.message.homeless": "<por no houm man :(:(> GIV ME UR CHEZFBURGARZ NAW!!!!!1!!1!",
 	"what.message.feed_ritual": "<Pentugrom> FED ME 30 VILAGURZ AND U WIL GET KUL STUVS!!!!",
 	"what.message.door_open": "Give up your son so we may eat him today",
 	"what.message.door_close": "and tomorrow we'll eat my son. So we cooked my son and ate him",
-	"what.message.stop_drinking": "<???> QUIT DRINKING PISS",
+	"what.message.stop_drinking": "<???> QUIT DRINKING PEEEE!!111!!!1!!1!!!",
+	"what.message.laugh": "hahahahaahaahdsiaioqadioqw",
 	
 	"what.message.fed_ritual_1": "<Pentagram> ",
 	"what.message.fed_ritual_2": " RIGHT",
@@ -105,5 +107,6 @@
 	"what.mob.irs_agent" : "homan who maek u pay TAXEZZZZZZZ",
 	"what.mob.lefishe" : "Le Fishe Au Chocolat",
 	"what.mob.ender_dragon" : "Ender Dragon 2",
-	"what.mob.steve_jobs" : "APEL MAN"
+	"what.mob.steve_jobs" : "APEL MAN",
+	"what.mob.floppa" : "biggg earz biggggg cat"
 }
