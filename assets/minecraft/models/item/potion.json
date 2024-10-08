@@ -53,6 +53,7 @@
       {"predicate": {"custom_model_data": 32040},"model": "minecraft:item/ent/ender_dragon"},
       {"predicate": {"custom_model_data": 32041},"model": "minecraft:item/ent/stevejobs"},
       {"predicate": {"custom_model_data": 32042},"model": "minecraft:item/ent/polpot/walk"},
-      {"predicate": {"custom_model_data": 32043},"model": "minecraft:item/ent/polpot/torture"}
+      {"predicate": {"custom_model_data": 32043},"model": "minecraft:item/ent/polpot/torture"},
+      {"predicate": {"custom_model_data": 32044},"model": "minecraft:item/ent/floppa"}
     ]
   }
