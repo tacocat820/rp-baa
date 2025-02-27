@@ -74,7 +74,7 @@
   {"predicate": {"custom_model_data": 32058},"model": "minecraft:item/block/tleft"},
   {"predicate": {"custom_model_data": 32059},"model": "minecraft:item/block/trotate"},
   {"predicate": {"custom_model_data": 32060},"model": "minecraft:item/block/t"},
-  {"predicate": {"custom_model_data": 32061},"model": "minecraft:item/block/icicle"}
-  
+  {"predicate": {"custom_model_data": 32061},"model": "minecraft:item/block/icicle"},
+  {"predicate": {"custom_model_data": 32062},"model": "minecraft:item/block/rail_corner_without_iron_pickaxe"}
   ]
 }
