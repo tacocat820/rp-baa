@@ -105,6 +105,8 @@
 	"what.block.nokia_block" : "Блок из нокиа",
 	"what.block.caramel_bricks" : "Кирпичи из карамели",
 	"what.block.floppa" : "Шлёпа",
+	"what.block.RCWIP" : "Угловая рельса без железной кирки",
+	"what.block.VLC" : "Дорожный конус",
 
 	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
 	"what.block.die" : "СДОХНИ",
