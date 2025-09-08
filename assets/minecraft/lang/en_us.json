@@ -61,6 +61,7 @@
 	"what.item.nft" : "NFT",
 	"what.item.iphone" : "IPhone 67 SMART ULTRA PRO MEGA MAX ULTIMATE EDITION",
 	"what.item.concrete_baguette" : "Concrete baguette",
+	"what.item.rickroll_checker" : "Rickroll checker",
 	
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	
@@ -114,6 +115,7 @@
 	
 	"what.block.die" : "DIE",
 	"what.block.pc" : "PC",
+	"what.block.barrel_with_meth" : "Barrel with meth",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

@@ -440,6 +440,7 @@
     {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/cube_nft"},
     {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/item/cow_nft"},
     {"predicate": {"custom_model_data": 32020},"model": "minecraft:item/item/nft"},
-    {"predicate": {"custom_model_data": 32021},"model": "minecraft:item/item/rickroll"}
+    {"predicate": {"custom_model_data": 32021},"model": "minecraft:item/item/rickroll"},
+    {"predicate": {"custom_model_data": 32022},"model": "minecraft:item/item/rickroll_checker"}
   ]
 }
