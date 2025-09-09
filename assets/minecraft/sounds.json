@@ -72,5 +72,15 @@
 	"what.ost.speedrun":
 	{"category": "player","sounds": [{"name": "what/ost/speedrun","stream": true}]},
 	"what.ost.tetris":
-	{"category": "player","sounds": [{"name": "what/ost/tetris","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/tetris","stream": true}]},
+	"what.ost.rat":
+	{"category": "player","sounds": [{"name": "what/ost/rat","stream": true}]},
+	"what.ost.fard":
+	{"category": "player","sounds": [{"name": "what/ost/fard","stream": true}]},
+	"what.ost.steppig":
+	{"category": "player","sounds": [{"name": "what/ost/steppig","stream": true}]},
+	"what.ost.garbagetypebeat":
+	{"category": "player","sounds": [{"name": "what/ost/garbagetypebeat","stream": true}]},
+	"what.ost.stal":
+	{"category": "player","sounds": [{"name": "what/ost/stal","stream": true}]}
 }
