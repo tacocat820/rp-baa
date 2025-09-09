@@ -50,5 +50,27 @@
 	"what.tetris_mono":
 	{"category": "player","sounds": [{"name": "what/tetris_mono","stream": true}]},
 	"what.tetris_stereo":
-	{"category": "player","sounds": [{"name": "what/tetris_stereo","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/tetris_stereo","stream": true}]},
+	"what.ost.balladofthecat":
+	{"category": "player","sounds": [{"name": "what/ost/balladofthecat","stream": true}]},
+	"what.ost.calm5":
+	{"category": "player","sounds": [{"name": "what/ost/calm5","stream": true}]},
+	"what.ost.catsong":
+	{"category": "player","sounds": [{"name": "what/ost/catsong","stream": true}]},
+	"what.ost.creator":
+	{"category": "player","sounds": [{"name": "what/ost/creator","stream": true}]},
+	"what.ost.greece":
+	{"category": "player","sounds": [{"name": "what/ost/greece","stream": true}]},
+	"what.ost.idrinkglue":
+	{"category": "player","sounds": [{"name": "what/ost/idrinkglue","stream": true}]},
+	"what.ost.minerat":
+	{"category": "player","sounds": [{"name": "what/ost/minerat","stream": true}]},
+	"what.ost.pupepupe":
+	{"category": "player","sounds": [{"name": "what/ost/pupepupe","stream": true}]},
+	"what.ost.shit":
+	{"category": "player","sounds": [{"name": "what/ost/shit","stream": true}]},
+	"what.ost.speedrun":
+	{"category": "player","sounds": [{"name": "what/ost/speedrun","stream": true}]},
+	"what.ost.tetris":
+	{"category": "player","sounds": [{"name": "what/ost/tetris","stream": true}]}
 }
