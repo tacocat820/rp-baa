@@ -82,5 +82,11 @@
 	"what.ost.garbagetypebeat":
 	{"category": "player","sounds": [{"name": "what/ost/garbagetypebeat","stream": true}]},
 	"what.ost.stal":
-	{"category": "player","sounds": [{"name": "what/ost/stal","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/stal","stream": true}]},
+	"what.ost.gromadji":
+	{"category": "player","sounds": [{"name": "what/ost/gromadji","stream": true}]},
+	"what.ost.lavachickeb":
+	{"category": "player","sounds": [{"name": "what/ost/lavachickeb","stream": true}]},
+	"what.ost.fryingghasts":
+	{"category": "player","sounds": [{"name": "what/ost/fryingghasts","stream": true}]}
 }
