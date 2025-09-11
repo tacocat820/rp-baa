@@ -88,5 +88,11 @@
 	"what.ost.lavachickeb":
 	{"category": "player","sounds": [{"name": "what/ost/lavachickeb","stream": true}]},
 	"what.ost.fryingghasts":
-	{"category": "player","sounds": [{"name": "what/ost/fryingghasts","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/fryingghasts","stream": true}]},
+	"what.ost.scott_joplin_the_original_chirps":
+	{"category": "player","sounds": [{"name": "what/ost/scott_joplin_the_original_chirps","stream": true}]},
+	"what.ost.fuckingpig":
+	{"category": "player","sounds": [{"name": "what/ost/fuckingpig","stream": true}]},
+	"what.ost.drums":
+	{"category": "player","sounds": [{"name": "what/ost/drums","stream": true}]}
 }
