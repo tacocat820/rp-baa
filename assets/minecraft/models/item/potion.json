@@ -57,6 +57,8 @@
       {"predicate": {"custom_model_data": 32044},"model": "minecraft:item/ent/floppa"},
       {"predicate": {"custom_model_data": 32045},"model": "minecraft:item/ent/bath"},
       {"predicate": {"custom_model_data": 32046},"model": "minecraft:item/ent/pvz/walk"},
-      {"predicate": {"custom_model_data": 32047},"model": "minecraft:item/ent/pvz/attack"}
+      {"predicate": {"custom_model_data": 32047},"model": "minecraft:item/ent/pvz/attack"},
+      {"predicate": {"custom_model_data": 32048},"model": "minecraft:item/ent/herobrine/walk"},
+      {"predicate": {"custom_model_data": 32049},"model": "minecraft:item/ent/herobrine/die"}
     ]
   }
