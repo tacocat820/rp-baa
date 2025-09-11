@@ -64,6 +64,7 @@
 	"what.item.rickroll_checker" : "Rickroll checker",
 	
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
+	"what.item.rock" : "Rock",
 	
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -116,6 +117,7 @@
 	"what.block.die" : "DIE",
 	"what.block.pc" : "PC",
 	"what.block.barrel_with_meth" : "Barrel with meth",
+	"what.block.pan" : "Pan",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

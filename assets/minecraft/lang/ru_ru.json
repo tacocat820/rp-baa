@@ -63,6 +63,7 @@
 	"what.item.concrete_baguette" : "Б(а)етон",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
+	"what.item.rock" : "Камень",
 
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -112,6 +113,7 @@
 	"what.block.die" : "СДОХНИ",
 	"what.block.pc" : "ПК",
 	"what.block.barrel_with_meth" : "Бочка с метом",
+	"what.block.pan" : "Сковорода",
 
 
 
