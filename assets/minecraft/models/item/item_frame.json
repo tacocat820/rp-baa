@@ -78,6 +78,7 @@
   {"predicate": {"custom_model_data": 32062},"model": "minecraft:item/block/rail_corner_without_iron_pickaxe"},
   {"predicate": {"custom_model_data": 32063},"model": "minecraft:item/block/vlc"},
   {"predicate": {"custom_model_data": 32064},"model": "minecraft:item/block/greenscreen"},
-  {"predicate": {"custom_model_data": 32065},"model": "minecraft:item/block/barrel_with_meth"}
+  {"predicate": {"custom_model_data": 32065},"model": "minecraft:item/block/barrel_with_meth"},
+  {"predicate": {"custom_model_data": 32066},"model": "minecraft:item/item/pan"}
   ]
 }
