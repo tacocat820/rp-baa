@@ -49,7 +49,9 @@
 	"what.item.iphone" : "APEL man SMART BRICK",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
+	"what.jukebox_song.otherside": "lena brain otersideh",
 	"what.item.music_disc_creator" : "Round loud thing UHHH",
+	"what.item.music_disc_otherside" : "RAUND LAUD THIGH",
 
 	"what.block.brasil": "big tre wurld blocc",
 	"what.block.globe" : "big tre wurld ball",
@@ -77,6 +79,7 @@
 	"what.block.floppa" : "bigg earz bigggggggggggggggggggggggggggg cat",
 	"what.block.VLC" : "vlc mediapleyer in minecraft!!!!!",
 	"what.block.barrel_with_meth" : "we ned to cok",
+	"what.block.netherrack_2" : "skeri stoner",
 
 	"what.message.homeless": "<por no houm man :(:(> GIV ME UR CHEZFBURGARZ NAW!!!!!1!!1!",
 	"what.message.feed_ritual": "<Pentugrom> FED ME 30 VILAGURZ AND U WIL GET KUL STUVS!!!!",
@@ -120,5 +123,6 @@
 	"what.mob.lefishe" : "Le Fishe Au Chocolat",
 	"what.mob.ender_dragon" : "Ender Dragon 2",
 	"what.mob.steve_jobs" : "APEL MAN",
-	"what.mob.floppa" : "biggg earz biggggg cat"
+	"what.mob.floppa" : "biggg earz biggggg cat",
+	"what.mob.herobrin" : "spopy blody wheat eye man"
 }

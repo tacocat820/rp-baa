@@ -68,7 +68,9 @@
 	
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
+	"what.jukebox_song.otherside": "lena brain otersideh",
 	"what.item.music_disc_creator" : "Music..... disc....",
+	"what.item.music_disc_otherside" : "muzik dizk otersideh",
 	
 	
 	"what.block.brazil": "Brazil block",
@@ -118,6 +120,7 @@
 	"what.block.pc" : "PC",
 	"what.block.barrel_with_meth" : "Barrel with meth",
 	"what.block.pan" : "Pan",
+	"what.block.netherrack_2" : "Netherrack 2",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
@@ -168,5 +171,6 @@
 	"what.mob.lefishe" : "Le Fishe Au Chocolat",
 	"what.mob.ender_dragon" : "Ender Dragon 2",
 	"what.mob.steve_jobs" : "Steve Jobs",
-	"what.mob.floppa" : "Floppa"
+	"what.mob.floppa" : "Floppa",
+	"what.mob.herobrin" : "Herobrine"
 }

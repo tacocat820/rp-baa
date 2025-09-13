@@ -64,10 +64,13 @@
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	"what.item.rock" : "Камень",
+	"what.block.netherrack_2" : "Незерак 2",
 
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
+	"what.jukebox_song.otherside": "lena brain otersideh",
 	"what.item.music_disc_creator" : "помогите.",
+	"what.item.music_disc_otherside" : "мудыкальный дикс озерзайт",
 
 
 	"what.block.brazil": "Блок Бразилии",
@@ -164,5 +167,6 @@
 	"what.mob.lefishe" : "Le Fishe Au Chocolat",
 	"what.mob.ender_dragon" : "Дурак",
 	"what.mob.steve_jobs" : "Стив Джобс",
-	"what.mob.floppa" : "Шлёпа"
+	"what.mob.floppa" : "Шлёпа",
+	"what.mob.herobrin" : "Херобрин"
 }
