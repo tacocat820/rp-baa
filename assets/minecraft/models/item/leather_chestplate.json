@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/leather_chestplate"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 32000},"model": "minecraft:item/item/email_chestplate"}
+    {"predicate": {"custom_model_data": 32000},"model": "minecraft:item/item/email_chestplate"},
+    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/stone_chestplate"}
   ]
 }

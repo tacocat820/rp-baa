@@ -1,9 +1,10 @@
 {
   "parent": "minecraft:item/handheld_rod",
   "textures": {
-    "layer0": "minecraft:item/leather_chestplate"
+    "layer0": "minecraft:item/leather_helmet"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 32000},"model": "minecraft:item/item/shapka"}
+    {"predicate": {"custom_model_data": 32000},"model": "minecraft:item/item/shapka"},
+    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/stone_helmet"}
   ]
 }
