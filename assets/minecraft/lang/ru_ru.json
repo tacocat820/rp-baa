@@ -64,7 +64,13 @@
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
 	"what.item.rock" : "Камень",
-	"what.block.netherrack_2" : "Незерак 2",
+	
+	"what.item.wooden_drord" : "Деревянный чеч",
+	"what.item.stone_drord" : "Каменный чеч",
+	"what.item.iron_drord" : "Железный чеч",
+	"what.item.golden_drord" : "Золотой чеч",
+	"what.item.diamond_drord" : "Алмазный чеч",
+	"what.item.netherite_drord" : "Незеритовый чеч",
 
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -117,6 +123,7 @@
 	"what.block.pc" : "ПК",
 	"what.block.barrel_with_meth" : "Бочка с метом",
 	"what.block.pan" : "Сковорода",
+	"what.block.netherrack_2" : "Незерак 2",
 
 
 

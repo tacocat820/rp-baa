@@ -66,6 +66,24 @@
 	"what.item.demon_core_mace" : "The \"mace\" ☠",
 	"what.item.rock" : "Rock",
 	
+	"what.item.stick_sword" : "Stick sword",
+	"what.item.stick_shovel" : "Stick shovel",
+	"what.item.stick_axe" : "Stick axe",
+	"what.item.stick_pickaxe" : "Stick pickaxe",
+	"what.item.stick_hoe" : "Stick hoe",
+	
+	"what.item.sword" : "Sword",
+	"what.item.hoe" : "Hoe",
+	"what.item.axe" : "Axe",
+	"what.item.pickaxe" : "Pickaxe",
+	"what.item.shovel" : "Shovel",
+	
+	"what.item.wooden_drord" : "Wooden drord",
+	"what.item.stone_drord" : "Stone drord",
+	"what.item.iron_drord" : "Iron drord",
+	"what.item.golden_drord" : "Golden drord",
+	"what.item.diamond_drord" : "Diamond drord",
+	"what.item.netherite_drord" : "Netherite drord",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
