@@ -59,6 +59,10 @@
       {"predicate": {"custom_model_data": 32046},"model": "minecraft:item/ent/pvz/walk"},
       {"predicate": {"custom_model_data": 32047},"model": "minecraft:item/ent/pvz/attack"},
       {"predicate": {"custom_model_data": 32048},"model": "minecraft:item/ent/herobrine/walk"},
-      {"predicate": {"custom_model_data": 32049},"model": "minecraft:item/ent/herobrine/die"}
+      {"predicate": {"custom_model_data": 32049},"model": "minecraft:item/ent/herobrine/die"},
+      {"predicate": {"custom_model_data": 32050},"model": "minecraft:item/ent/juan/banana"},
+      {"predicate": {"custom_model_data": 32051},"model": "minecraft:item/ent/juan/bulldozer"},
+      {"predicate": {"custom_model_data": 32052},"model": "minecraft:item/ent/juan/frostberry"},
+      {"predicate": {"custom_model_data": 32053},"model": "minecraft:item/ent/juan/worm"}
     ]
   }

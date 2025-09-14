@@ -135,7 +135,7 @@
 	"what.message.feed_ritual": "<Pentagram> ран переведи мне лень",
 	"what.message.door_open": "Отдай своего сына, чтобы мы могли съесть его сегодня",
 	"what.message.door_close": "а завтра мы съедим моего сына. Так мы приготовили моего сына и съели его.",
-	"what.message.stop_drinking": "<???> ХВАТИТ ПИТЬ МОЧУ!!!",
+	"what.message.stop_drinking": "<???> ХВАТИТ ПИТЬ ССАКУ!!!",
 	"what.message.laugh": "пхпххыахвхаыхвахыхвахывхахывахыва",
 	"what.message.no": "нет.",
 	"what.message.piecesleft": " ФИГУР ОСТАЛОСЬ",
@@ -150,6 +150,9 @@
 	"what.message.herobrin_death_3": "<Херобрин> БЛЯГАРШЫФВРАШСЩФЫВСЩФЫ",
 	"what.message.herobrin_death_4": "<Херобрин> ВАЪАХАХАХАХЫАХЫФВСХЗФЫ",
 	"what.message.herobrin_death_5": "<Херобрин> ВСФЫВЛЩСОФЫЩШСВОФЩЫШСОщвОФСЫЩС",
+
+	"what.message.corab_judgement": "<Кораб> PREPARE FOR YOUR JUDGEMENT",
+	"what.message.corab_dead": "<Кораб> да ёмаё",
 
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
@@ -175,5 +178,6 @@
 	"what.mob.ender_dragon" : "Дурак",
 	"what.mob.steve_jobs" : "Стив Джобс",
 	"what.mob.floppa" : "Шлёпа",
-	"what.mob.herobrin" : "Херобрин"
+	"what.mob.herobrin" : "Херобрин",
+	"what.mob.corab" : "Кораб"
 }

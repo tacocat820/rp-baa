@@ -166,6 +166,9 @@
 	"what.message.herobrin_death_4": "<Herobrine> AHADASDADAAAAAAA",
 	"what.message.herobrin_death_5": "<Herobrine> ASDASDDADASDASDADasdioasjDOIASDBAONSDICJASHDCN",
 
+	"what.message.corab_judgement": "<Corab> PREPARE FOR YOUR JUDGEMENT",
+	"what.message.corab_dead": "<Corab> god dammit",
+
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
 	"what.mob.slave" : "Slave",
@@ -190,5 +193,6 @@
 	"what.mob.ender_dragon" : "Ender Dragon 2",
 	"what.mob.steve_jobs" : "Steve Jobs",
 	"what.mob.floppa" : "Floppa",
-	"what.mob.herobrin" : "Herobrine"
+	"what.mob.herobrin" : "Herobrine",
+	"what.mob.corab" : "Corab"
 }

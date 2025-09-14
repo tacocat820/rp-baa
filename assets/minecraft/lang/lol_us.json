@@ -101,6 +101,9 @@
 	"what.message.herobrin_death_4": "<evl man> AHADASDADAAAAAAA",
 	"what.message.herobrin_death_5": "<evl man> ASDASDDADASDASDADasdioasjDOIASDBAONSDICJASHDCN",
 
+	"what.message.corab_judgement": "<moooey crab rave> PREPER 4 UR JUGEMENT",
+	"what.message.corab_dead": "<moooey crab rave> god dammit",
+
 	"what.mob.new_zealand" : "kiwwi burb houm",
 	"what.mob.pillager" : "weird grey guy but bedder",
 	"what.mob.slave" : "workur no pay",
@@ -124,5 +127,6 @@
 	"what.mob.ender_dragon" : "Ender Dragon 2",
 	"what.mob.steve_jobs" : "APEL MAN",
 	"what.mob.floppa" : "biggg earz biggggg cat",
-	"what.mob.herobrin" : "spopy blody wheat eye man"
+	"what.mob.herobrin" : "spopy blody wheat eye man",
+	"what.mob.corab" : "moooey crab rave"
 }
