@@ -1,11 +1,11 @@
 {
 	"parent": "minecraft:item/templates/inverted_block_6s",
 	 "textures": {
-		"0": "block/oak_leaves",
-		"1": "block/oak_leaves",
-		"2": "block/oak_leaves",
-		"3": "block/oak_leaves",
-		"4": "block/oak_leaves",
-		"5": "block/oak_leaves"
+		"0": "item/block/oak_leaves",
+		"1": "item/block/oak_leaves",
+		"2": "item/block/oak_leaves",
+		"3": "item/block/oak_leaves",
+		"4": "item/block/oak_leaves",
+		"5": "item/block/oak_leaves"
 	 }
  }
