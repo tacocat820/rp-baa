@@ -80,6 +80,9 @@
   {"predicate": {"custom_model_data": 32064},"model": "minecraft:item/block/greenscreen"},
   {"predicate": {"custom_model_data": 32065},"model": "minecraft:item/block/barrel_with_meth"},
   {"predicate": {"custom_model_data": 32066},"model": "minecraft:item/item/pan"},
-  {"predicate": {"custom_model_data": 32067},"model": "minecraft:item/block/netherrack_2"}
+  {"predicate": {"custom_model_data": 32067},"model": "minecraft:item/block/netherrack_2"},
+  {"predicate": {"custom_model_data": 32068},"model": "minecraft:item/block/cursed_wood"},
+  {"predicate": {"custom_model_data": 32069},"model": "minecraft:item/block/cursed_planks"},
+  {"predicate": {"custom_model_data": 32070},"model": "minecraft:item/block/cursed_leaves"}
   ]
 }
