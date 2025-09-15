@@ -63,6 +63,7 @@
       {"predicate": {"custom_model_data": 32050},"model": "minecraft:item/ent/juan/banana"},
       {"predicate": {"custom_model_data": 32051},"model": "minecraft:item/ent/juan/bulldozer"},
       {"predicate": {"custom_model_data": 32052},"model": "minecraft:item/ent/juan/frostberry"},
-      {"predicate": {"custom_model_data": 32053},"model": "minecraft:item/ent/juan/worm"}
+      {"predicate": {"custom_model_data": 32053},"model": "minecraft:item/ent/juan/worm"},
+      {"predicate": {"custom_model_data": 32054},"model": "minecraft:item/ent/mimic"}
     ]
   }
