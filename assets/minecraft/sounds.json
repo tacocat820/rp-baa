@@ -98,5 +98,5 @@
 	"what.ost.drums":
 	{"category": "player","sounds": [{"name": "what/ost/drums","stream": true}]},
 	"what.frying_pan":
-	{"category": "player","sounds": [{"name": "what/hitsound","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/hitsound","stream": false}]}
 }
