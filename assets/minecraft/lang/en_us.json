@@ -139,6 +139,9 @@
 	"what.block.barrel_with_meth" : "Barrel with meth",
 	"what.block.pan" : "Pan",
 	"what.block.netherrack_2" : "Netherrack 2",
+
+	"what.block.blackscreen" : "Blackscreen",
+	"what.block.whitescreen" : "Whitescreen",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

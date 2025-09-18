@@ -86,5 +86,8 @@
   {"predicate": {"custom_model_data": 32070},"model": "minecraft:item/block/cursed_leaves"},
   {"predicate": {"custom_model_data": 32071},"model": "minecraft:item/block/cursed_tree_sapling"},
   {"predicate": {"custom_model_data": 32072},"model": "minecraft:item/block/nether_bed"}
+  {"predicate": {"custom_model_data": 32073},"model": "minecraft:item/block/blackscreen"},
+  {"predicate": {"custom_model_data": 32074},"model": "minecraft:item/block/whitescreen"}
+
 ]
 }
