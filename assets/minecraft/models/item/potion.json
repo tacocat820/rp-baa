@@ -65,6 +65,11 @@
       {"predicate": {"custom_model_data": 32052},"model": "minecraft:item/ent/juan/frostberry"},
       {"predicate": {"custom_model_data": 32053},"model": "minecraft:item/ent/juan/worm"},
       {"predicate": {"custom_model_data": 32054},"model": "minecraft:item/ent/mimic"},
-      {"predicate": {"custom_model_data": 32055},"model": "minecraft:item/ent/cow_wheel/walk"}
+      {"predicate": {"custom_model_data": 32055},"model": "minecraft:item/ent/cow_wheel/walk"},
+      {"predicate": {"custom_model_data": 32056},"model": "minecraft:item/ent/therapist/walk"},
+      {"predicate": {"custom_model_data": 32057},"model": "minecraft:item/ent/therapist/decapitation"},
+      {"predicate": {"custom_model_data": 32058},"model": "minecraft:item/ent/therapist/head"},
+      {"predicate": {"custom_model_data": 32059},"model": "minecraft:item/ent/therapist/shoot"}
+
     ]
   }
