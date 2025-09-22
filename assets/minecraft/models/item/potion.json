@@ -69,7 +69,8 @@
       {"predicate": {"custom_model_data": 32056},"model": "minecraft:item/ent/therapist/walk"},
       {"predicate": {"custom_model_data": 32057},"model": "minecraft:item/ent/therapist/decapitation"},
       {"predicate": {"custom_model_data": 32058},"model": "minecraft:item/ent/therapist/head"},
-      {"predicate": {"custom_model_data": 32059},"model": "minecraft:item/ent/therapist/shoot"}
+      {"predicate": {"custom_model_data": 32059},"model": "minecraft:item/ent/therapist/shoot"},
+      {"predicate": {"custom_model_data": 32060},"model": "minecraft:item/ent/asgor/walk"}
 
     ]
   }

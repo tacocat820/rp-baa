@@ -172,6 +172,23 @@
 	"what.message.corab_judgement": "<Corab> PREPARE FOR YOUR JUDGEMENT",
 	"what.message.corab_dead": "<Corab> god dammit",
 	"what.message.welcome": "WELCOME TO CALIFORNIA!",
+	
+	"what.adv.welcome": "minecraft 2 minerat",
+	"what.adv.welcome.desc": "transition from microdosing to megadosing",
+	"what.adv.cheeseburgor": "cheeseburgor",
+	"what.adv.cheeseburgor.desc": "cheeseburgur",
+	"what.adv.crafting": "WHAT ?!?!?!?!",
+	"what.adv.crafting.desc": "get a CRAFTIGN TABLE",
+	"what.adv.homeless": "he's just like me fr",
+	"what.adv.homeless.desc": "meet a HOMELESS MAN",
+	"what.adv.nuclear": "the next logical thing to do",
+	"what.adv.nuclear.desc": "craft a nuclear reactor",
+	"what.adv.pick": "craft a pickaxe",
+	"what.adv.pick.desc": "craft your first pickaxe",
+	"what.adv.killer": "MURDERER",
+	"what.adv.killer.desc": "murder someone",
+	"what.adv.killalot": "genocide route",
+	"what.adv.killalot.desc": "kill 100 villagers",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
@@ -199,5 +216,7 @@
 	"what.mob.floppa" : "Floppa",
 	"what.mob.herobrin" : "Herobrine",
 	"what.mob.corab" : "Corab",
-	"what.mob.mimic" : "A Normal Chest"
+	"what.mob.mimic" : "A Normal Chest",
+	"what.mob.therapist" : "Psychotherapist",
+	"what.mob.asgor" : "Asgore"
 }
