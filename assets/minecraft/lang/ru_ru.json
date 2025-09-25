@@ -160,8 +160,8 @@
 	
 	"what.message.hello": "hello!!!! welcom 2 MINECRAFT 2 MINERAT!!!! click here for an introduction video please",
 	
-	"what.adv.welcome": "Добро пожаловать",
-	"what.adv.welcome.desc": "на сервер \"шизофрения.\"",
+	"what.adv.welcome": "майнкрап 2",
+	"what.adv.welcome.desc": "Добро пожаловать на сервер \"шизофрения.\"",
 	"what.adv.cheeseburgor": "чизбургер",
 	"what.adv.cheeseburgor.desc": "берегитесь бездомных",
 	"what.adv.crafting": "КАК ?!?!?!?!",
@@ -216,6 +216,14 @@
 	"what.adv.global_warming.desc": "инициировать глобальное потепление",
 	"what.adv.asgor_runover": "Асгор",
 	"what.adv.asgor_runover.desc": "🎵 ЕДУ ПО ШОССЕ ПРЯМ ПОСЛЕ ПИВКА",
+	"what.adv.planks": "мои поздравления",
+	"what.adv.planks.desc": "получите доски",
+	"what.adv.crafting_2": "что?",
+	"what.adv.crafting_2.desc": "получите верстак 2",
+	"what.adv.bigbrain": "кто дома оставил?",
+	"what.adv.bigbrain.desc": "найдите большой мозг",
+	"what.adv.eat_tree": "мудрый дуб",
+	"what.adv.eat_tree.desc": "съешьте дерево",
 
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
