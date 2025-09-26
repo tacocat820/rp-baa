@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/acacia_boat"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 32000},"model": "item/ui/book"}
+  ]
+}

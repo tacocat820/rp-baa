@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/overlay",
+  "textures": {
+    "txt": "item/ui/table_2"
+  }
+}
