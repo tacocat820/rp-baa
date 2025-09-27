@@ -444,6 +444,7 @@
     {"predicate": {"custom_model_data": 32022},"model": "minecraft:item/item/rickroll_checker"},
     {"predicate": {"custom_model_data": 32023},"model": "minecraft:item/item/rock"},
     {"predicate": {"custom_model_data": 32024},"model": "minecraft:item/item/iron_stick"},
-    {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/otherside"}
+    {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/otherside"},
+    {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/item/what"}
   ]
 }

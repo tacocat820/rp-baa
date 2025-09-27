@@ -270,5 +270,7 @@
 	"what.mob.corab" : "Corab",
 	"what.mob.mimic" : "A Normal Chest",
 	"what.mob.therapist" : "Psychotherapist",
-	"what.mob.asgor" : "Asgore"
+	"what.mob.asgor" : "Asgore",
+
+	"what.txt.recipe": "recipe"
 }
