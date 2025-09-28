@@ -85,6 +85,7 @@
 	"what.item.diamond_drord" : "Diamond drord",
 	"what.item.netherite_drord" : "Netherite drord",
 	"what.item.rickroll" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+	"what.item.fencing_sword" : "Fencing sword",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -143,6 +144,8 @@
 
 	"what.block.blackscreen" : "Blackscreen",
 	"what.block.whitescreen" : "Whitescreen",
+	"what.block.sqrt_of_2_rail" : "√2 length rail",
+	"what.block.broken_glass" : "Broken glass",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

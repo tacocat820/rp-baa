@@ -87,7 +87,8 @@
   {"predicate": {"custom_model_data": 32071},"model": "minecraft:item/block/cursed_tree_sapling"},
   {"predicate": {"custom_model_data": 32072},"model": "minecraft:item/block/nether_bed"},
   {"predicate": {"custom_model_data": 32073},"model": "minecraft:item/block/blackscreen"},
-  {"predicate": {"custom_model_data": 32074},"model": "minecraft:item/block/whitescreen"}
-
+  {"predicate": {"custom_model_data": 32074},"model": "minecraft:item/block/whitescreen"},
+  {"predicate": {"custom_model_data": 32075},"model": "minecraft:item/block/sqrt_of_2_rail"},
+  {"predicate": {"custom_model_data": 32076},"model": "minecraft:item/block/broken_glass"}
 ]
 }

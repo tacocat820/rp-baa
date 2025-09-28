@@ -1,71 +1,11 @@
 {
-	"parent": "minecraft:item/templates/display_as_block",
-	"textures": {
-		"1": "block/oak_planks",
-		"2": "block/iron_block",
-		"3": "block/crafting_table_top",
-		"particle": "block/crafting_table_top"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 14],
-			"to": [2, 14, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"east": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"south": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"west": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#2"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#2"}
-			}
-		},
-		{
-			"from": [14, 0, 14],
-			"to": [16, 14, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"east": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"south": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"west": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#2"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#2"}
-			}
-		},
-		{
-			"from": [14, 0, 0],
-			"to": [16, 14, 2],
-			"faces": {
-				"north": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"east": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"south": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"west": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#2"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#2"}
-			}
-		},
-		{
-			"from": [0, 0, 0],
-			"to": [2, 14, 2],
-			"faces": {
-				"north": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"east": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"south": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"west": {"uv": [0, 0, 2, 14], "texture": "#2"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#1"}
-			}
-		},
-		{
-			"from": [0, 14, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 2], "texture": "#2"},
-				"east": {"uv": [0, 0, 16, 2], "texture": "#2"},
-				"south": {"uv": [0, 0, 16, 2], "texture": "#2"},
-				"west": {"uv": [0, 0, 16, 2], "texture": "#2"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
-			}
-		}
-	]
+   "parent": "minecraft:item/templates/block_6s",
+    "textures": {
+       "0": "item/block/crafting_table_2_front",
+	   "1": "item/block/crafting_table_2_side",
+	   "2": "item/block/crafting_table_2_front",
+	   "3": "item/block/crafting_table_2_side",
+	   "4": "item/block/crafting_table_2_top",
+	   "5": "item/block/crafting_table_2_top"
+    }
 }
