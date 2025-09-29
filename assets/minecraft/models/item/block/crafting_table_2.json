@@ -1,11 +1,11 @@
 {
    "parent": "minecraft:item/templates/block_6s",
     "textures": {
-       "0": "item/block/crafting_table_2_front",
-	   "1": "item/block/crafting_table_2_side",
-	   "2": "item/block/crafting_table_2_front",
-	   "3": "item/block/crafting_table_2_side",
-	   "4": "item/block/crafting_table_2_top",
-	   "5": "item/block/crafting_table_2_top"
+       "north": "item/block/crafting_table_2/north",
+	   "east":  "item/block/crafting_table_2/east",
+	   "south": "item/block/crafting_table_2/south",
+	   "west":  "item/block/crafting_table_2/west",
+	   "up":    "item/block/crafting_table_2/top",
+	   "down":  "item/block/crafting_table_2/bottom"
     }
 }

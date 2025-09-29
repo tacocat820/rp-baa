@@ -136,6 +136,8 @@
 	"what.block.RCWIP" : "Rail corner without iron pickaxe",
 	"what.block.VLC" : "Traffic cone",
 	"what.block.greenscreen" : "Greenscreen",
+	"what.block.leather_block" : "Leather block",
+	"what.block.grassblockmond_block" : "Grassblockmond block",
 	
 	"what.block.die" : "DIE",
 	"what.block.pc" : "PC",
@@ -244,7 +246,9 @@
 	"what.adv.bigbrain.desc": "find a big brain",
 	"what.adv.eat_tree": "I... am tree! 🗣🔥",
 	"what.adv.eat_tree.desc": "eat tree",
-
+	"what.adv.toothless": "toothless",
+	"what.adv.toothless.desc": "you need to go to the dentist (or die)",
+	
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
 

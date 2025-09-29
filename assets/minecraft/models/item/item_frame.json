@@ -89,6 +89,8 @@
   {"predicate": {"custom_model_data": 32073},"model": "minecraft:item/block/blackscreen"},
   {"predicate": {"custom_model_data": 32074},"model": "minecraft:item/block/whitescreen"},
   {"predicate": {"custom_model_data": 32075},"model": "minecraft:item/block/sqrt_of_2_rail"},
-  {"predicate": {"custom_model_data": 32076},"model": "minecraft:item/block/broken_glass"}
+  {"predicate": {"custom_model_data": 32076},"model": "minecraft:item/block/broken_glass"},
+  {"predicate": {"custom_model_data": 32077},"model": "minecraft:item/block/leather_block"},
+  {"predicate": {"custom_model_data": 32078},"model": "minecraft:item/block/grassblockmond_block"}
 ]
 }

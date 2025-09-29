@@ -1,11 +1,11 @@
 {
    "parent": "minecraft:item/templates/block_6s",
     "textures": {
-       "0": "item/block/oil_flow",
-	   "1": "item/block/oil_flow",
-	   "2": "item/block/oil_flow",
-	   "3": "item/block/oil_flow",
-	   "4": "item/block/oil_still",
-	   "5": "item/block/oil_still"
+       "north": "item/block/oil_flow",
+	   "east": "item/block/oil_flow",
+	   "south": "item/block/oil_flow",
+	   "west": "item/block/oil_flow",
+	   "up": "item/block/oil_still",
+	   "down": "item/block/oil_still"
     }
 }

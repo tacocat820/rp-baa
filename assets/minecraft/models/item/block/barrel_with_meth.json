@@ -1,11 +1,11 @@
 {
 	"parent": "minecraft:item/templates/block_6s",
 	 "textures": {
-		"0": "block/barrel_side",
-		"1": "block/barrel_side",
-		"2": "block/barrel_side",
-		"3": "block/barrel_side",
-		"4": "item/block/barrel_with_meth_top_open",
-		"5": "block/barrel_bottom"
+		"north": "block/barrel_side",
+		"east": "block/barrel_side",
+		"south": "block/barrel_side",
+		"west": "block/barrel_side",
+		"up": "item/block/barrel_with_meth_top_open",
+		"down": "block/barrel_bottom"
 	 }
  }

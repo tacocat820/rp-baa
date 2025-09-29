@@ -129,7 +129,8 @@
 	"what.block.netherrack_2" : "Незерак 2",
 	"what.block.sqrt_of_2_rail" : "√2 длины рельсов",
 	"what.block.broken_glass" : "Битое стекло",
-
+	"what.block.leather_block" : "Кожанный блок",
+	"what.block.grassblockmond_block" : "Дёрнмазный блок",
 
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
@@ -227,6 +228,8 @@
 	"what.adv.bigbrain.desc": "найдите большой мозг",
 	"what.adv.eat_tree": "мудрый дуб",
 	"what.adv.eat_tree.desc": "съешьте дерево",
+	"what.adv.toothless": "орефки мкадамья мне офень нрхавятся",
+	"what.adv.toothless.desc": "потеряйте все зубы",
 
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",

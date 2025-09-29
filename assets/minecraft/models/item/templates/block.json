@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent":"item/templates/display_as_block",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#b"
@@ -17,23 +18,5 @@
 				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#b"}
 			}
 		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_righthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"ground": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"gui": {
-			"rotation": [30, 45, 0],
-			"scale": [0.6, 0.6, 0.6]
-		},
-		"fixed": {
-			"scale": [0.5, 0.5, 0.5]
-		}
-	}
+	]
 }
