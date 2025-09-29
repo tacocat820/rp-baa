@@ -9,6 +9,8 @@
         "custom_model_data": 32000
       },
       "model": "minecraft:item/item/concrete_baguette"
-    }
+    },
+    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/evil_bread"}
+    
   ]
 }
