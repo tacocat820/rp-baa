@@ -2,7 +2,7 @@
    "parent": "minecraft:item/templates/block_6s",
     "textures": {
 	   "north": "item/block/brazil_side",
-	   "east": "item/block/brazil_sidee",
+	   "east": "item/block/brazil_side",
 	   "south": "item/block/brazil_side",
 	   "west": "item/block/brazil_side",
 	   "up": "item/block/brazil_top",
