@@ -4,6 +4,9 @@
     "layer0": "minecraft:item/acacia_boat"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 32000},"model": "item/ui/book"}
+    {"predicate": {"custom_model_data": 32000},"model": "item/ui/book"},
+    {"predicate": {"custom_model_data": 32001},"model": "item/ui/right_arrow"},
+    {"predicate": {"custom_model_data": 32002},"model": "item/ui/left_arrow"},
+    {"predicate": {"custom_model_data": 32003},"model": "item/ui/ct2_back"}
   ]
 }

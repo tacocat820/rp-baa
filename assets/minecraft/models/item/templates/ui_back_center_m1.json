@@ -1,0 +1,19 @@
+{
+	"gui_light":"front",
+	"elements": [
+		{
+			"from": [-16, -16, 32],
+			"to": [32, 32, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#txt"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#txt"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"scale": [3.66667, 1.52083, 1],
+			"translation": [18,25,-80]
+		}
+	}
+}
