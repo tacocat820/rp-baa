@@ -166,6 +166,7 @@
 	"what.message.piecesleft": " PIECES LEFT",
 	"what.message.thankyoufor": "<Steve Jobs> thank you for purchasing our newest IPhone 67 model!",
 	"what.message.socialcredit": "Glory to the CCP!",
+	"what.message.nothere": "Not here.",
 	
 	"what.message.fed_ritual_1": "<Pentagram> ",
 	"what.message.fed_ritual_2": " LEFT",
@@ -179,7 +180,7 @@
 
 	"what.message.corab_judgement": "<Corab> PREPARE FOR YOUR JUDGEMENT",
 	"what.message.corab_dead": "<Corab> god dammit",
-	"what.message.welcome": "WELCOME TO CALIFORNIA!",
+	"what.message.welcome": "WELCOME TO STATE CALIFORNIA!",
 
 	"what.message.hello": "hello!!!! welcom 2 MINECRAFT 2 MINERAT!!!! click here for an introduction video please",
 	
@@ -249,6 +250,9 @@
 	"what.adv.eat_tree.desc": "eat tree",
 	"what.adv.toothless": "toothless",
 	"what.adv.toothless.desc": "you need to go to the dentist (or die)",
+	"what.adv.ender_eye": "gg ez lmao",
+	"what.adv.ender_eye.desc": "get ender eye",
+	"what.adv.dragon_egg.desc": "Wait is it supposed to be this easy?",
 	
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",

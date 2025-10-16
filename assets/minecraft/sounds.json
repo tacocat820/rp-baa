@@ -79,6 +79,10 @@
 	{"category": "player","sounds": [{"name": "what/ost/rat","stream": true}]},
 	"what.ost.fard":
 	{"category": "player","sounds": [{"name": "what/ost/fard","stream": true}]},
+	"what.ost.fardium":
+	{"category": "player","sounds": [{"name": "what/ost/fardium","stream": true}]},
+	"what.ost.boss":
+	{"category": "player","sounds": [{"name": "what/ost/boss","stream": true}]},
 	"what.ost.steppig":
 	{"category": "player","sounds": [{"name": "what/ost/steppig","stream": true}]},
 	"what.ost.garbagetypebeat":
