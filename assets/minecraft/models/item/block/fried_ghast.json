@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/flat",
+	 "textures": {
+		"b": "item/item/fried_ghast"
+	 }
+ }

@@ -72,7 +72,10 @@
       {"predicate": {"custom_model_data": 32059},"model": "minecraft:item/ent/therapist/shoot"},
       {"predicate": {"custom_model_data": 32060},"model": "minecraft:item/ent/asgor/walk"},
       {"predicate": {"custom_model_data": 32061},"model": "minecraft:item/ent/death"},
-      {"predicate": {"custom_model_data": 32062},"model": "minecraft:item/ent/blays"}
+      {"predicate": {"custom_model_data": 32062},"model": "minecraft:item/ent/blays"},
+      {"predicate": {"custom_model_data": 32063},"model": "minecraft:item/ent/gaster"},
+      {"predicate": {"custom_model_data": 32064},"model": "minecraft:item/ent/happyghast"}
+      
       
 
     ]

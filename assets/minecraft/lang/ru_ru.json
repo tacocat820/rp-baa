@@ -72,6 +72,7 @@
 	"what.item.diamond_drord" : "Алмазный чеч",
 	"what.item.netherite_drord" : "Незеритовый чеч",
 	"what.item.fencing_sword" : "Шпага",
+	"what.item.hairdryer" : "Фен",
 
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -131,6 +132,7 @@
 	"what.block.broken_glass" : "Битое стекло",
 	"what.block.leather_block" : "Кожаный блок",
 	"what.block.grassblockmond_block" : "Дёрнмазный блок",
+	"what.block.dried_ghast" : "Сушёный гаст",
 
 
 	"death.attack.foot.pain": "%1$s наступил на лего",

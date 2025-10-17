@@ -88,6 +88,8 @@
 	"what.item.fencing_sword" : "Fencing sword",
 	"what.item.evil_bread" : "Evil bread",
 	"what.item.blays" : "Blays",
+	"what.item.hairdryer" : "Hair dryer",
+	"what.item.fried_ghast" : "Fried ghast",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -150,6 +152,7 @@
 	"what.block.whitescreen" : "Whitescreen",
 	"what.block.sqrt_of_2_rail" : "√2 length rail",
 	"what.block.broken_glass" : "Broken glass",
+	"what.block.dried_ghast" : "Dried ghast",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

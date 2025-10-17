@@ -35,6 +35,8 @@
 	{"category": "player","sounds": [{"name": "what/siren","stream": false}]},
     "what.bruh":
 	{"category": "player","sounds": [{"name": "what/bruh","stream": false}]},
+    "what.hairdryer":
+	{"category": "player","sounds": [{"name": "what/hairdryer","stream": false}]},
     "what.iamsteve":
 	{"category": "player","sounds": [{"name": "what/iamsteve","stream": false}]},
     "what.bite":

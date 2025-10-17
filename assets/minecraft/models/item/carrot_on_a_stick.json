@@ -18,6 +18,8 @@
 	{"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/fire_extinguisher"},
 	{"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/wave_bucket"},
 	{"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/iphone"},
-	{"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/pumpkin_gun"}
+	{"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/pumpkin_gun"},
+	{"predicate": {"custom_model_data": 32015},"model": "minecraft:item/item/hairdryer"}
+	
   ]
 }
