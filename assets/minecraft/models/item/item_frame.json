@@ -93,6 +93,7 @@
   {"predicate": {"custom_model_data": 32077},"model": "minecraft:item/block/leather_block"},
   {"predicate": {"custom_model_data": 32078},"model": "minecraft:item/block/grassblockmond_block"},
   {"predicate": {"custom_model_data": 32079},"model": "minecraft:item/block/dried_ghast"},
-  {"predicate": {"custom_model_data": 32080},"model": "minecraft:item/block/fried_ghast"}
+  {"predicate": {"custom_model_data": 32080},"model": "minecraft:item/block/fried_ghast"},
+  {"predicate": {"custom_model_data": 32081},"model": "minecraft:item/block/spawner"}
 ]
 }
