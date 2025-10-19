@@ -95,12 +95,22 @@
 	{"category": "player","sounds": [{"name": "what/ost/gromadji","stream": true}]},
 	"what.ost.lavachickeb":
 	{"category": "player","sounds": [{"name": "what/ost/lavachickeb","stream": true}]},
+	"what.ost.poom":
+	{"category": "player","sounds": [{"name": "what/ost/poom","stream": true}]},
 	"what.ost.fryingghasts":
 	{"category": "player","sounds": [{"name": "what/ost/fryingghasts","stream": true}]},
 	"what.ost.scott_joplin_the_original_chirps":
 	{"category": "player","sounds": [{"name": "what/ost/scott_joplin_the_original_chirps","stream": true}]},
 	"what.ost.fuckingpig":
 	{"category": "player","sounds": [{"name": "what/ost/fuckingpig","stream": true}]},
+	"what.ost.tweeter_alarm":
+	{"category": "player","sounds": [{"name": "what/ost/tweeter_alarm","stream": true}]},
+	"what.ost.pyramids":
+	{"category": "player","sounds": [{"name": "what/ost/pyramids","stream": true}]},
+	"what.ost.strad":
+	{"category": "player","sounds": [{"name": "what/ost/strad","stream": true}]},
+	"what.ost.concrete_houses":
+	{"category": "player","sounds": [{"name": "what/ost/concrete_houses","stream": true}]},
 	"what.ost.drums":
 	{"category": "player","sounds": [{"name": "what/ost/drums","stream": true}]},
 	"what.frying_pan":
