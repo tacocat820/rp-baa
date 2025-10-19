@@ -20,8 +20,7 @@
 	{"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/iphone"},
 	{"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/pumpkin_gun"},
 	{"predicate": {"custom_model_data": 32015},"model": "minecraft:item/item/hairdryer"},
-	{"predicate": {"custom_model_data": 32016},"model": "minecraft:item/item/trail_key"}
-	
-	
+	{"predicate": {"custom_model_data": 32016},"model": "minecraft:item/item/trail_key"},
+	{"predicate": {"custom_model_data": 32017},"model": "minecraft:item/item/rehsiugnitxe_erif"}
   ]
 }
