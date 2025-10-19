@@ -85,8 +85,8 @@
 	"what.block.brazil": "Блок Бразилии",
 	"what.block.windows12": "Windows 12",
 	"what.block.uranium_ore": "Урановая руда",
-	"what.block.backrooms" : "Стены backrooms",
-	"what.block.backrooms_carpet" : "Ковёр backrooms",
+	"what.block.backrooms" : "Стены закулисья",
+	"what.block.backrooms_carpet" : "Ковёр закулисья",
 	"what.block.meth_crystal" : "Рыжий мет",
 	"what.block.globe" : "Глобус (бразилии)",
 
@@ -133,7 +133,8 @@
 	"what.block.leather_block" : "Кожаный блок",
 	"what.block.grassblockmond_block" : "Дёрнмазный блок",
 	"what.block.dried_ghast" : "Сушёный гаст",
-
+	"what.block.drywall" : "Гипсокартон",
+	"what.block.backrooms_lamp" : "Лампа закулисья",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",

@@ -155,6 +155,8 @@
 	"what.block.sqrt_of_2_rail" : "√2 length rail",
 	"what.block.broken_glass" : "Broken glass",
 	"what.block.dried_ghast" : "Dried ghast",
+	"what.block.drywall" : "Drywall",
+	"what.block.backrooms_lamp" : "Backrooms lamp",
 	
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
