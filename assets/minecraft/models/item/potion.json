@@ -74,7 +74,9 @@
       {"predicate": {"custom_model_data": 32061},"model": "minecraft:item/ent/death"},
       {"predicate": {"custom_model_data": 32062},"model": "minecraft:item/ent/blays"},
       {"predicate": {"custom_model_data": 32063},"model": "minecraft:item/ent/gaster"},
-      {"predicate": {"custom_model_data": 32064},"model": "minecraft:item/ent/happyghast"}
+      {"predicate": {"custom_model_data": 32064},"model": "minecraft:item/ent/happyghast"},
+      {"predicate": {"custom_model_data": 32065},"model": "minecraft:item/ent/elon"},
+      {"predicate": {"custom_model_data": 32066},"model": "minecraft:item/ent/elon_head"}
       
       
 

@@ -96,6 +96,7 @@
   {"predicate": {"custom_model_data": 32080},"model": "minecraft:item/block/fried_ghast"},
   {"predicate": {"custom_model_data": 32081},"model": "minecraft:item/block/spawner"},
   {"predicate": {"custom_model_data": 32082},"model": "minecraft:item/block/drywall"},
-  {"predicate": {"custom_model_data": 32083},"model": "minecraft:item/block/backrooms_lamp"}
+  {"predicate": {"custom_model_data": 32083},"model": "minecraft:item/block/backrooms_lamp"},
+  {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/block/twitter"}
 ]
 }
