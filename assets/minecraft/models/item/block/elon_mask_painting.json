@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/templates/painting",
+  "textures": {
+    "image": "item/block/paintings/elon_mask"
+  }
+}

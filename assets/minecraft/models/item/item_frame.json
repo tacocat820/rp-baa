@@ -97,6 +97,7 @@
   {"predicate": {"custom_model_data": 32081},"model": "minecraft:item/block/spawner"},
   {"predicate": {"custom_model_data": 32082},"model": "minecraft:item/block/drywall"},
   {"predicate": {"custom_model_data": 32083},"model": "minecraft:item/block/backrooms_lamp"},
-  {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/block/twitter"}
+  {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/block/twitter"},
+  {"predicate": {"custom_model_data": 32085},"model": "minecraft:item/block/elon_mask_painting"}
 ]
 }
