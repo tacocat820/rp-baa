@@ -1,9 +1,10 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
+	"gui_light":"front",
 	"textures": {
-		"image": "item/block/die",
-		"particle": "#image"
+		"particle": "block/spruce_planks",
+		"image": "item/block/die"
 	},
 	"elements": [
 		{
@@ -22,12 +23,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [2.7, 2.7, 2.7]
+			"scale": [1, 1, 1]
 		},
 		"firstperson_righthand": {
-			"rotation": [-51, 180, -8],
+			"rotation": [-51, -180, -8],
 			"translation": [1.5, 4.25, 0],
-			"scale": [2.7, 2.7, 2.7]
+			"scale": [1, 1, 1]
 		},
 		"ground": {
 			"translation": [0, 4.25, 0],
@@ -38,8 +39,7 @@
 			"scale": [2.7, 2.7, 2.7]
 		},
 		"head": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 0, -7.75],
+			"translation": [0, 0, 7.75],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
