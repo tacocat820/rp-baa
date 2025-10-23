@@ -116,6 +116,8 @@
 	"what.frying_pan":
 	{"category": "player","sounds": [{"name": "what/hitsound","stream": false}]},
 	"what.asgor":
-	{"category": "player","sounds": [{"name": "what/asgor","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/asgor","stream": true}]},
+	"what.backrooms":
+	{"category": "player","sounds": [{"name": "what/backrooms","stream": true}]}
 
 }
