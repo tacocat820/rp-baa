@@ -22,6 +22,8 @@
 	{"predicate": {"custom_model_data": 32015},"model": "minecraft:item/item/hairdryer"},
 	{"predicate": {"custom_model_data": 32016},"model": "minecraft:item/item/trail_key"},
 	{"predicate": {"custom_model_data": 32017},"model": "minecraft:item/item/rehsiugnitxe_erif"},
-    {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/marker_tool"}
+    {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/marker_tool"},
+    {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/item/inflation"}
+    
   ]
 }
