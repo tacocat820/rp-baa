@@ -118,6 +118,10 @@
 	"what.asgor":
 	{"category": "player","sounds": [{"name": "what/asgor","stream": true}]},
 	"what.backrooms":
-	{"category": "player","sounds": [{"name": "what/backrooms","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/backrooms","stream": true}]},
+	"what.elonstutter":
+	{"category": "player","sounds": [{"name": "what/elonstutter","stream": true}]},
+	"what.musk":
+	{"category": "player","sounds": [{"name": "what/musk","stream": true}]}
 
 }
