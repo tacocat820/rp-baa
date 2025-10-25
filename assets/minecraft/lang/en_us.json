@@ -159,7 +159,8 @@
 	"what.block.drywall" : "Drywall",
 	"what.block.backrooms_lamp" : "Backrooms lamp",
 	"what.block.twitter" : "Twitter",
-	
+	"what.block.sv" : "Δ",
+
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
 	"death.attack.psycho": "%1$s bitten to death",
