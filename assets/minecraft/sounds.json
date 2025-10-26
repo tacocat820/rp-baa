@@ -122,6 +122,10 @@
 	"what.elonstutter":
 	{"category": "player","sounds": [{"name": "what/elonstutter","stream": true}]},
 	"what.musk":
-	{"category": "player","sounds": [{"name": "what/musk","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/musk","stream": true}]},
+	"what.gaster":
+	{"category": "player","sounds": [{"name": "what/gaster","stream": true}]},
+	"what.vanish":
+	{"category": "player","sounds": [{"name": "what/vanish","stream": true}]}
 
 }
