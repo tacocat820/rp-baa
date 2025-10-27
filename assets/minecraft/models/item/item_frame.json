@@ -100,6 +100,7 @@
   {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/block/twitter"},
   {"predicate": {"custom_model_data": 32085},"model": "minecraft:item/block/elon_mask_painting"},
   {"predicate": {"custom_model_data": 32086},"model": "minecraft:item/block/error_painting"},
-  {"predicate": {"custom_model_data": 32087},"model": "minecraft:item/block/sv"}
+  {"predicate": {"custom_model_data": 32087},"model": "minecraft:item/block/sv"},
+  {"predicate": {"custom_model_data": 32088},"model": "minecraft:item/block/backrooms_portal"}
 ]
 }
