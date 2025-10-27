@@ -51,6 +51,8 @@
 	{"category": "player","sounds": [{"name": "what/lefishe","stream": false}]},
 	"what.ohmypc":
 	{"category": "player","sounds": [{"name": "what/ohmypc","stream": false}]},
+	"what.puff":
+	{"category": "player","sounds": [{"name": "what/puff","stream": false}]},
 	"what.tetris_mono":
 	{"category": "player","sounds": [{"name": "what/tetris_mono","stream": true}]},
 	"what.tetris_stereo":
