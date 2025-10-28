@@ -279,6 +279,7 @@
 	"what.adv.backrooms.desc": "enter the backrooms",
 	"what.adv.frying": "You heartless bastard.",
 	"what.adv.frying.desc": "Commit happy ghast mass murder",
+
 	"what.adv.demon_core": "plutonium ball (cube)",
 	"what.adv.demon_core.desc": "get a demon core",
 	"what.adv.demon_core_mace": "Radioactive weapon",
@@ -288,6 +289,11 @@
 	"what.adv.speedrun": "Speedrunner",
 	"what.adv.speedrun.desc": "beat speedrun mode",
 	
+	"what.adv.cook_meth": "water white",
+	"what.adv.cook_meth.desc": "cook your first meth!",
+	"what.adv.rehsiugnitxe_erif": "*happy pyro sounds*",
+	"what.adv.rehsiugnitxe_erif.desc": "craft a evil version of fire extinguisher",
+
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
 
