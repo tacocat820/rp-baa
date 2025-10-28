@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/templates/block",
 	 "textures": {
-		"0": "item/block/hell_stone"
+		"b": "item/block/drem"
 	 }
  }
