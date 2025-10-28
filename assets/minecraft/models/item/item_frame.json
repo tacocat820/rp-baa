@@ -103,6 +103,8 @@
   {"predicate": {"custom_model_data": 32087},"model": "minecraft:item/block/sv"},
   {"predicate": {"custom_model_data": 32088},"model": "minecraft:item/block/backrooms_portal"},
   {"predicate": {"custom_model_data": 32089},"model": "minecraft:item/block/nuke"},
-  {"predicate": {"custom_model_data": 32090},"model": "minecraft:item/block/drem"}
+  {"predicate": {"custom_model_data": 32090},"model": "minecraft:item/block/drem"},
+  {"predicate": {"custom_model_data": 32091},"model": "minecraft:item/block/hell_stone"},
+  {"predicate": {"custom_model_data": 32092},"model": "minecraft:item/block/hell_stone_wedge"}
 ]
 }
