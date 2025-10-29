@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent":"item/templates/display_as_block",
 	"ambientocclusion": false,
+	"gui_light": "front",
 	"textures": {
 		"particle": "#b"
 	},
