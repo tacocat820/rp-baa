@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:comic.ttf",
+			"shift": [0, 0],
+			"size": 6.0,
+			"oversample": 3.0,
+			"skip": ""
+        }
+	]
+}

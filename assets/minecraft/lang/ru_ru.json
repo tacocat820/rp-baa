@@ -139,6 +139,7 @@
 	"what.block.dried_ghast" : "Сушёный гаст",
 	"what.block.drywall" : "Гипсокартон",
 	"what.block.backrooms_lamp" : "Лампа закулисья",
+	"what.block.weather_vane" : "Флюгер",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
