@@ -1,4 +1,7 @@
 {
+
+    "block.minecraft.gold_block": "Glock",
+
 	"what.help.pages_command":", to open the N-th help page.",
 	"what.help.page":"Page ",
 	"what.help.page.1":"1 - List\n2 - Crafting table 2",
@@ -202,7 +205,7 @@
 	"what.message.corab_dead": "<Corab> god dammit",
 	"what.message.welcome": "WELCOME TO STATE CALIFORNIA!",
 
-	"what.message.hello": "hello!!!! welcom 2 MINECRAFT 2 MINERAT!!!! click here for an introduction video please",
+	"what.message.hello": "hello!!!! welcom 2 MINECRAFT 2 MINERAT!!!! click here for an introduction video please. also i beg you to turn on music in settings",
 	
 	"what.adv.welcome": "minecraft 2 minerat",
 	"what.adv.welcome.desc": "transition from microdosing to megadosing",
