@@ -96,6 +96,7 @@
 	"what.item.wolfberries" : "Wolfberries",
 	"what.item.glass_of_poison" : "Glass of wolfberry juice",
 	"what.item.herobrine_spray" : "Herobrine spray",
+	"what.item.iron_stick" : "Herobrine spray",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -124,7 +125,7 @@
 	"what.block.bing_chilling" : "Bing Chilling",
 	"what.block.chinese_anvil" : "Chinese anvil",
 	
-	"what.block.dust" : "Dust block",
+	"what.block.dust_block" : "Dust block",
 	"what.block.solid_dust" : "Solid dust",
 	"what.block.dust_carpet" : "Dust carpet",
 	"what.block.microwave" : "Microwave",

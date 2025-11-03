@@ -77,6 +77,7 @@
 	"what.item.inflation" : "Инфляция",
 	"what.item.wolfberries" : "Волчьи ягоды",
 	"what.item.glass_of_poison" : "Стакан волки",
+	"what.item.iron_stick" : "Железная палка",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -106,7 +107,7 @@
 	"what.block.chinese_anvil" : "Китайский наковальня, +15 социальная кредит за один использовать",
 	"what.block.beans_plant" : "Бобовое растение",
 
-	"what.block.dust" : "Блок пыли",
+	"what.block.dust_block" : "Блок пыли",
 	"what.block.solid_dust" : "Твёрдая пыль",
 	"what.block.dust_carpet" : "Ковёр из пыли",
 	"what.block.microwave" : "Микроволновка",
