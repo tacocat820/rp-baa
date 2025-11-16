@@ -168,6 +168,8 @@
 	"what.block.twitter" : "Twitter",
 	"what.block.sv" : "Δ",
 	"what.block.weather_vane" : "Weather vane",
+	"what.block.task" : "🌊 🫧 task failed successfully 🚫 🐟",
+	"what.block.bubble_block" : "💧 🐠 bubble 🐬 ♻",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
