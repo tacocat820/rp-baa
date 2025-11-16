@@ -106,6 +106,7 @@
   {"predicate": {"custom_model_data": 32090},"model": "minecraft:item/block/drem"},
   {"predicate": {"custom_model_data": 32091},"model": "minecraft:item/block/hell_stone"},
   {"predicate": {"custom_model_data": 32092},"model": "minecraft:item/block/hell_stone_wedge"},
-  {"predicate": {"custom_model_data": 32093},"model": "minecraft:item/block/weather_vane"}
+  {"predicate": {"custom_model_data": 32093},"model": "minecraft:item/block/weather_vane"},
+  {"predicate": {"custom_model_data": 32094},"model": "minecraft:item/block/task"}
 ]
 }
