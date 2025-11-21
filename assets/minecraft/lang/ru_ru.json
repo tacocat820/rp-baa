@@ -85,6 +85,7 @@
 	"what.item.music_disc_otherside" : "мудыкальный дикс озерзайт",
 	"what.item.rickroll" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 	"what.item.herobrine_spray" : "Спрей от херобрина",
+	"what.item.optical_disc" : "♻ 💾 компакт-диск 💧 🐠",
 
 
 	"what.block.brazil": "Блок Бразилии",
@@ -143,6 +144,7 @@
 	"what.block.weather_vane" : "Флюгер",
 	"what.block.task" : "🌊 🫧 задача провалена успешно 🚫 🐟",
 	"what.block.bubble_block" : "🐬 💧 пузырь 🐠 ♻",
+	"what.block.xp_glass" : "💎 💿 стекло 🫧 🌊",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",

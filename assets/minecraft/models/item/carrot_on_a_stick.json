@@ -25,7 +25,8 @@
     {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/marker_tool"},
     {"predicate": {"custom_model_data": 32019},"model": "minecraft:item/item/inflation"},
     {"predicate": {"custom_model_data": 32020},"model": "minecraft:item/item/glass_of_poison"},
-    {"predicate": {"custom_model_data": 32021},"model": "minecraft:item/item/herobrine_spray"}
+    {"predicate": {"custom_model_data": 32021},"model": "minecraft:item/item/herobrine_spray"},
+    {"predicate": {"custom_model_data": 32022},"model": "minecraft:item/item/optical_disc"}
     
   ]
 }

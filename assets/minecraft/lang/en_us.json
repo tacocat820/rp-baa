@@ -99,7 +99,8 @@
 	"what.item.wolfberries" : "Wolfberries",
 	"what.item.glass_of_poison" : "Glass of wolfberry juice",
 	"what.item.herobrine_spray" : "Herobrine spray",
-	"what.item.iron_stick" : "Herobrine spray",
+	"what.item.iron_stick" : "Iron stick",
+	"what.item.optical_disc" : "♻ 💾 cd 💧 🐠",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -170,6 +171,7 @@
 	"what.block.weather_vane" : "Weather vane",
 	"what.block.task" : "🌊 🫧 task failed successfully 🚫 🐟",
 	"what.block.bubble_block" : "💧 🐠 bubble 🐬 ♻",
+	"what.block.xp_glass" : "💎 💿 glass 🫧 🌊",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

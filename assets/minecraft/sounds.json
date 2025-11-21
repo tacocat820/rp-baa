@@ -130,6 +130,7 @@
 	"what.vanish":
 	{"category": "player","sounds": [{"name": "what/vanish","stream": true}]},
 	"what.ost.eror":
-	{"category": "player","sounds": [{"name": "what/ost/eror","stream": true}]}
-
+	{"category": "player","sounds": [{"name": "what/ost/eror","stream": true}]},
+	"what.pop":
+	{"category": "player","sounds": [{"name": "what/pop","stream": false}]}
 }
