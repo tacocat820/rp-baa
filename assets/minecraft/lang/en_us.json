@@ -101,6 +101,8 @@
 	"what.item.herobrine_spray" : "Herobrine spray",
 	"what.item.iron_stick" : "Iron stick",
 	"what.item.optical_disc" : "♻ 💾 cd 💧 🐠",
+	"what.item.crystal_ball" : "🔮 💧 crystal ball 🐬 💣",
+	"what.item.fknife" : "🔪 🩸 🧠 knif- you are holding it wrong please stop 🚿 🐬 🥶",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -172,6 +174,7 @@
 	"what.block.task" : "🌊 🫧 task failed successfully 🚫 🐟",
 	"what.block.bubble_block" : "💧 🐠 bubble 🐬 ♻",
 	"what.block.xp_glass" : "💎 💿 glass 🫧 🌊",
+	"what.block.shitter" : "☁ 🫧 shitter 🪼 🦀",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
@@ -337,6 +340,7 @@
 	"what.mob.death" : "Executioner",
 	"what.mob.elon" : "Elon Musk",
 	"what.mob.boulder" : "Boulder",
+	"what.mob.tarantula" : "🩸 ☔ Tarantula 🌊 🕷",
 
 	"what.txt.recipe": "recipe"
 }

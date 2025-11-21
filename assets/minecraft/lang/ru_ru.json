@@ -86,6 +86,7 @@
 	"what.item.rickroll" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 	"what.item.herobrine_spray" : "Спрей от херобрина",
 	"what.item.optical_disc" : "♻ 💾 компакт-диск 💧 🐠",
+	"what.item.crystal_ball" : "🔮 💧 хрустальный шар 🐬 💣",
 
 
 	"what.block.brazil": "Блок Бразилии",
@@ -145,6 +146,7 @@
 	"what.block.task" : "🌊 🫧 задача провалена успешно 🚫 🐟",
 	"what.block.bubble_block" : "🐬 💧 пузырь 🐠 ♻",
 	"what.block.xp_glass" : "💎 💿 стекло 🫧 🌊",
+	"what.block.shitter" : "☁ 🫧 сральник 🪼 🦀",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",

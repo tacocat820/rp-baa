@@ -109,6 +109,7 @@
   {"predicate": {"custom_model_data": 32093},"model": "minecraft:item/block/weather_vane"},
   {"predicate": {"custom_model_data": 32094},"model": "minecraft:item/block/task"},
   {"predicate": {"custom_model_data": 32095},"model": "minecraft:item/block/bubble_block"},
-  {"predicate": {"custom_model_data": 32096},"model": "minecraft:item/block/xp_glass"}
+  {"predicate": {"custom_model_data": 32096},"model": "minecraft:item/block/xp_glass"},
+  {"predicate": {"custom_model_data": 32097},"model": "minecraft:item/block/shitter"}
 ]
 }
