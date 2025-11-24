@@ -103,6 +103,8 @@
 	"what.item.optical_disc" : "♻ 💾 cd 💧 🐠",
 	"what.item.crystal_ball" : "🔮 💧 crystal ball 🐬 💣",
 	"what.item.fknife" : "🔪 🩸 🧠 knif- you are holding it wrong please stop 🚿 🐬 🥶",
+	"what.item.plastic" : "Plastic",
+	"what.item.plastic_bag" : "Plastic bug",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -175,6 +177,8 @@
 	"what.block.bubble_block" : "💧 🐠 bubble 🐬 ♻",
 	"what.block.xp_glass" : "💎 💿 glass 🫧 🌊",
 	"what.block.shitter" : "☁ 🫧 shitter 🪼 🦀",
+	"what.block.trash_bag" : "Trash bag",
+	"what.block.plastic_block" : "Plastic block",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
@@ -306,6 +310,8 @@
 	"what.adv.cook_meth.desc": "cook your first meth!",
 	"what.adv.rehsiugnitxe_erif": "*happy pyro sounds*",
 	"what.adv.rehsiugnitxe_erif.desc": "craft a evil version of fire extinguisher",
+	"what.adv.trash_world": "garbage dweller",
+	"what.adv.trash_world.desc": "enter the trash dimension",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",

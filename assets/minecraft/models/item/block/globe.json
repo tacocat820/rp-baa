@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/templates/display_as_block",
+	"parent": "minecraft:block/block",
 	"textures": {
 		"0": "item/block/globe",
 		"particle": "item/block/globe"

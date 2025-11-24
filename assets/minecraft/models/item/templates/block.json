@@ -1,6 +1,5 @@
 {
-	"credit": "Made with Blockbench",
-	"parent":"item/templates/display_as_block",
+	"parent":"minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#b"
@@ -10,12 +9,12 @@
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#b"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#b"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#b"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#b"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#b"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#b"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#b", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#b", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#b", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#b", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#b", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#b", "cullface": "down"}
 			}
 		}
 	]

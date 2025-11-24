@@ -1,7 +1,7 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/templates/display_as_block",
+	"parent": "minecraft:block/block",
 	"textures": {
 		"0": "item/block/shitter",
 		"particle": "item/block/shitter"

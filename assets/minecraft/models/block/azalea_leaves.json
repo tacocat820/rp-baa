@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/templates/cube_all_2",
+  "textures": {
+    "all": "minecraft:block/azalea_leaves"
+  }
+}

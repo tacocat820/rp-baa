@@ -78,6 +78,8 @@
 	"what.item.wolfberries" : "Волчьи ягоды",
 	"what.item.glass_of_poison" : "Стакан волки",
 	"what.item.iron_stick" : "Железная палка",
+	"what.item.plastic" : "Пластик",
+	"what.item.plastic_bag" : "Пластиковый пакетик",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -147,6 +149,8 @@
 	"what.block.bubble_block" : "🐬 💧 пузырь 🐠 ♻",
 	"what.block.xp_glass" : "💎 💿 стекло 🫧 🌊",
 	"what.block.shitter" : "☁ 🫧 сральник 🪼 🦀",
+	"what.block.trash_bag" : "Мусорный мешок",
+	"what.block.plastic_block" : "Пластиковый блок",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
@@ -270,6 +274,8 @@
 	"what.adv.demon_core_nuke.desc": "создайте ядерное оружие",
 	"what.adv.speedrun": "ООО ПАВЕЗЛО ПАВЕЗЛО",
 	"what.adv.speedrun.desc": "заспидранить майнкрап",
+	"what.adv.trash_world": "..откуда бомжи родом",
+	"what.adv.trash_world.desc": "попадите на cвалку",
 
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
