@@ -132,5 +132,9 @@
 	"what.ost.eror":
 	{"category": "player","sounds": [{"name": "what/ost/eror","stream": true}]},
 	"what.pop":
-	{"category": "player","sounds": [{"name": "what/pop","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/pop","stream": false}]},
+	"what.ost.garbagemusic":
+	{"category": "player","sounds": [{"name": "what/ost/garbagemusic","stream": false}]},
+	"what.ost.speedrunmode":
+	{"category": "player","sounds": [{"name": "what/ost/speedrunmode","stream": false}]}
 }

@@ -447,6 +447,7 @@
     {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/otherside"},
     {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/item/what"},
     {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/item/plastic"},
-    {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/item/plastic_bag"}
+    {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/item/plastic_bag"},
+    {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/item/garbagemusic"}
   ]
 }
