@@ -105,6 +105,7 @@
 	"what.item.fknife" : "🔪 🩸 🧠 knif- you are holding it wrong please stop 🚿 🐬 🥶",
 	"what.item.plastic" : "Plastic",
 	"what.item.plastic_bag" : "Plastic bug",
+	"what.item.plastic_sword" : "Plastic sword",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -179,6 +180,10 @@
 	"what.block.shitter" : "☁ 🫧 shitter 🪼 🦀",
 	"what.block.trash_bag" : "Trash bag",
 	"what.block.plastic_block" : "Plastic block",
+
+	"what.block.button_a" : "\"A\"",
+	"what.block.button_b" : "\"B\"",
+	"what.block.button_c" : "\"C\"",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

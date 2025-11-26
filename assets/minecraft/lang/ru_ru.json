@@ -63,7 +63,7 @@
 	"what.item.concrete_baguette" : "Б(а)етон",
 
 	"what.item.demon_core_mace" : "\"Булава\" ☠",
-	"what.item.rock" : "Камень",
+	"what.item.rock" : "Камешек",
 	
 	"what.item.wooden_drord" : "Деревянный чеч",
 	"what.item.stone_drord" : "Каменный чеч",
@@ -80,6 +80,7 @@
 	"what.item.iron_stick" : "Железная палка",
 	"what.item.plastic" : "Пластик",
 	"what.item.plastic_bag" : "Пластиковый пакетик",
+	"what.item.plastic_sword" : "Пластиковый меч",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
