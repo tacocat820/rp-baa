@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data": 32000},"model": "minecraft:item/item/stick_sword"},
-    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/fencing_sword"}
+    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/fencing_sword"},
+    {"predicate": {"custom_model_data": 32002},"model": "minecraft:item/item/plastic_sword"}
   ]
 }
