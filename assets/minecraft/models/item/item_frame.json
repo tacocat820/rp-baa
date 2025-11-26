@@ -112,6 +112,9 @@
   {"predicate": {"custom_model_data": 32096},"model": "minecraft:item/block/xp_glass"},
   {"predicate": {"custom_model_data": 32097},"model": "minecraft:item/block/shitter"},
   {"predicate": {"custom_model_data": 32098},"model": "minecraft:item/block/trash_bag"},
-  {"predicate": {"custom_model_data": 32099},"model": "minecraft:item/block/plastic_block"}
+  {"predicate": {"custom_model_data": 32099},"model": "minecraft:item/block/plastic_block"},
+  {"predicate": {"custom_model_data": 32100},"model": "minecraft:item/block/button_a"},
+  {"predicate": {"custom_model_data": 32101},"model": "minecraft:item/block/button_b"},
+  {"predicate": {"custom_model_data": 32102},"model": "minecraft:item/block/button_c"}
 ]
 }
