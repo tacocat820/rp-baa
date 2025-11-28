@@ -78,7 +78,8 @@
       {"predicate": {"custom_model_data": 32065},"model": "minecraft:item/ent/elon"},
       {"predicate": {"custom_model_data": 32066},"model": "minecraft:item/ent/elon_head"},
       {"predicate": {"custom_model_data": 32067},"model": "minecraft:item/ent/boulder"},
-      {"predicate": {"custom_model_data": 32068},"model": "minecraft:item/ent/tarantula"}
+      {"predicate": {"custom_model_data": 32068},"model": "minecraft:item/ent/tarantula"},
+      {"predicate": {"custom_model_data": 32069},"model": "minecraft:item/ent/trebuchet"}
       
       
 
