@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/block",
+	"parent": "item/templates/display_as_block",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/block/chinese_anvil",

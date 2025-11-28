@@ -1,28 +1,10 @@
 {
-	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
-
+	"parent":"minecraft:block/block",
+	"credit": "Made with Клавиатура",
 	"display": {
-		"thirdperson_righthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_righthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"ground": {
-			"translation": [0, 1.5, 0],
-			"scale": [0.34, 0.34, 0.34]
-		},
 		"gui": {
 			"rotation": [30, 45, 0],
 			"scale": [0.6, 0.6, 0.6]
-		},
-		"fixed": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"head": {
-			"translation": [0, -14.5, 0],
-			"scale": [2.3, 2.3, 2.3]
 		}
 	}
 }

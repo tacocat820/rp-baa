@@ -1,5 +1,5 @@
 {
-	"parent":"minecraft:block/block",
+	"parent":"item/templates/display_as_block",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#b"

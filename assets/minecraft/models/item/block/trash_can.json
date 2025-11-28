@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/block",
+	"parent": "item/templates/display_as_block",
 	"textures": {
 		"0": "item/block/trash_can",
 		"particle": "item/block/trash_can"

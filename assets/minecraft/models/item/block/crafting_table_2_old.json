@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/block",
+	"parent": "item/templates/display_as_block",
 	"textures": {
 		"1": "block/oak_planks",
 		"2": "block/iron_block",
