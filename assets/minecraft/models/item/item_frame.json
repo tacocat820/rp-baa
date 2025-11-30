@@ -116,6 +116,7 @@
   {"predicate": {"custom_model_data": 32100},"model": "minecraft:item/block/button_a"},
   {"predicate": {"custom_model_data": 32101},"model": "minecraft:item/block/button_b"},
   {"predicate": {"custom_model_data": 32102},"model": "minecraft:item/block/button_c"},
-  {"predicate": {"custom_model_data": 32103},"model": "minecraft:item/block/just_big_block"}
+  {"predicate": {"custom_model_data": 32103},"model": "minecraft:item/block/just_big_block"},
+  {"predicate": {"custom_model_data": 32104},"model": "minecraft:item/block/big_crafting_table"}
 ]
 }
