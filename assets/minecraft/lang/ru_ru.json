@@ -152,6 +152,9 @@
 	"what.block.shitter" : "☁ 🫧 сральник 🪼 🦀",
 	"what.block.trash_bag" : "Мусорный мешок",
 	"what.block.plastic_block" : "Пластиковый блок",
+	"what.block.big_crafting_table" : "Большой верстак",
+	"what.block.plastic_pool_balls" : "Пластиковые шарики",
+	"what.block.conveyor_belt" : "Конвейерная лента",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
