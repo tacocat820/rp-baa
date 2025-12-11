@@ -81,6 +81,7 @@
       {"predicate": {"custom_model_data": 32068},"model": "minecraft:item/ent/tarantula"},
       {"predicate": {"custom_model_data": 32069},"model": "minecraft:item/ent/trebuchet"},
       {"predicate": {"custom_model_data": 32070},"model": "minecraft:item/ent/flat_design/idle"},
-	  {"predicate": {"custom_model_data": 32071},"model": "minecraft:item/ent/flat_design/angry"}
+	  {"predicate": {"custom_model_data": 32071},"model": "minecraft:item/ent/flat_design/angry"},
+	  {"predicate": {"custom_model_data": 32072},"model": "minecraft:item/ent/trasher"}
     ]
   }
