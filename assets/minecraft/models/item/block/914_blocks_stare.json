@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/templates/painting",
+  "textures": {
+    "image": "item/block/914_blocks_stare"
+  }
+}
