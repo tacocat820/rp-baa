@@ -1,10 +1,9 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"gui_light":"front",
 	"textures": {
-		"particle": "block/spruce_planks",
-		"image": "item/block/die"
+		"image": "item/block/die",
+		"particle": "block/spruce_planks"
 	},
 	"elements": [
 		{
@@ -12,23 +11,16 @@
 			"to": [32, 32, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#image"},
-				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#image"},
-				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#image", "cullface": "south"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#image", "cullface": "north"}
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
-		"thirdperson_righthand": {
-			"scale": [1, 1, 1]
-		},
 		"firstperson_righthand": {
 			"rotation": [-51, -180, -8],
-			"translation": [1.5, 4.25, 0],
-			"scale": [1, 1, 1]
+			"translation": [1.5, 4.25, 0]
 		},
 		"ground": {
 			"translation": [0, 4.25, 0],
@@ -39,7 +31,7 @@
 			"scale": [2.7, 2.7, 2.7]
 		},
 		"head": {
-			"translation": [0, 0, 7.75],
+			"translation": [0, 0, 7.9],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
