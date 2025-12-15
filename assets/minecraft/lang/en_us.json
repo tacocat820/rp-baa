@@ -354,7 +354,108 @@
 	"what.mob.death" : "Executioner",
 	"what.mob.elon" : "Elon Musk",
 	"what.mob.boulder" : "Boulder",
-	"what.mob.tarantula" : "🩸 ☔ Tarantula 🌊 🕷",
+	"what.mob.tarantula" : "🩸 ☔ Cupcake 🌊 🕷",
 
-	"what.txt.recipe": "recipe"
+	"what.txt.recipe": "recipe",
+
+	"what.message.wwtb.intro.1": "heyy yall 😘😘😘",
+	"what.message.wwtb.intro.2": "it's your fav who wants to be a quadrillionare  hostttt",
+	"what.message.wwtb.intro.3": "ME!!!!!",
+	"what.message.wwtb.intro.4": "okay we startin'",
+	"what.message.wwtb.intro.5": "3",
+	"what.message.wwtb.intro.6": "2",
+	"what.message.wwtb.intro.7": "y'all should sit btw",
+	"what.message.wwtb.intro.8": "1",
+	"what.message.wwtb.intro.9": "start",
+	
+
+	"what.message.wwtb.q1.1": "question 1 what is 2 + 2 ",
+	"what.message.wwtb.q1.2": "3",
+	"what.message.wwtb.q1.3": "4",
+	"what.message.wwtb.q1.4": "5",
+	"what.message.wwtb.q1.5": "the answer was 4!",
+	
+
+	"what.message.wwtb.q2.1": "where did the word \"backpack\" come from?",
+	"what.message.wwtb.q2.2": "japanese",
+	"what.message.wwtb.q2.3": "french",
+	"what.message.wwtb.q2.4": "english",
+	"what.message.wwtb.q2.5": "the answer was english!",
+	
+
+	"what.message.wwtb.q3.1": "how many children does steve jobs have?",
+	"what.message.wwtb.q3.2": "0",
+	"what.message.wwtb.q3.3": "4",
+	"what.message.wwtb.q3.4": "9",
+	"what.message.wwtb.q3.5": "the answer was 4!",
+	
+
+	"what.message.wwtb.q4.1": "how much HP does NOTJUAN have?",
+	"what.message.wwtb.q4.2": "65536",
+	"what.message.wwtb.q4.3": "67123",
+	"what.message.wwtb.q4.4": "61536",
+	"what.message.wwtb.q4.5": "the answer was 65536!",
+	
+
+	"what.message.wwtb.q5.1": "how much HP does puffercopter have?",
+	"what.message.wwtb.q5.2": "Found no elements matching Health",
+	"what.message.wwtb.q5.3": "10",
+	"what.message.wwtb.q5.4": "100",
+	"what.message.wwtb.q5.5": "the answer was Found no elements matching Health!",
+	
+
+	"what.message.wwtb.q6.1": "how to make a chair in minefart 2?",
+	"what.message.wwtb.q6.2": "craft",
+	"what.message.wwtb.q6.3": "plant",
+	"what.message.wwtb.q6.4": "poop",
+	"what.message.wwtb.q6.5": "the answer was plant!",
+	
+
+	"what.message.wwtb.q7.1": "common logarithm of 541",
+	"what.message.wwtb.q7.2": "~4.82",
+	"what.message.wwtb.q7.3": "~1.39",
+	"what.message.wwtb.q7.4": "~2.73",
+	"what.message.wwtb.q7.5": "the answer was ~2.73!",
+	
+
+	"what.message.wwtb.q8.1": "where does miencrap 2 minerat OST - 'Steppig' play?",
+	"what.message.wwtb.q8.2": "the nether",
+	"what.message.wwtb.q8.3": "the end",
+	"what.message.wwtb.q8.4": "the   overworld",
+	"what.message.wwtb.q8.5": "the answer was the nether!",
+	
+
+	"what.message.wwtb.q9.1": "how many starts does this project have on gith*b?",
+	"what.message.wwtb.q9.2": "less than zero",
+	"what.message.wwtb.q9.3": "zero",
+	"what.message.wwtb.q9.4": "more than zero",
+	"what.message.wwtb.q9.5": "the answer was more than zero!",
+	
+
+	"what.message.wwtb.q10.1": "where can you find emeralds",
+	"what.message.wwtb.q10.2": "villager village",
+	"what.message.wwtb.q10.3": "death village",
+	"what.message.wwtb.q10.4": "шайлушай village",
+	"what.message.wwtb.q10.5": "the answer was death village!",
+	
+
+	"what.message.wwtb.q11.1": "who shall you MURDER to get the bing chilling block?",
+	"what.message.wwtb.q11.2": "spider",
+	"what.message.wwtb.q11.3": "NOTJUAN",
+	"what.message.wwtb.q11.4": "creeper",
+	"what.message.wwtb.q11.5": "the answer was creeper!",
+	
+
+	"what.message.wwtb.q12.1": "the fifth digit of π?",
+	"what.message.wwtb.q12.2": "5",
+	"what.message.wwtb.q12.3": "7",
+	"what.message.wwtb.q12.4": "9",
+	"what.message.wwtb.q12.5": "the answer was 5!",
+	
+
+	"what.message.wwtb.q13.1": "which one of those is a music disk in miencrap 2 minerat?",
+	"what.message.wwtb.q13.2": "miencrap 2 minerat OST - Greece",
+	"what.message.wwtb.q13.3": "miencrap 2 minerat OST - Truly Garbage Music",
+	"what.message.wwtb.q13.4": "miencrap 2 minerat OST - The Original Chirps",
+	"what.message.wwtb.q13.5": "the answer was miencrap 2 minerat OST - Truly Garbage Music!"
 }
