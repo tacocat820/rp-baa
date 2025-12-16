@@ -122,6 +122,7 @@
   {"predicate": {"custom_model_data": 32106},"model": "minecraft:item/block/conveyor_belt"},
   {"predicate": {"custom_model_data": 32107},"model": "minecraft:item/block/fridge"},
   {"predicate": {"custom_model_data": 32108},"model": "minecraft:item/block/914_blocks_stare"},
-  {"predicate": {"custom_model_data": 32109},"model": "minecraft:item/block/brazil_painting"}
+  {"predicate": {"custom_model_data": 32109},"model": "minecraft:item/block/brazil_painting"},
+  {"predicate": {"custom_model_data": 32110},"model": "minecraft:item/block/red_wall"}
 ]
 }
