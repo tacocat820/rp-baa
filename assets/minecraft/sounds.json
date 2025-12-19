@@ -140,5 +140,7 @@
 	"what.ost.wwtb":
 	{"category": "player","sounds": [{"name": "what/ost/wwtb","stream": false}]},
 	"what.gong":
-	{"category": "player","sounds": [{"name": "what/gong","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/gong","stream": false}]},
+	"what.turn_off":
+	{"category": "player","sounds": [{"name": "what/turn_off","stream": false}]}
 }
