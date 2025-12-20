@@ -62,7 +62,7 @@
 	"what.item.caramel" : "Caramel",
 	"what.item.soap" : "Soap",
 	"what.item.nft" : "NFT",
-	"what.item.iphone" : "IPhone 67 SMART ULTRA PRO MEGA MAX ULTIMATE EDITION",
+	"what.item.iphone" : "IPhone 69 SMART ULTRA PRO MEGA MAX ULTIMATE EDITION",
 	"what.item.concrete_baguette" : "Concrete baguette",
 	"what.item.rickroll_checker" : "Rickroll checker",
 	
@@ -203,7 +203,7 @@
 	"what.message.laugh": "hahahahaahaahdsiaioqadioqw",
 	"what.message.no": "no.",
 	"what.message.piecesleft": " PIECES LEFT",
-	"what.message.thankyoufor": "<Steve Jobs> thank you for purchasing our newest IPhone 67 model!",
+	"what.message.thankyoufor": "<Steve Jobs> thank you for purchasing our newest IPhone 69 model!",
 	"what.message.socialcredit": "Glory to the CCP!",
 	"what.message.nothere": "Not here.",
 	"what.message.gaster_1": "I HAVE SOMETHING\n I WANT TO SHOW YOU SOMETHING\n I THINK YOU WILL FIND\n VERY, VERY INTERESTING",
@@ -249,7 +249,7 @@
 	"what.adv.stone.desc": "get cobblestone",
 	"what.adv.iron": "ironically easy",
 	"what.adv.iron.desc": "get iron",
-	"what.adv.hell": "welcome to the state california!",
+	"what.adv.hell": "welcome to state california!",
 	"what.adv.hell.desc": "get into the nether",
 	"what.adv.herobrine": "asdpokaps",
 	"what.adv.herobrine.desc": "asdioajsdoiasjdoiasd",
@@ -324,6 +324,14 @@
 	"what.adv.trash_world.desc": "enter the trash dimension",
 	"what.adv.evilmachine": "meta horror",
 	"what.adv.evilmachine.desc": "meet evil machine that crashes you are game",
+	"what.adv.eror": "Task failed successfully",
+	"what.adv.eror.desc": "enter dimension xp",
+	"what.adv.beeraid": "Bee afraid",
+	"what.adv.beeraid.desc": "trigger beeraid",
+	"what.adv.l": "L",
+	"what.adv.l.desc": "die",
+	"what.adv.massivel": "Massive L",
+	"what.adv.massivel.desc": "die 100 times",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
@@ -450,7 +458,7 @@
 	"what.message.wwtb.q11.5": "the answer was creeper!",
 	
 
-	"what.message.wwtb.q12.1": "the fifth digit of π?",
+	"what.message.wwtb.q12.1": "the ninth digit of π (assuming that the first digit of π is 3)?",
 	"what.message.wwtb.q12.2": "5",
 	"what.message.wwtb.q12.3": "7",
 	"what.message.wwtb.q12.4": "9",
@@ -461,5 +469,54 @@
 	"what.message.wwtb.q13.2": "miencrap 2 minerat OST - Greece",
 	"what.message.wwtb.q13.3": "miencrap 2 minerat OST - Truly Garbage Music",
 	"what.message.wwtb.q13.4": "miencrap 2 minerat OST - The Original Chirps",
-	"what.message.wwtb.q13.5": "the answer was miencrap 2 minerat OST - Truly Garbage Music!"
+	"what.message.wwtb.q13.5": "the answer was miencrap 2 minerat OST - Truly Garbage Music!",
+	
+
+	"what.message.wwtb.q14.1": "what's NOT in miencrap 2 minerat?",
+	"what.message.wwtb.q14.2": "the Freaking ",
+	"what.message.wwtb.q14.3": "iphone 69",
+	"what.message.wwtb.q14.4": "global warming and global cooling",
+	"what.message.wwtb.q14.5": "the answer was the Freaking ",
+	
+
+	"what.message.wwtb.q15.1": "who made OBJMC?",
+	"what.message.wwtb.q15.2": "Steve Jobs",
+	"what.message.wwtb.q15.3": "Cooltander",
+	"what.message.wwtb.q15.4": "Godlander",
+	"what.message.wwtb.q15.5": "the answer was Godlander! Glory to the OBJMC!",
+	
+
+	"what.message.wwtb.q16.1": "77 + 33 = ?",
+	"what.message.wwtb.q16.2": "the Freaking ",
+	"what.message.wwtb.q16.3": "100",
+	"what.message.wwtb.q16.4": "110",
+	"what.message.wwtb.q16.5": "the answer was 110",
+	
+
+	"what.message.wwtb.q17.1": "2 / 0 = ?",
+	"what.message.wwtb.q17.2": "3",
+	"what.message.wwtb.q17.3": "2 / 0",
+	"what.message.wwtb.q17.4": "Infinity",
+	"what.message.wwtb.q17.5": "the answer was 2 / 0",
+	
+
+	"what.message.wwtb.q18.1": "What miencrap 2 minerat update renamed golden block to Glock?",
+	"what.message.wwtb.q18.2": "v1.21.10000",
+	"what.message.wwtb.q18.3": "v1.21.10001",
+	"what.message.wwtb.q18.4": "v1.21.9999",
+	"what.message.wwtb.q18.5": "the answer was v1.21.10000",
+	
+
+	"what.message.wwtb.q19.1": "What song is featured in miencrap 2 minerat?",
+	"what.message.wwtb.q19.2": "https://www.youtube.com/watch?v=u5NqO2v_xnY",
+	"what.message.wwtb.q19.3": "https://www.youtube.com/watch?v=5DlROhT8NgU",
+	"what.message.wwtb.q19.4": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+	"what.message.wwtb.q19.5": "the answer was https://www.youtube.com/watch?v=u5NqO2v_xnY!",
+	
+
+	"what.message.wwtb.q20.1": "What is the custom model data of the deer nft?",
+	"what.message.wwtb.q20.2": "32017",
+	"what.message.wwtb.q20.3": "32017",
+	"what.message.wwtb.q20.4": "32015",
+	"what.message.wwtb.q20.5": "the answer was 32015"
 }
