@@ -128,6 +128,7 @@
   {"predicate": {"custom_model_data": 32112},"model": "minecraft:item/item/heating_radiator_hot"},
   {"predicate": {"custom_model_data": 32113},"model": "minecraft:item/block/crappy_cobblestone"},
   {"predicate": {"custom_model_data": 32114},"model": "minecraft:item/block/cloud"},
-  {"predicate": {"custom_model_data": 32115},"model": "minecraft:item/block/matrix_block"}
+  {"predicate": {"custom_model_data": 32115},"model": "minecraft:item/block/matrix_block"},
+  {"predicate": {"custom_model_data": 32116},"model": "minecraft:item/block/epilepsyrooms"}
   ]
 }

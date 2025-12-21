@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/templates/block",
   "textures": {
-    "b": "item/block/cloud"
+    "b": "marker/epilepsy"
   }
 }

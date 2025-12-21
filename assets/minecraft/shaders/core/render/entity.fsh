@@ -41,17 +41,18 @@ void main() {
     #moj_import<objmc_light.glsl>
 
     if (isMCrapCustom == 1) {
-        //sin(fract(GameTime * 600) * 3)
-        color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
+        color = vec4(mod(Pos,vec3(1,1,1)),1);
     } else if (isMCrapCustom == 2) {
-        float pos2 = mod(Pos.x+Pos.z+Pos.y*0.5,6);
+        float pos2 = mod((Pos.x+Pos.z+Pos.y)*0.5,7);
         if ( pos2 > 4 ) {
-            color = vec4(vec3(pos2),(1-abs(pos2-5))/3);
+            color = vec4(vec3(pos2),(1-abs(pos2-5))*color.a/1.5);
         } else {
             color = vec4(0,0,0,0);
         }
     } else if (isMCrapCustom == 3) {
         color = vec4(255,255,255,255);
+    } else if (isMCrapCustom == 4) {
+        color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
     }
 
     if (color.a < 0.01) discard;

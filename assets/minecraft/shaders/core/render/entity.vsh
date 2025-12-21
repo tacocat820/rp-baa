@@ -53,6 +53,8 @@ void main() {
         isMCrapCustom = 2;
     } else if (color == ivec4(13,11,91,178)) {
         isMCrapCustom = 3;
+    } else if (color == ivec4(31,89,101,178)) {
+        isMCrapCustom = 4;
     } else {
         isMCrapCustom = 0;
     }

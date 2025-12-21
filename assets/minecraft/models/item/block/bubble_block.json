@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:item/templates/block",
-	 "textures": {
-		"b": "item/block/bubble_block"
+	"parent": "minecraft:item/templates/block_with_marker",
+	"textures": {
+		"b": "item/block/bubble_block",
+		"marker": "marker/bubble_shine"
 	 }
 }
