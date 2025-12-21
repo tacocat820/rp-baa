@@ -20,6 +20,7 @@ in vec4 overlayColor;
 in vec2 texCoord;
 in vec2 texCoord2;
 in vec3 Pos;
+in vec3 ModelViewMatrix;
 in float transition;
 
 flat in int isCustom;
@@ -30,6 +31,8 @@ flat in int isMCrapCustom;
 
 out vec4 fragColor;
 
+uniform float GameTime;
+
 void main() {
     vec4 color = mix(texture(Sampler0, texCoord), texture(Sampler0, texCoord2), transition);
 
@@ -38,7 +41,8 @@ void main() {
     #moj_import<objmc_light.glsl>
 
     if (isMCrapCustom == 1) {
-        color = vec4(mod(Pos,vec3(1,1,1)),1);
+        //sin(fract(GameTime * 600) * 3)
+        color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
     } else if (isMCrapCustom == 2) {
         float pos2 = mod(Pos.x+Pos.z+Pos.y*0.5,6);
         if ( pos2 > 4 ) {
