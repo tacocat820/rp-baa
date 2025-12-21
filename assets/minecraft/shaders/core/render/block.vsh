@@ -28,6 +28,7 @@ out float transition;
 
 flat out int isCustom;
 flat out int noshadow;
+flat out int isMCrapCustom;
 
 #moj_import <objmc_tools.glsl>
 
@@ -37,6 +38,14 @@ void main() {
     texCoord = UV0;
     vertexColor = Color;
     lightColor = minecraft_sample_lightmap(Sampler2, UV2);
+
+    vec4 sample = textureLod(Sampler0, UV0, -4);
+    ivec4 color = ivec4(round(sample * 255.0));
+    if (color == ivec4(53,66,91,178)) {
+        isMCrapCustom = 1;
+    } else {
+        isMCrapCustom = 0;
+    }
 
     //objmc
     #define BLOCK

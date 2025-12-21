@@ -1,11 +1,6 @@
 {
   "parent": "minecraft:item/templates/test_no_shadow",
   "textures": {
-    "0": "item/block/cloud",
-    "1": "item/block/cloud",
-    "2": "item/block/cloud",
-    "3": "item/block/cloud",
-    "4": "item/block/cloud",
-    "5": "item/block/cloud"
+    "b": "item/block/cloud"
   }
 }

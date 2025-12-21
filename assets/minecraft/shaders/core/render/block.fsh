@@ -20,6 +20,7 @@ in float transition;
 
 flat in int isCustom;
 flat in int noshadow;
+flat in int isMCrapCustom;
 
 out vec4 fragColor;
 
@@ -29,6 +30,11 @@ void main() {
     //custom lighting
     #define BLOCK
     #moj_import<objmc_light.glsl>
+
+    if (isMCrapCustom == 1) {
+        //discard;
+        color = vec4(mod(Pos,vec3(1,1,1)),1);
+    }
 
     if (color.a < 0.01) discard;
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);

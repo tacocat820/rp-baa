@@ -34,6 +34,7 @@ flat out int isCustom;
 flat out int isGUI;
 flat out int isHand;
 flat out int noshadow;
+flat out int isMCrapCustom;
 
 #moj_import <objmc_tools.glsl>
 
@@ -43,6 +44,18 @@ void main() {
     overlayColor = vec4(1);
     lightColor = minecraft_sample_lightmap(Sampler2, UV2);
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
+
+    vec4 sample = textureLod(Sampler0, UV0, -4);
+    ivec4 color = ivec4(round(sample * 255.0));
+    if (color == ivec4(53,66,91,178)) {
+        isMCrapCustom = 1;
+    } else if (color == ivec4(91,59,73,178)) {
+        isMCrapCustom = 2;
+    } else if (color == ivec4(13,11,91,178)) {
+        isMCrapCustom = 3;
+    } else {
+        isMCrapCustom = 0;
+    }
 
     //objmc
     #define ENTITY

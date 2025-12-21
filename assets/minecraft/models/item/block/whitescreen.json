@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:item/templates/block",
 	 "textures": {
-		"b": "item/block/whitescreen"
+		"b": "marker/whitest_white",
+		"particle": "item/block/whitescreen"
 	 }
  }
