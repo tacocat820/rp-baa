@@ -53,6 +53,8 @@ void main() {
         color = vec4(255,255,255,255);
     } else if (isMCrapCustom == 4) {
         color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
+    } else if (isMCrapCustom == 5) {
+        color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
     }
 
     if (color.a < 0.01) discard;
