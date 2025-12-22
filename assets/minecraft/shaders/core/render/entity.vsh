@@ -56,7 +56,7 @@ void main() {
         isMCrapCustom = 3;
     } else if (color == ivec4(31,89,101,178)) {
         isMCrapCustom = 4;
-    } else if (color == ivec4(31,89,101,178)) {
+    } else if (color == ivec4(31,89,101,120)) {
         isMCrapCustom = 5;
     } else if (color == ivec4(228,204,253,174)) {
         isMCrapCustom = 6;
