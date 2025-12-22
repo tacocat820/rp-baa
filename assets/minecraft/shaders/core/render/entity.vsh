@@ -45,6 +45,7 @@ void main() {
     lightColor = minecraft_sample_lightmap(Sampler2, UV2);
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
 
+    //detect
     vec4 sample = textureLod(Sampler0, UV0, -4);
     ivec4 color = ivec4(round(sample * 255.0));
     if (color == ivec4(53,66,91,178)) {
@@ -55,8 +56,10 @@ void main() {
         isMCrapCustom = 3;
     } else if (color == ivec4(31,89,101,178)) {
         isMCrapCustom = 4;
-    } else if (color == ivec4(31,89,101,0)) {
+    } else if (color == ivec4(31,89,101,178)) {
         isMCrapCustom = 5;
+    } else if (color == ivec4(228,204,253,174)) {
+        isMCrapCustom = 6;
     } else {
         isMCrapCustom = 0;
     }

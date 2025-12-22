@@ -9,6 +9,7 @@ uniform vec4 ColorModulator;
 uniform float FogStart;
 uniform float FogEnd;
 uniform vec4 FogColor;
+uniform vec3 ChunkOffset;
 
 uniform vec3 Light0_Direction;
 uniform vec3 Light1_Direction;
@@ -22,6 +23,7 @@ in vec2 texCoord2;
 in vec3 Pos;
 in vec3 ModelViewMatrix;
 in float transition;
+
 
 flat in int isCustom;
 flat in int isGUI;
@@ -55,6 +57,12 @@ void main() {
         color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
     } else if (isMCrapCustom == 5) {
         color = vec4(sin(fract(GameTime * 300) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 600) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
+    } else if (isMCrapCustom == 6) {
+        //color = mix(vec4(1,1,1,0.5), texture(Sampler0, texCoord2), transition);
+        //float rand = clamp(mod(pow((color.r+color.g+color.b)*GameTime*12, 2)+0.2 + ChunkOffset.x/2, 1.0), 0.5, 1.0);
+        //color = vec4(1,1,1,rand);
+        float timeT = abs(1+sin(fract(GameTime * 66) * 12))/3;
+        color = vec4( vec3(1), abs(timeT - color.r) );
     }
 
     if (color.a < 0.01) discard;

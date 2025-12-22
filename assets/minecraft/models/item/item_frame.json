@@ -130,6 +130,7 @@
   {"predicate": {"custom_model_data": 32114},"model": "minecraft:item/block/cloud"},
   {"predicate": {"custom_model_data": 32115},"model": "minecraft:item/block/matrix_block"},
   {"predicate": {"custom_model_data": 32116},"model": "minecraft:item/block/epilepsyrooms"},
-  {"predicate": {"custom_model_data": 32117},"model": "minecraft:item/block/epilepsyrooms_nolines"}
+  {"predicate": {"custom_model_data": 32117},"model": "minecraft:item/block/epilepsyrooms_nolines"},
+  {"predicate": {"custom_model_data": 32118},"model": "minecraft:item/block/epilepsy_nolines"}
   ]
 }

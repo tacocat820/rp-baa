@@ -1,6 +1,11 @@
 {
   "parent": "minecraft:item/templates/block",
   "textures": {
-    "b": "item/block/cloud"
-  }
+    "b": "marker/cloud"
+  },
+  "display": {
+		"head": {
+			"scale": [1.05,1.05,1.05]
+		}
+	}
 }
