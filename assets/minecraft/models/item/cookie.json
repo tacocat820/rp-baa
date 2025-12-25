@@ -39,7 +39,8 @@
     {"predicate": {"custom_model_data": 32022},"model": "minecraft:item/item/fried_ghast"},
     {"predicate": {"custom_model_data": 32023},"model": "minecraft:item/block/poison_tree"},
     {"predicate": {"custom_model_data": 32024},"model": "minecraft:item/item/wolfberries"},
-    {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/cooked_pig_corpse"}
+    {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/cooked_pig_corpse"},
+    {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/item/mushroom"}
     
     
     
