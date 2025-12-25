@@ -58,9 +58,6 @@ void main() {
     } else if (isMCrapCustom == 5) {
         color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(1 * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
     } else if (isMCrapCustom == 6) {
-        //color = mix(vec4(1,1,1,0.5), texture(Sampler0, texCoord2), transition);
-        //float rand = clamp(mod(pow((color.r+color.g+color.b)*GameTime*12, 2)+0.2 + ChunkOffset.x/2, 1.0), 0.5, 1.0);
-        //color = vec4(1,1,1,rand);
         float timeT = abs(1+sin(fract(GameTime * 66) * 12))/3;
         color = vec4( vec3(1), abs(timeT - color.r) );
     }
