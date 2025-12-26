@@ -47,11 +47,18 @@ void main() {
         if (isMCrapCustom == 1) {
             color = vec4(mod(Pos,vec3(1,1,1)),1);
         } else if (isMCrapCustom == 2) {
+            vec4 orig_color = color;
             float pos2 = mod((Pos.x+Pos.z+Pos.y)*0.5,7);
             if ( pos2 > 4 ) {
-                color = vec4(vec3(pos2),(1-abs(pos2-5))*color.a/1.5);
-            } else {
+                color = vec4(vec3(pos2),(1-abs(pos2-5))*orig_color.a/1.5);
+            }
+            else {
                 color = vec4(0,0,0,0);
+            }
+            //
+            pos2 = pos2 = mod((Pos.x+Pos.z+Pos.y),7);
+            if ( pos2 > 4 ) {
+                color.a += (1-abs(pos2-5))*orig_color.a/4 ;
             }
         } else if (isMCrapCustom == 3) {
             color = vec4(255,255,255,255);
