@@ -55,11 +55,12 @@ void main() {
             else {
                 color = vec4(0,0,0,0);
             }
-            //
+            //2
             pos2 = pos2 = mod((Pos.x+Pos.z+Pos.y),7);
             if ( pos2 > 4 ) {
                 color.a += (1-abs(pos2-5))*orig_color.a/4 ;
             }
+            color.a *= pow(lightColor.r, 2) ;
         } else if (isMCrapCustom == 3) {
             color = vec4(255,255,255,255);
         } else if (isMCrapCustom == 4) {
