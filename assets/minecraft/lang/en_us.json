@@ -106,6 +106,7 @@
 	"what.item.plastic" : "Plastic",
 	"what.item.plastic_bag" : "Plastic bug",
 	"what.item.plastic_sword" : "Plastic sword",
+	"what.item.mushroom" : "Mushroom",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -178,6 +179,8 @@
 	"what.block.bubble_block" : "💧 🐠 bubble 🐬 ♻",
 	"what.block.xp_glass" : "💎 💿 glass 🫧 🌊",
 	"what.block.shitter" : "☁ 🫧 shitter 🪼 🦀",
+	"what.block.plastic_ladder" : "💦 輪 plastic ladder 🍉 💦",
+	"what.block.xp_metal_block" : "🥤 🫧 metal block 🌊 🐠",
 	"what.block.trash_bag" : "Trash bag",
 	"what.block.plastic_block" : "Plastic block",
 	"what.block.big_crafting_table" : "Big crafting table",
