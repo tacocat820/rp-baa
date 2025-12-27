@@ -50,17 +50,26 @@ void main() {
     ivec4 color = ivec4(round(sample * 255.0));
     if (color == ivec4(53,66,91,178)) {
         isMCrapCustom = 1;
-    } else if (color == ivec4(91,59,73,178)) {
+    }
+    else if (color == ivec4(91,59,73,178)) {
         isMCrapCustom = 2;
-    } else if (color == ivec4(13,11,91,178)) {
+    }
+    else if (color == ivec4(13,11,91,178)) {
         isMCrapCustom = 3;
-    } else if (color == ivec4(31,89,101,178)) {
+    }
+    else if (color == ivec4(31,89,101,178)) {
         isMCrapCustom = 4;
-    } else if (color == ivec4(31,89,101,120)) {
+    }
+    else if (color == ivec4(31,89,101,120)) {
         isMCrapCustom = 5;
-    } else if (color == ivec4(228,204,253,174)) {
+    }
+    else if (color == ivec4(228,204,253,174)) {
         isMCrapCustom = 6;
-    } else {
+    }
+    else if (color == ivec4(89,63,37,178)) {
+        isMCrapCustom = 7;
+    }
+    else {
         isMCrapCustom = 0;
     }
 

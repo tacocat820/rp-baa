@@ -136,6 +136,7 @@
   {"predicate": {"custom_model_data": 32120},"model": "minecraft:item/block/plastic_ladder"},
   {"predicate": {"custom_model_data": 32121},"model": "minecraft:item/block/xp_metal_block"},
   {"predicate": {"custom_model_data": 32122},"model": "minecraft:item/block/ceramic_tiles"},
-  {"predicate": {"custom_model_data": 32123},"model": "minecraft:item/block/bad_rock"}
+  {"predicate": {"custom_model_data": 32123},"model": "minecraft:item/block/bad_rock"},
+  {"predicate": {"custom_model_data": 32124},"model": "minecraft:item/block/fog_block"}
   ]
 }

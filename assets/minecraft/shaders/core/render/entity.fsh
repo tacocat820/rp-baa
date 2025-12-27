@@ -61,17 +61,23 @@ void main() {
                 color.a += (1-abs(pos2-5))*orig_color.a/4 ;
             }
             color.a *= pow(lightColor.r, 2) ;
-        } else if (isMCrapCustom == 3) {
+        }
+        else if (isMCrapCustom == 3) {
             color = vec4(255,255,255,255);
-        } else if (isMCrapCustom == 4) {
+        }
+        else if (isMCrapCustom == 4) {
             color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
-        } else if (isMCrapCustom == 5) {
+        }
+        else if (isMCrapCustom == 5) {
             color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(1 * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
-        } else if (isMCrapCustom == 6) {
+        }
+        else if (isMCrapCustom == 6) {
             float timeT = abs(1+sin(fract(GameTime * 66) * 12))/3;
             color = vec4( vec3(1), abs(timeT - color.r) );
         }
-        
+        else if (isMCrapCustom == 7) {
+            color = vec4(FogColor.rgb, clamp((vertexDistance-17)/7,  0.0,1.0));
+        }
     }
 
     if (color.a < 0.01) discard;
