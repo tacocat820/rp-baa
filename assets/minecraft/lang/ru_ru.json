@@ -258,7 +258,7 @@
 	"what.adv.asgor_runover.desc": "🎵 ЕДУ ПО ШОССЕ ПРЯМ ПОСЛЕ ПИВКА",
 	"what.adv.planks": "мои поздравления",
 	"what.adv.planks.desc": "получите доски",
-	"what.adv.crafting_2": "что?",
+	"what.adv.crafting_2": "сиквел?",
 	"what.adv.crafting_2.desc": "получите верстак 2",
 	"what.adv.bigbrain": "кто дома оставил?",
 	"what.adv.bigbrain.desc": "найдите большой мозг",
@@ -338,5 +338,174 @@
 	"what.mob.elon" : "Элон Масс",
 	"what.mob.boulder" : "Валун",
 
-	"what.txt.recipe": "рецепт"
+	"what.txt.recipe": "рецепт",
+
+
+	
+	
+	
+
+	"what.message.wwtb.intro.1": "добрый вечер, дорогие друзья 😘😘😘",
+	"what.message.wwtb.intro.2": "вы смотрите шоу 'кто хочет стать миллиардером', йоу",
+	"what.message.wwtb.intro.3": "АОАОАООАО!!!!!",
+	"what.message.wwtb.intro.4": "давайте начнём-с'",
+	"what.message.wwtb.intro.5": "3",
+	"what.message.wwtb.intro.6": "2",
+	"what.message.wwtb.intro.7": "(вы должны сесть, если что)",
+	"what.message.wwtb.intro.8": "1",
+	"what.message.wwtb.intro.9": "НАЧИНАЕММ",
+	
+
+	"what.message.wwtb.q1.1": "вопрос один: 2 + 2 ",
+	"what.message.wwtb.q1.2": "3",
+	"what.message.wwtb.q1.3": "4",
+	"what.message.wwtb.q1.4": "5",
+	"what.message.wwtb.q1.5": "ииии ответт... 4!",
+	
+
+	"what.message.wwtb.q2.1": "откуда пршло слово \"рюкзак\"??",
+	"what.message.wwtb.q2.2": "англисйки",
+	"what.message.wwtb.q2.3": "французский",
+	"what.message.wwtb.q2.4": "немецкий",
+	"what.message.wwtb.q2.5": "верный ответ: немецкий!",
+	
+
+	"what.message.wwtb.q3.1": "сколько детей у стива джобса?",
+	"what.message.wwtb.q3.2": "0",
+	"what.message.wwtb.q3.3": "4",
+	"what.message.wwtb.q3.4": "9",
+	"what.message.wwtb.q3.5": "ответ:: 4!",
+	
+
+	"what.message.wwtb.q4.1": "сколько здоровья у ОЛЕНЯЯЯ??",
+	"what.message.wwtb.q4.2": "65536",
+	"what.message.wwtb.q4.3": "65987",
+	"what.message.wwtb.q4.4": "61536",
+	"what.message.wwtb.q4.5": "итак, верный ответ.... 65536!",
+	
+
+	"what.message.wwtb.q5.1": "сколько очков здоровья у Рыболёта?",
+	"what.message.wwtb.q5.2": "Не найдены элементы, соответствующие «Health»",
+	"what.message.wwtb.q5.3": "10",
+	"what.message.wwtb.q5.4": "100",
+	"what.message.wwtb.q5.5": "ответ: 1",
+	
+
+	"what.message.wwtb.q6.1": "как сделать СТУЛ в майнкрап 2?",
+	"what.message.wwtb.q6.2": "скрафтить",
+	"what.message.wwtb.q6.3": "вырастить",
+	"what.message.wwtb.q6.4": "высрать",
+	"what.message.wwtb.q6.5": "конечно же вырастить, ну что за вопрос!",
+	
+
+	"what.message.wwtb.q7.1": "логарифм 541",
+	"what.message.wwtb.q7.2": "~4.82",
+	"what.message.wwtb.q7.3": "~1.39",
+	"what.message.wwtb.q7.4": "~2.73",
+	"what.message.wwtb.q7.5": "the answer was ~2.73!",
+	
+
+	"what.message.wwtb.q8.1": "where does miencrap 2 minerat OST - 'Steppig' play?",
+	"what.message.wwtb.q8.2": "the nether",
+	"what.message.wwtb.q8.3": "the end",
+	"what.message.wwtb.q8.4": "the   overworld",
+	"what.message.wwtb.q8.5": "the answer was the nether!",
+	
+
+	"what.message.wwtb.q9.1": "how many starts does this project have on gith*b?",
+	"what.message.wwtb.q9.2": "less than zero",
+	"what.message.wwtb.q9.3": "zero",
+	"what.message.wwtb.q9.4": "more than zero",
+	"what.message.wwtb.q9.5": "the answer was more than zero!",
+	
+
+	"what.message.wwtb.q10.1": "where can you find emeralds",
+	"what.message.wwtb.q10.2": "villager village",
+	"what.message.wwtb.q10.3": "death village",
+	"what.message.wwtb.q10.4": "шайлушай village",
+	"what.message.wwtb.q10.5": "the answer was death village!",
+	
+
+	"what.message.wwtb.q11.1": "who shall you MURDER to get the bing chilling block?",
+	"what.message.wwtb.q11.2": "spider",
+	"what.message.wwtb.q11.3": "NOTJUAN",
+	"what.message.wwtb.q11.4": "creeper",
+	"what.message.wwtb.q11.5": "the answer was creeper!",
+	
+
+	"what.message.wwtb.q12.1": "the ninth digit of π (assuming that the first digit of π is 3)?",
+	"what.message.wwtb.q12.2": "5",
+	"what.message.wwtb.q12.3": "7",
+	"what.message.wwtb.q12.4": "9",
+	"what.message.wwtb.q12.5": "the answer was 5!",
+	
+
+	"what.message.wwtb.q13.1": "which one of those is a music disk in miencrap 2 minerat?",
+	"what.message.wwtb.q13.2": "miencrap 2 minerat OST - Greece",
+	"what.message.wwtb.q13.3": "miencrap 2 minerat OST - Truly Garbage Music",
+	"what.message.wwtb.q13.4": "miencrap 2 minerat OST - The Original Chirps",
+	"what.message.wwtb.q13.5": "the answer was miencrap 2 minerat OST - Truly Garbage Music!",
+	
+
+	"what.message.wwtb.q14.1": "what's NOT in miencrap 2 minerat?",
+	"what.message.wwtb.q14.2": "the Freaking ",
+	"what.message.wwtb.q14.3": "iphone 69",
+	"what.message.wwtb.q14.4": "global warming and global cooling",
+	"what.message.wwtb.q14.5": "the answer was the Freaking ",
+	
+
+	"what.message.wwtb.q15.1": "who made OBJMC?",
+	"what.message.wwtb.q15.2": "Steve Jobs",
+	"what.message.wwtb.q15.3": "Cooltander",
+	"what.message.wwtb.q15.4": "Godlander",
+	"what.message.wwtb.q15.5": "the answer was Godlander! Glory to the OBJMC!",
+	
+
+	"what.message.wwtb.q16.1": "77 + 33 = ?",
+	"what.message.wwtb.q16.2": "the Freaking ",
+	"what.message.wwtb.q16.3": "100",
+	"what.message.wwtb.q16.4": "110",
+	"what.message.wwtb.q16.5": "the answer was 110",
+	
+
+	"what.message.wwtb.q17.1": "2 / 0 = ?",
+	"what.message.wwtb.q17.2": "3",
+	"what.message.wwtb.q17.3": "2 / 0",
+	"what.message.wwtb.q17.4": "Infinity",
+	"what.message.wwtb.q17.5": "the answer was 2 / 0",
+	
+
+	"what.message.wwtb.q18.1": "What miencrap 2 minerat update renamed golden block to Glock?",
+	"what.message.wwtb.q18.2": "v1.21.10000",
+	"what.message.wwtb.q18.3": "v1.21.10001",
+	"what.message.wwtb.q18.4": "v1.21.9999",
+	"what.message.wwtb.q18.5": "the answer was v1.21.10000",
+	
+
+	"what.message.wwtb.q19.1": "What song is featured in miencrap 2 minerat?",
+	"what.message.wwtb.q19.2": "https://www.youtube.com/watch?v=u5NqO2v_xnY",
+	"what.message.wwtb.q19.3": "https://www.youtube.com/watch?v=5DlROhT8NgU",
+	"what.message.wwtb.q19.4": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+	"what.message.wwtb.q19.5": "the answer was https://www.youtube.com/watch?v=u5NqO2v_xnY!",
+	
+
+	"what.message.wwtb.q20.1": "What is the custom model data of the deer nft?",
+	"what.message.wwtb.q20.2": "32017",
+	"what.message.wwtb.q20.3": "32017",
+	"what.message.wwtb.q20.4": "32015",
+	"what.message.wwtb.q20.5": "the answer was 32015",
+
+	"what.message.wwtb.outro.1": "omg😱😱😱",
+	"what.message.wwtb.outro.2": "you guys were so good",
+	"what.message.wwtb.outro.3": "now's thy time for our tradition!!",
+	"what.message.wwtb.outro.4": "executing the loser!!!",
+	
+	"what.message.wwtb.outro.5": "3",
+	"what.message.wwtb.outro.6": "2",
+	"what.message.wwtb.outro.7": "1!!!",
+	"what.message.wwtb.outro.8": "what a beautiful sight",
+	"what.message.wwtb.outro.9": "now's the time for the reward!",
+	"what.message.wwtb.outro.10": "yayyy",
+	"what.message.wwtb.outro.11": "so much muns",
+	"what.message.wwtb.outro.12": "bye everyone cya!!"
 }
