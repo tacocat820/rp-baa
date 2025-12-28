@@ -76,7 +76,7 @@ void main() {
             color = vec4( vec3(1), abs(timeT - color.r) );
         }
         else if (isMCrapCustom == 7) {
-            color = vec4(FogColor.rgb, clamp((vertexDistance-17)/7,  0.0,1.0));
+            color = vec4(FogColor.rgb, clamp((vertexDistance-22)/7,  0.0,1.0));
         }
     }
 
