@@ -343,6 +343,8 @@
 	"what.adv.edibles.desc": "eat mushroom",
 	"what.adv.moreedibles": "the raw power...",
 	"what.adv.moreedibles.desc": "eat mushroom during a trip",
+	"what.adv.wwtb": "WHO WANTS TO BE A...",
+	"what.adv.wwtb.desc": "QUADRILLIONARE?!",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
@@ -374,7 +376,7 @@
 	"what.mob.mimic" : "A Normal Chest",
 	"what.mob.therapist" : "Psychotherapist",
 	"what.mob.asgor" : "Asgore",
-	"what.mob.death" : "Executioner",
+	"what.mob.death" : "Death",
 	"what.mob.elon" : "Elon Musk",
 	"what.mob.boulder" : "Boulder",
 	"what.mob.tarantula" : "🩸 ☔ Cupcake 🌊 🕷",
