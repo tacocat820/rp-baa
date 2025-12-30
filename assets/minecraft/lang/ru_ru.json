@@ -164,6 +164,8 @@
 	"what.block.crappy_cobblestone" : "Всратый булыжник",
 	"what.block.cloud" : "☁💨 облако ⭕💧",
 	"what.block.ceramic_tiles" : "Керамическая плитка",
+	"what.block.calcium_oxide" : "Негашеная известь",
+	"what.block.calcium_hydroxide" : "Гидроксид кальция",
 	
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
