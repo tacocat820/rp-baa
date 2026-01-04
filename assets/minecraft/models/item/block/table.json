@@ -1,0 +1,38 @@
+{
+	"parent": "minecraft:item/templates/display_as_block",
+	"format_version": "1.9.0",
+	"credit": "Made with Blockхуенч",
+	"textures": {
+		"0": "block/oak_planks",
+		"1": "block/spruce_planks",
+		"particle": "block/spruce_planks"
+	},
+	"elements": [
+		{
+			"from": [1, 16, 1],
+			"to": [15, 17, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [0, 3, 14, 4], "texture": "#0"},
+				"east": {"uv": [0, 3, 14, 4], "texture": "#0"},
+				"south": {"uv": [0, 3, 14, 4], "texture": "#0"},
+				"west": {"uv": [0, 3, 14, 4], "texture": "#0"},
+				"up": {"uv": [0, 0, 14, 14], "texture": "#0"},
+				"down": {"uv": [0, 0, 14, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [0, 12, 4, 16], "texture": "#1"}
+			}
+		}
+	]
+}

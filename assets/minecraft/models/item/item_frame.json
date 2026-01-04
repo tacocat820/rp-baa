@@ -140,6 +140,7 @@
   {"predicate": {"custom_model_data": 32124},"model": "minecraft:item/block/fog_block"},
   {"predicate": {"custom_model_data": 32125},"model": "minecraft:item/block/wwtb"},
   {"predicate": {"custom_model_data": 32126},"model": "minecraft:item/block/calcium_oxide"},
-  {"predicate": {"custom_model_data": 32127},"model": "minecraft:item/block/calcium_hydroxide"}
+  {"predicate": {"custom_model_data": 32127},"model": "minecraft:item/block/calcium_hydroxide"},
+  {"predicate": {"custom_model_data": 32128},"model": "minecraft:item/block/table"}
   ]
 }
