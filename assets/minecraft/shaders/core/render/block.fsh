@@ -21,6 +21,8 @@ in float transition;
 flat in int isCustom;
 flat in int noshadow;
 flat in int isMCrapCustom;
+flat in float texCoordStartY;
+flat in float realTexSizeY;
 
 out vec4 fragColor;
 

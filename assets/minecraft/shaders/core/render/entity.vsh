@@ -35,48 +35,74 @@ flat out int isGUI;
 flat out int isHand;
 flat out int noshadow;
 flat out int isMCrapCustom;
+flat out float texCoordStartY;
+flat out float realTexSizeY;
 
 #moj_import <objmc_tools.glsl>
 
 void main() {
     Pos = Position;
     texCoord = UV0;
+    texCoordStartY = UV0.y;
     overlayColor = vec4(1);
     lightColor = minecraft_sample_lightmap(Sampler2, UV2);
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
 
     //detect
+    ivec2 textureAtlasSIZE = textureSize(Sampler0, 0);
     vec4 sample = textureLod(Sampler0, UV0, -4);
     ivec4 color = ivec4(round(sample * 255.0));
-    if (color == ivec4(53,66,91,178)) {
-        isMCrapCustom = 1;
-    }
-    else if (color == ivec4(91,59,73,178)) {
-        isMCrapCustom = 2;
-    }
-    else if (color == ivec4(13,11,91,178)) {
-        isMCrapCustom = 3;
-    }
-    else if (color == ivec4(31,89,101,178)) {
-        isMCrapCustom = 4;
-    }
-    else if (color == ivec4(31,89,101,120)) {
-        isMCrapCustom = 5;
-    }
-    else if (color == ivec4(228,204,253,174)) {
-        isMCrapCustom = 6;
-    }
-    else if (color == ivec4(89,63,37,178)) {
-        isMCrapCustom = 7;
+
+    if (color == ivec4(136,109,143,133) || color == ivec4(136,109,143,135)) {
+        float x_offset;
+        if (color.a == 135) {
+            x_offset = -1.0 / vec2(textureAtlasSIZE).x;
+        } else {
+            x_offset = 1.0 / vec2(textureAtlasSIZE).x;
+        }
+        sample = textureLod(Sampler0, vec2(UV0.x + x_offset, UV0.y), 0);
+        color = ivec4(round(sample * 255.0)); //ЦВЕТ
+
+        vec4 sample_1 = textureLod(Sampler0, vec2(UV0.x + x_offset*2, UV0.y), 0); realTexSizeY = 256*(sample_1.r);
+        if (realTexSizeY == 0) { realTexSizeY = 16; }
+        
+        ///----///
+        if (color == ivec4(53,66,91,178)) {
+            isMCrapCustom = 1;
+        }
+        else if (color == ivec4(91,59,73,178)) {
+            isMCrapCustom = 2;
+        }
+        else if (color == ivec4(13,11,91,178)) {
+            isMCrapCustom = 3;
+        }
+        else if (color == ivec4(31,89,101,178)) {
+            isMCrapCustom = 4;
+        }
+        else if (color == ivec4(31,89,101,120)) {
+            isMCrapCustom = 5;
+        }
+        else if (color == ivec4(228,204,253,174)) {
+            isMCrapCustom = 6;
+        }
+        else if (color == ivec4(89,63,37,178)) {
+            isMCrapCustom = 7;
+        }
+        else if (color == ivec4(62,85,82,178)) {
+            isMCrapCustom = 8;
+        }
+        else {
+            isMCrapCustom = 0;
+        }
     }
     else {
         isMCrapCustom = 0;
     }
+    ////
 
     //objmc
     #define ENTITY
     #moj_import <objmc_main.glsl>
-
     gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1.0);
     vertexDistance = fog_distance(Pos, FogShape);
 }

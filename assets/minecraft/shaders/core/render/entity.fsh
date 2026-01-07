@@ -30,10 +30,14 @@ flat in int isGUI;
 flat in int isHand;
 flat in int noshadow;
 flat in int isMCrapCustom;
+flat in float texCoordStartY;
+flat in float realTexSizeY;
 
 out vec4 fragColor;
 
 uniform float GameTime;
+
+#moj_import<mcrap/tools.glsl>
 
 void main() {
     vec4 color = mix(texture(Sampler0, texCoord), texture(Sampler0, texCoord2), transition);
@@ -47,6 +51,7 @@ void main() {
         if (isMCrapCustom == 1) {
             color = vec4(mod(Pos,vec3(1,1,1)),1);
         } else if (isMCrapCustom == 2) {
+            color = getActualColor();
             vec4 orig_color = color;
             float pos2 = mod((Pos.x+Pos.z+Pos.y)*0.5,7);
             if ( pos2 > 4 ) {
@@ -72,11 +77,17 @@ void main() {
             color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(1 * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
         }
         else if (isMCrapCustom == 6) {
+            color = getActualColor();
             float timeT = abs(1+sin(fract(GameTime * 66) * 12))/3;
             color = vec4( vec3(1), abs(timeT - color.r) );
         }
         else if (isMCrapCustom == 7) {
             color = vec4(FogColor.rgb, clamp((vertexDistance-22)/7,  0.0,1.0));
+        }
+        else if (isMCrapCustom == 8) {
+            color = getActualColor();
+            float seed = GameTime + color.r + vertexDistance;
+            color = vec4( vec3(fract(543.2543 * sin(dot(vec2(seed, seed), vec2(3525.46, -54.3415 ))))), 1.0 );
         }
     }
 

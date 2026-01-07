@@ -37,6 +37,8 @@ flat out int isGUI;
 flat out int isHand;
 flat out int noshadow;
 flat out int isMCrapCustom;
+flat out float texCoordStartY;
+flat out float realTexSizeY;
 
 #moj_import <objmc_tools.glsl>
 
