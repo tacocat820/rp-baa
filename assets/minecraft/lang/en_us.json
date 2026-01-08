@@ -189,6 +189,8 @@
 	"what.block.914_blocks_stare" : "\"914 Blocks stare\"",
 	"what.block.brazil_painting" : "\"Brazil\"",
 	"what.item.heating_radiator" : "Radiator",
+	"what.item.epstein_file" : "Epstein file",
+
 	"what.block.crappy_cobblestone" : "Crappy looking cobblestone",
 	"what.block.cloud" : "☁💨 cloud ⭕💧",
 	"what.block.ceramic_tiles" : "Ceramic tiles",
@@ -347,6 +349,10 @@
 	"what.adv.moreedibles.desc": "eat mushroom during a trip",
 	"what.adv.wwtb": "WHO WANTS TO BE A...",
 	"what.adv.wwtb.desc": "QUADRILLIONARE?!",
+	"what.adv.epstein_island": "Epstein island..?",
+	"what.adv.epstein_island.desc": "...",
+	"what.adv.epstein_file": "This is worthless!",
+	"what.adv.epstein_file.desc": "Find the (redacted) epstein files",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
