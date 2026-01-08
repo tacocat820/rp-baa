@@ -142,6 +142,7 @@
   {"predicate": {"custom_model_data": 32126},"model": "minecraft:item/block/calcium_oxide"},
   {"predicate": {"custom_model_data": 32127},"model": "minecraft:item/block/calcium_hydroxide"},
   {"predicate": {"custom_model_data": 32128},"model": "minecraft:item/block/table"},
-  {"predicate": {"custom_model_data": 32129},"model": "minecraft:item/block/wtf_block"}
+  {"predicate": {"custom_model_data": 32129},"model": "minecraft:item/block/wtf_block"},
+  {"predicate": {"custom_model_data": 32130},"model": "minecraft:item/block/liquid_glass"}
   ]
 }
