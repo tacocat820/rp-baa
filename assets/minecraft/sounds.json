@@ -142,5 +142,13 @@
 	"what.gong":
 	{"category": "player","sounds": [{"name": "what/gong","stream": false}]},
 	"what.turn_off":
-	{"category": "player","sounds": [{"name": "what/turn_off","stream": false}]}
+	{"category": "player","sounds": [{"name": "what/turn_off","stream": false}]},
+	"what.ost.blues":
+	{"category": "player","sounds": [{"name": "what/ost/blues","stream": true}]},
+	"what.ost.blues2":
+	{"category": "player","sounds": [{"name": "what/ost/blues2","stream": true}]},
+	"what.ost.blues3":
+	{"category": "player","sounds": [{"name": "what/ost/blues3","stream": true}]},
+	"what.ost.iateacat":
+	{"category": "player","sounds": [{"name": "what/ost/iateacat","stream": true}]}
 }
