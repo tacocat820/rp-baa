@@ -107,6 +107,9 @@
 	"what.item.plastic_bag" : "Plastic bug",
 	"what.item.plastic_sword" : "Plastic sword",
 	"what.item.mushroom" : "Mushroom",
+	"what.item.stick_2" : "Stick 2",
+	"what.item.together_forever" : "https://www.youtube.com/watch?v=E9de-cmycx8",
+
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -353,10 +356,13 @@
 	"what.adv.epstein_island.desc": "...",
 	"what.adv.epstein_file": "This is worthless!",
 	"what.adv.epstein_file.desc": "Find the (redacted) epstein files",
-	"what.adv.triple_stick": "The Triple Stick",
+	"what.adv.triple_stick": "The Stick Trilogy",
 	"what.adv.triple_stick.desc": "Collect every possible stick in meincrap 2",
 	"what.adv.global_cooling": "didnt i said that you shouldnt touch the globe?",
 	"what.adv.global_cooling.desc": "The ice age is coming...",
+	"what.adv.triple_baka": "Triple baka!",
+	"what.adv.triple_baka.desc": "collect gold 2, diamond 2 and redstone 2!",
+
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
