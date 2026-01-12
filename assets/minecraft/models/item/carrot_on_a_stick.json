@@ -29,7 +29,9 @@
     {"predicate": {"custom_model_data": 32022},"model": "minecraft:item/item/optical_disc"},
     {"predicate": {"custom_model_data": 32023},"model": "minecraft:item/item/crystal_ball"},
     {"predicate": {"custom_model_data": 32024},"model": "minecraft:item/item/heating_radiator_hot"},
-    {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/small_water_bucket"}
+    {"predicate": {"custom_model_data": 32025},"model": "minecraft:item/item/small_water_bucket"},
+    {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/item/hypermangun_empty"},
+    {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/item/hypermangun_full"}
   
   ]
 }
