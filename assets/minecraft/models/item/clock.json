@@ -451,7 +451,9 @@
     {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/item/garbagemusic"},
     {"predicate": {"custom_model_data": 32030},"model": "minecraft:item/item/epstein_file"},
     {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/item/snowflake"},
-    {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/item/together_forever"}
+    {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/item/together_forever"},
+    {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/item/bad_gpu"}
+    
     
   ]
 }
