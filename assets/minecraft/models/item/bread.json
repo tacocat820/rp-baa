@@ -10,7 +10,9 @@
       },
       "model": "minecraft:item/item/concrete_baguette"
     },
-    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/evil_bread"}
+    {"predicate": {"custom_model_data": 32001},"model": "minecraft:item/item/evil_bread"},
+    {"predicate": {"custom_model_data": 32002},"model": "minecraft:item/item/mashed_potatoes"},
+    {"predicate": {"custom_model_data": 32003},"model": "minecraft:item/item/bowl_of_rice"}
     
   ]
 }
