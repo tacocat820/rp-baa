@@ -88,6 +88,8 @@
 	  {"predicate": {"custom_model_data": 32075},"model": "minecraft:item/ent/therapist/press"},
 	  {"predicate": {"custom_model_data": 32076},"model": "minecraft:item/ent/wwtb_psycho"},
 	  {"predicate": {"custom_model_data": 32077},"model": "minecraft:item/ent/mole/jump"},
-	  {"predicate": {"custom_model_data": 32078},"model": "minecraft:item/ent/freaking/walk"}
+	  {"predicate": {"custom_model_data": 32078},"model": "minecraft:item/ent/freaking/walk"},
+	  {"predicate": {"custom_model_data": 32079},"model": "minecraft:item/ent/darksouls_skeleton/walk"},
+	  {"predicate": {"custom_model_data": 32080},"model": "minecraft:item/ent/darksouls_skeleton/rahh"}
     ]
   }
