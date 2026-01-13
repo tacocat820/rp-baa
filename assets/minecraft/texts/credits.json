@@ -26,5 +26,21 @@
                 ]
             }
         ]
+    },
+    {
+        "section": "OBJMC",
+        "disciplines": [
+            {
+                "discipline": "",
+                "titles": [
+                    {
+                        "title": "Developer",
+                        "names": [
+                            "Godlander"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]

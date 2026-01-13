@@ -90,6 +90,7 @@
 	  {"predicate": {"custom_model_data": 32077},"model": "minecraft:item/ent/mole/jump"},
 	  {"predicate": {"custom_model_data": 32078},"model": "minecraft:item/ent/freaking/walk"},
 	  {"predicate": {"custom_model_data": 32079},"model": "minecraft:item/ent/darksouls_skeleton/walk"},
-	  {"predicate": {"custom_model_data": 32080},"model": "minecraft:item/ent/darksouls_skeleton/rahh"}
+	  {"predicate": {"custom_model_data": 32080},"model": "minecraft:item/ent/darksouls_skeleton/rahh"},
+	  {"predicate": {"custom_model_data": 32081},"model": "minecraft:item/ent/potentiallyjuan/walk"}
     ]
   }
