@@ -82,6 +82,10 @@
 	"what.item.plastic_bag" : "Пластиковый пакетик",
 	"what.item.plastic_sword" : "Пластиковый меч",
 	"what.item.mushroom" : "Грибок",
+	"what.item.snowflake" : "Снежинка",
+	"what.item.mashed_potatoes" : "Миска картофельного пюре",
+	"what.item.bowl_of_rice" : "Миска риса",
+	"what.item.wrench" : "Гаечный ключ",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
@@ -352,6 +356,7 @@
 	"what.mob.boulder" : "Валун",
 
 	"what.txt.recipe": "рецепт",
+	"what.txt.any": "Любое: ",
 
 
 	

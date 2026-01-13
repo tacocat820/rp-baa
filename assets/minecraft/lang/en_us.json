@@ -112,6 +112,10 @@
 	"what.item.hypermangan" : "Hypermangan!",
 	"what.item.hypermangun" : "Hypermangun!",
 	"what.item.bad_gpu" : "GPU",
+	"what.item.snowflake" : "Snowflake",
+	"what.item.mashed_potatoes" : "Bowl of mashed potatoes",
+	"what.item.bowl_of_rice" : "Bowl of rice",
+	"what.item.wrench" : "Wrench",
 
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
@@ -403,6 +407,7 @@
 	"what.mob.tarantula" : "🩸 ☔ Cupcake 🌊 🕷",
 
 	"what.txt.recipe": "recipe",
+	"what.txt.any": "Any: ",
 
 	
 	
