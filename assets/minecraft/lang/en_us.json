@@ -125,10 +125,21 @@
 	"what.item.golden_candy" : "Golden candy",
 	"what.item.tooth" : "Tooth.",
 	"what.item.macadamia" : "macadamia",
-
+	"what.item.untoast" : "bread for toasting",
+	"what.item.musichall_epic_techno_music" : "Epic Techno Music",
+	"what.item.musichall_potentially_tetris" : "Potentially Tetris Music",
+	"what.item.musichall_skeletons_dont_have_organs" : "Skeletons do not have organs.",
+	"what.item.musichall_very_orchestral_music" : "Very Orchestral Music",
+	"what.item.blues_crystal" : "Blues Crystal",
 
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
+	"what.jukebox_song.epic_techno_music": "tacocat820 - Epic Techno Music",
+	"what.jukebox_song.potentially_tetris": "tacocat820 - Potentially Tetris Music",
+	"what.jukebox_song.skeletons_dont_have_organs": "tacocat820 - Skeletons do not have organs.",
+	"what.jukebox_song.very_orchestral_music": "tacocat820 - Very Orchestral Music",
+	"what.jukebox_song.thisisnotatoaster": "tacocat820 - THIS IS NOT A TOASTER",
+
 	"what.item.music_disc_creator" : "Music..... disc....",
 	"what.item.music_disc_otherside" : "muzik dizk otersideh",
 	

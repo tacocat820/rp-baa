@@ -452,7 +452,17 @@
     {"predicate": {"custom_model_data": 32030},"model": "minecraft:item/item/epstein_file"},
     {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/item/snowflake"},
     {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/item/together_forever"},
-    {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/item/bad_gpu"}
+    {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/item/bad_gpu"},
+    {"predicate": {"custom_model_data": 32034},"model": "minecraft:item/item/epic_techno_music"},
+    {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/item/potentially_tetris"},
+    {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/item/skeletons_dont_have_organs"},
+    {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/item/very_orchestral_music"},
+    {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/item/untoast"}
+    
+    
+    
+    
+    
     
     
   ]

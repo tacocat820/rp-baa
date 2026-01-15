@@ -150,5 +150,15 @@
 	"what.ost.blues3":
 	{"category": "player","sounds": [{"name": "what/ost/blues3","stream": true}]},
 	"what.ost.iateacat":
-	{"category": "player","sounds": [{"name": "what/ost/iateacat","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/iateacat","stream": true}]},
+	"what.musichall.epic_techno_music":
+	{"category": "player","sounds": [{"name": "what/musichall/epic_techno_music","stream": true}]},
+	"what.musichall.potentially_tetris":
+	{"category": "player","sounds": [{"name": "what/musichall/potentially_tetris","stream": true}]},
+	"what.musichall.skeletons_dont_have_organs":
+	{"category": "player","sounds": [{"name": "what/musichall/skeletons_dont_have_organs","stream": true}]},
+	"what.musichall.very_orchestral_music":
+	{"category": "player","sounds": [{"name": "what/musichall/very_orchestral_music","stream": true}]},
+	"what.musichall.thisisnotatoaster":
+	{"category": "player","sounds": [{"name": "what/musichall/thisisnotatoaster","stream": true}]}
 }
