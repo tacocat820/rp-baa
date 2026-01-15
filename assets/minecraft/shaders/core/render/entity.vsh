@@ -16,6 +16,7 @@ uniform float FogStart;
 uniform int FogShape;
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
+uniform vec3 ChunkOffset;
 uniform float GameTime;
 
 uniform vec3 Light0_Direction;
@@ -30,6 +31,7 @@ out vec2 texCoord2;
 out vec3 Pos;
 out float transition;
 
+out vec3 chunk_offset;
 flat out int isCustom;
 flat out int isGUI;
 flat out int isHand;
@@ -41,6 +43,7 @@ flat out float realTexSizeY;
 #moj_import <objmc_tools.glsl>
 
 void main() {
+    chunk_offset = ChunkOffset;
     Pos = Position;
     texCoord = UV0;
     texCoordStartY = UV0.y;
@@ -48,6 +51,7 @@ void main() {
     lightColor = minecraft_sample_lightmap(Sampler2, UV2);
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
 
+    vec3 CustomPosOffset = vec3(0,0,0);
     //detect
     ivec2 textureAtlasSIZE = textureSize(Sampler0, 0);
     vec4 sample = textureLod(Sampler0, UV0, -4);
@@ -90,6 +94,15 @@ void main() {
         }
         else if (color == ivec4(62,85,82,178)) {
             isMCrapCustom = 8;
+            //float wave = sin(ChunkOffset.x+ChunkOffset.y+ChunkOffset.z * 2.0 + GameTime * 500.0) * 0.1;
+            //CustomPosOffset = vec3(wave) ;
+        }
+        else if (color == ivec4(52,65,82,178)) {
+            isMCrapCustom = 9;
+            realTexSizeY = 16;
+
+            float wave = (sin(ChunkOffset.x+ChunkOffset.y+ChunkOffset.z * 2.0 + GameTime * 500.0)+0.0) * 0.1;
+            CustomPosOffset = vec3(wave)*Normal ;
         }
         else {
             isMCrapCustom = 0;
@@ -103,6 +116,6 @@ void main() {
     //objmc
     #define ENTITY
     #moj_import <objmc_main.glsl>
-    gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1.0);
+    gl_Position = ProjMat * ModelViewMat * vec4(Pos + CustomPosOffset, 1.0);
     vertexDistance = fog_distance(Pos, FogShape);
 }

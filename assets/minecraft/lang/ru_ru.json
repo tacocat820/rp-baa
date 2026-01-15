@@ -254,8 +254,8 @@
 	"what.adv.meth_lollipop.desc": "ну маам..",
 	"what.adv.mace_lollipop": "НЕЕЕЕЕТ",
 	"what.adv.mace_lollipop.desc": "НЕ ЕШ ПОДУМОЙ",
-	"what.adv.gigachicken": "ЭТОТ УДАР ПРОСТО ИМБА!",
-	"what.adv.gigachicken.desc": "встретьте курицу",
+	"what.adv.gigachicken": "Этот игрок по морде просит!",
+	"what.adv.gigachicken.desc": "встретье 'курицу'",
 	"what.adv.unfurnace": "алекс, мы должны готовить...",
 	"what.adv.unfurnace.desc": "получите антипечку",
 	"what.adv.iphone": "от 400$",
@@ -332,7 +332,9 @@
 	"what.adv.global_cooling": "Вы что, совсем тупые? Вы что, СОВСЕМ тупые?",
 	"what.adv.global_cooling.desc": "The ice age is coming...",
 	"what.adv.triple_baka.desc": "найдите золото 2, алмаз 2 и редстоун 2!",
-
+	"what.adv.nfts": "на что ты тратишь деньги?",
+	"what.adv.nfts.desc": "соберите все NFT",
+	
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
 	"what.mob.slave" : "Раб",

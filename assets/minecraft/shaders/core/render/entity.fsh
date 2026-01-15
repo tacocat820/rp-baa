@@ -9,7 +9,6 @@ uniform vec4 ColorModulator;
 uniform float FogStart;
 uniform float FogEnd;
 uniform vec4 FogColor;
-uniform vec3 ChunkOffset;
 
 uniform vec3 Light0_Direction;
 uniform vec3 Light1_Direction;
@@ -25,6 +24,8 @@ in vec3 ModelViewMatrix;
 in float transition;
 
 
+//uniform vec3 ChunkOffset;
+in vec3 chunk_offset;
 flat in int isCustom;
 flat in int isGUI;
 flat in int isHand;
@@ -71,7 +72,9 @@ void main() {
             color = vec4(255,255,255,255);
         }
         else if (isMCrapCustom == 4) {
-            color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(fract(Pos.y) * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
+            vec3 pos_a = chunk_offset + Pos;
+            color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(fract(pos_a.y) * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
+            //color = vec4(ChunkOffset/10.0, 1.0);
         }
         else if (isMCrapCustom == 5) {
             color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(1 * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
@@ -88,6 +91,10 @@ void main() {
             color = getActualColor();
             float seed = GameTime + color.r + vertexDistance;
             color = vec4( vec3(fract(543.2543 * sin(dot(vec2(seed, seed), vec2(3525.46, -54.3415 ))))), 1.0 );
+        }
+        else if (isMCrapCustom == 9) {
+            color = getActualColor();
+
         }
     }
 
