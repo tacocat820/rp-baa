@@ -93,7 +93,7 @@ void main() {
             color = vec4( vec3(fract(543.2543 * sin(dot(vec2(seed, seed), vec2(3525.46, -54.3415 ))))), 1.0 );
         }
         else if (isMCrapCustom == 9) {
-            color = getActualColor();
+            color = getActualColor()*lightColor;
 
         }
     }
