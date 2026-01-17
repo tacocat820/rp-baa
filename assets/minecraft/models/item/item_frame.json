@@ -145,6 +145,7 @@
   {"predicate": {"custom_model_data": 32129},"model": "minecraft:item/block/wtf_block"},
   {"predicate": {"custom_model_data": 32130},"model": "minecraft:item/block/liquid_glass"},
   {"predicate": {"custom_model_data": 32131},"model": "minecraft:item/block/chinese_lantern"},
-  {"predicate": {"custom_model_data": 32132},"model": "minecraft:item/block/jelly_block"}
+  {"predicate": {"custom_model_data": 32132},"model": "minecraft:item/block/jelly_block"},
+  {"predicate": {"custom_model_data": 32133},"model": "minecraft:item/block/badapple"}
   ]
 }
