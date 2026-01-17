@@ -67,7 +67,8 @@ void main() {
         sample = textureLod(Sampler0, vec2(UV0.x + x_offset, UV0.y), 0);
         color = ivec4(round(sample * 255.0)); //ЦВЕТ
 
-        vec4 sample_1 = textureLod(Sampler0, vec2(UV0.x + x_offset*2, UV0.y), 0); realTexSizeY = 256*(sample_1.r);
+        vec4 sample_1 = textureLod(Sampler0, vec2(UV0.x + x_offset*2, UV0.y), 0);
+        realTexSizeY = 256*(sample_1.r); //высота.
         if (realTexSizeY == 0) { realTexSizeY = 16; }
         
         ///----///
@@ -101,8 +102,14 @@ void main() {
             isMCrapCustom = 9;
             realTexSizeY = 16;
 
-            float wave = (sin(ChunkOffset.x+ChunkOffset.y+ChunkOffset.z * 2.0 + GameTime * 500.0)+0.0) * 0.1;
-            CustomPosOffset = vec3(wave)*Normal ;
+            vec4 sample_2 = textureLod(Sampler0, vec2(UV0.x + x_offset*3, UV0.y), 0);
+            float wave_strength_x = (sample_2.r); //сила x
+            float wave_strength_y = (sample_2.g); //сила y
+            float wave_strength_z = (sample_2.b); //сила z
+
+            float wave_sin = (sin(GameTime * 500.0)+0.0);
+            float wave_cos = (cos(GameTime * 500.0)+0.0);
+            CustomPosOffset = vec3(wave_strength_x*wave_sin, wave_strength_y*(wave_sin+wave_cos), wave_strength_z*wave_cos) ;
         }
         else {
             isMCrapCustom = 0;
