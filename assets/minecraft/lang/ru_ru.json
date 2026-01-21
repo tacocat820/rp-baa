@@ -455,7 +455,7 @@
 	"what.message.wwtb.q10.2": "деревня жителей",
 	"what.message.wwtb.q10.3": "деревня смерти",
 	"what.message.wwtb.q10.4": "деревня шрека",
-	"what.message.wwtb.q10.5": "the answer was death village!",
+	"what.message.wwtb.q10.5": "ответ: death village!",
 	
 
 	"what.message.wwtb.q11.1": "кого надо УБИТЬ чтобы получить блок бинг чиллинга?",
@@ -539,5 +539,125 @@
 	"what.message.wwtb.outro.9": "ииии настало время для НАГРАЖДЕНИЯ !",
 	"what.message.wwtb.outro.10": "еее",
 	"what.message.wwtb.outro.11": "многа деняк",
-	"what.message.wwtb.outro.12": "до встречи в следующий раз.  :D"
+	"what.message.wwtb.outro.12": "до встречи в следующий раз.  :D",
+
+
+	"what.message.wwtb.intro.3.alt_1": "after one player was executed to death they cannot participate anymore",
+	"what.message.wwtb.intro.3.alt_2": "well... almost half of our participants are dead... we still have enough people though",
+	"what.message.wwtb.intro.3.alt_3": "oh",
+
+	"what.message.wwtb.solo_intro.4": "лол, а где все?",
+	"what.message.wwtb.solo_intro.5": "ну чтож;",
+	"what.message.wwtb.solo_intro.6": "это значит, что к игре присоединяюсь я!!",
+	"what.message.wwtb.solo_intro.7": "и ОЛЕНЬ, самое могущественное существо в мире майнкрап 2!",
+	"what.message.wwtb.solo_intro.8": "и награда победителя будет особой",
+	"what.message.wwtb.solo_intro.9": "начнём-с.",
+
+
+	"what.message.wwtb.q21.1": "вопрос 1 custom model data первого блока ",
+	"what.message.wwtb.q21.2": "900",
+	"what.message.wwtb.q21.3": "183300",
+	"what.message.wwtb.q21.4": "32000",
+	"what.message.wwtb.q21.5": "ответ: 32000!",
+
+	"what.message.wwtb.q22.1": "вопрос 2 where can you hear 'Skeletons Don't Have Organs?'",
+	"what.message.wwtb.q22.2": "вехний мир",
+	"what.message.wwtb.q22.3": "мир скелетов",
+	"what.message.wwtb.q22.4": "нижний мир",
+	"what.message.wwtb.q22.5": "ответ: нижний мир!!",
+
+	"what.message.wwtb.q23.1": "вопрос 3 кто сделал структуру 'нефряная вышка'?",
+	"what.message.wwtb.q23.2": "tacocat820",
+	"what.message.wwtb.q23.3": "kalashn1k",
+	"what.message.wwtb.q23.4": "runrun228",
+	"what.message.wwtb.q23.5": "ответ: kalasnh1k",
+
+	"what.message.wwtb.q24.1": "вопрос 4 как ОЛЕНЬ называется в файлах датапака?",
+	"what.message.wwtb.q24.2": "betterhorse",
+	"what.message.wwtb.q24.3": "notjuan",
+	"what.message.wwtb.q24.4": "и так, и сяк",
+	"what.message.wwtb.q24.5": "ответ: и так, и сяк",
+
+	"what.message.wwtb.q25.1": "вопрос 5: 12!",
+	"what.message.wwtb.q25.2": "479001600",
+	"what.message.wwtb.q25.3": "435001800",
+	"what.message.wwtb.q25.4": "310003500",
+	"what.message.wwtb.q25.5": "ответ: 479001600",
+
+	"what.message.wwtb.q26.1": "sqrt(-1)",
+	"what.message.wwtb.q26.2": "İ",
+	"what.message.wwtb.q26.3": "i",
+	"what.message.wwtb.q26.4": "ї",
+	"what.message.wwtb.q26.5": "ответ: i!",
+
+	"what.message.wwtb.q27.1": "1024*3321",
+	"what.message.wwtb.q27.2": "3400704",
+	"what.message.wwtb.q27.3": "3435204",
+	"what.message.wwtb.q27.4": "3400713",
+	"what.message.wwtb.q27.5": "ответ: 3400704!",
+
+	"what.message.wwtb.q28.1": "в какой версии майнкрапа 2 майнрата добавлены эти вопросы?",
+	"what.message.wwtb.q28.2": "v999 - Innovational Technology",
+	"what.message.wwtb.q28.3": "v1.21.10001",
+	"what.message.wwtb.q28.4": "v1024 - Ponderous Blues",
+	"what.message.wwtb.q28.5": "ответ: v1024!",
+
+	"what.message.wwtb.q29.1": "самоцитирование - нарциссизм?",
+	"what.message.wwtb.q29.2": "да",
+	"what.message.wwtb.q29.3": "дааа",
+	"what.message.wwtb.q29.4": "дааадада",
+	"what.message.wwtb.q29.5": "ответ: дааадада! это чистой воды нарциссизм!! угадайте, кто постоянно это делает?",
+
+	"what.message.wwtb.q30.1": "как попасть в измерение блюза?",
+	"what.message.wwtb.q30.2": "с помощью мусорки",
+	"what.message.wwtb.q30.3": "с помощью музыкального зала (в Калифорнии)",
+	"what.message.wwtb.q30.4": "с помощью музыкального зала (в раю)",
+	"what.message.wwtb.q30.5": "ответ: в калифорнии!",
+
+	"what.message.wwtb.q31.1": "77 + 33 = ?",
+	"what.message.wwtb.q31.2": "110",
+	"what.message.wwtb.q31.3": "100",
+	"what.message.wwtb.q31.4": "100",
+	"what.message.wwtb.q31.5": "ответ: 110",
+
+	"what.message.wwtb.q32.1": "What is a ? mathematical operation called? (i.e. 4? = 1 + 2 + 3 + 4)",
+	"what.message.wwtb.q32.2": "perille",
+	"what.message.wwtb.q32.3": "kirelme",
+	"what.message.wwtb.q32.4": "termial",
+	"what.message.wwtb.q32.5": "ответ: termial!",
+
+	"what.message.wwtb.q33.1": "12!!",
+	"what.message.wwtb.q33.2": "479001600",
+	"what.message.wwtb.q33.3": "42940200",
+	"what.message.wwtb.q33.4": "46080",
+	"what.message.wwtb.q33.5": "ответ: 46080",
+
+	"what.message.wwtb.q34.1": "когда релизнулась виндовс 2000?",
+	"what.message.wwtb.q34.2": "2000",
+	"what.message.wwtb.q34.3": "в 2000-ных",
+	"what.message.wwtb.q34.4": "gnu/linux",
+	"what.message.wwtb.q34.5": "ответ: 2000",
+
+	"what.message.wwtb.q35.1": "大丈夫だ？",
+	"what.message.wwtb.q35.2": "КОНЕЧНО НЕТ! Я НЕ ХОЧУ УМИРАТЬ!!",
+	"what.message.wwtb.q35.3": "да",
+	"what.message.wwtb.q35.4": "может быть",
+	"what.message.wwtb.q35.5": "КОНЕЧНО НЕТ! Я НЕ ХОЧУ УМИРАТЬ!!!",
+
+
+	"what.message.wwtb.solo_outro.1": " ",
+	"what.message.wwtb.solo_outro.2": "вы просто молодцы",
+	"what.message.wwtb.solo_outro.3": "но я лучше ихиххихихиххи!!!",
+	"what.message.wwtb.solo_outro.4": "потому что составитель вопросов - я)))",
+	"what.message.wwtb.solo_outro.5": "вопрос №1024 45912203412+2319204932/2+4^12*3\nA: 1243901\nB: 41024010\nC:19321",
+	"what.message.wwtb.solo_outro.6": "верный ответ: 47122137526",
+	"what.message.wwtb.solo_outro.7": "воПРОСООС №8123891 77+33-12904810924\nA: 8312\nB: 19429\nC:50012s",
+	"what.message.wwtb.solo_outro.8": "ВерНЫЙ ответ: -12904810814",
+	"what.message.wwtb.solo_outro.9": "ВООСППРОСОС №9999999999999999 999999*12930130\nA: 0\nB: 1\nC:2",
+	"what.message.wwtb.solo_outro.10": "ОТВЕТТ: 12930117069870",
+	"what.message.wwtb.solo_outro.11": "ВООПРОСС №infinity 4/0\nA: infinity\nB: 4/0\nC:NaN",
+	"what.message.wwtb.solo_outro.12": "ПРАВИЛЬННЫНЙ ОТВЕЕЕТТТ: 184124991429495601251920151920054812905812054182093421412905124",
+	"what.message.wwtb.solo_outro.13": "хихихиха",
+	"what.message.wwtb.solo_outro.14": "в-время для публичной казни 😊!!!",
+	"what.message.wwtb.solo_outro.15": "а..?"
 }
