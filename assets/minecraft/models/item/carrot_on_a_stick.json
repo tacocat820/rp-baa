@@ -33,7 +33,11 @@
     {"predicate": {"custom_model_data": 32026},"model": "minecraft:item/item/hypermangun_empty"},
     {"predicate": {"custom_model_data": 32027},"model": "minecraft:item/item/hypermangun_full"},
     {"predicate": {"custom_model_data": 32028},"model": "minecraft:item/item/wrench"},
-    {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/item/blues_crystal"}
+    {"predicate": {"custom_model_data": 32029},"model": "minecraft:item/item/blues_crystal"},
+    {"predicate": {"custom_model_data": 32030},"model": "minecraft:item/item/glass_of_stool"},
+    {"predicate": {"custom_model_data": 32031},"model": "minecraft:item/item/glass_of_liquid_glass"},
+    {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/item/glass_of_pee"},
+    {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/item/glass_of_uranium"}
     
   
   ]
