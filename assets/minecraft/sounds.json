@@ -160,5 +160,7 @@
 	"what.musichall.very_orchestral_music":
 	{"category": "player","sounds": [{"name": "what/musichall/very_orchestral_music","stream": true}]},
 	"what.musichall.thisisnotatoaster":
-	{"category": "player","sounds": [{"name": "what/musichall/thisisnotatoaster","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/musichall/thisisnotatoaster","stream": true}]},
+	"what.ost.wwtb_final":
+	{"category": "player","sounds": [{"name": "what/ost/wwtb_final","stream": true}]}
 }
