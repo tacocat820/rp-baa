@@ -232,6 +232,12 @@
 	"what.block.button_b" : "\"B\"",
 	"what.block.button_c" : "\"C\"",
 
+	"what.block.nuke" : "Nuke",
+	"what.block.uranium_block" : "Uranium Block",
+
+	"what.block.cursed_planks" : "Cursed planks",
+	"what.block.cursed_wood" : "Cursed wood",
+
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
 	"death.attack.psycho": "%1$s bitten to death",
@@ -392,8 +398,8 @@
 	"what.adv.triple_baka.desc": "collect gold 2, diamond 2 and redstone 2!",
 	"what.adv.nfts": "NFTs collector",
 	"what.adv.nfts.desc": "obtain all nfts",
-	"what.adv.wwtb_final": "participate in the WWTBaQ's final episode",
-	"what.adv.wwtb_final.desc": "The Finale",
+	"what.adv.wwtb_final": "The Finale",
+	"what.adv.wwtb_final.desc": "participate in the WWTBaQ's final episode",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
@@ -405,7 +411,7 @@
 	"what.mob.vroomba" : "Vroomba",
 	"what.mob.cable" : "Cable the cow",
 	"what.mob.mogus" : "Mogus",
-	"what.mob.pigeon" : "Goverment drone",
+	"what.mob.pigeon" : "Government drone",
 	"what.mob.hmmm" : "hmmmmmmmmmm",
 	"what.mob.psycho" : "psycho",
 	"what.mob.smurf_cat" : "Шайлушай",
@@ -429,8 +435,18 @@
 	"what.mob.elon" : "Elon Musk",
 	"what.mob.boulder" : "Boulder",
 	"what.mob.tarantula" : "🩸 ☔ Cupcake 🌊 🕷",
-	"what.mob.trasher" : "AI trasher",
+	"what.mob.trasher" : "Slop",
+	"what.mob.trebucher" : "Trebuchet",
+	"what.mob.flat_design" : "Flat UI Design",
+	"what.mob.nest" : "b nest",
+	"what.mob.defender" : "Defender",
+	"what.mob.freaking" : "The Freaking ",
 	"what.mob.skeleton2" : "SKELETON",
+	"what.mob.potentiallyjuan" : "Potentiallyjuan",
+	"what.mob.juan.banana" : "Banana",
+	"what.mob.juan.bulldozer" : "The Holy Bulldozer",
+	"what.mob.juan.frostberry" : "Frostberry",
+	"what.mob.juan.worm" : "Worm",
 
 	"what.txt.recipe": "recipe",
 	"what.txt.any": "Any: ",
@@ -721,5 +737,33 @@
 	"what.message.wwtb.solo_outro.12": "ANSWER: 184124991429495601251920151920054812905812054182093421412905124",
 	"what.message.wwtb.solo_outro.13": "eheeheheh",
 	"what.message.wwtb.solo_outro.14": "it's time to die losers!!!",
-	"what.message.wwtb.solo_outro.15": "h-huh..?"
+	"what.message.wwtb.solo_outro.15": "h-huh..?",
+
+
+	"what.credits.1.1" : "MIENCRAP 2 MINERAT",
+	"what.credits.1.2" : "Developer - tacocat820",
+	"what.credits.1.3" : "Developer - runrun228",
+	"what.credits.1.4" : "Developer - Steve Jobs",
+
+	"what.credits.2.1" : "Some nether buildings and the oil thing structure",
+	"what.credits.2.2" : "Builder - Kalashn1k",
+
+	"what.credits.3.1" : "OBJMC",
+	"what.credits.3.2" : "Developer - Godlander",
+
+	"what.credits.4.1" : "i don't know what else to put here",
+	"what.credits.4.2" : "asdkcasckdaidfowjdoiawjdoiawjdoawidjoawd",
+	"what.credits.4.3" : "rfapsd[apwld[awpldap[wfkaof",
+	"what.credits.4.4" : "asdfopakcpowivqdv-[0,k",
+	"what.credits.4.5" : "qw-eiqw0-eocwq0-ecoqwpcekqwpocekqwpceqwojpjopqcdjopqc",
+	
+	"what.credits.filler.0" : "BWEEEEEEEEEEHHHHHHHHHHHHHHHH",
+	"what.credits.filler.1" : "Minecraft is a media franchise developed from and centered around the video game of the same name. Developed by Mojang Studios (formerly known as Mojang ABCDEFG",
+	"what.credits.filler.2" : "stanley ?!? stanelye!!!",
+	"what.credits.filler.3" : "asdasdcasopdcaposdk",
+	"what.credits.filler.4" : "meow meow meow mowe moew",
+	"what.credits.filler.5" : "my deer friend notjuan",
+
+	"what.credits.end.1" : "thank you for playing",
+	"what.credits.end.2" : "see you :3"
 }

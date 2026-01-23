@@ -162,5 +162,7 @@
 	"what.musichall.thisisnotatoaster":
 	{"category": "player","sounds": [{"name": "what/musichall/thisisnotatoaster","stream": true}]},
 	"what.ost.wwtb_final":
-	{"category": "player","sounds": [{"name": "what/ost/wwtb_final","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/wwtb_final","stream": true}]},
+	"what.ost.credits":
+	{"category": "player","sounds": [{"name": "what/ost/credits","stream": true}]}
 }
