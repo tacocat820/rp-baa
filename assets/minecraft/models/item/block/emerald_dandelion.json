@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/templates/4s_block",
+  "textures": {
+    "b": "item/block/emerald_dandelion"
+  }
+}

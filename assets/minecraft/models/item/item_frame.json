@@ -152,6 +152,15 @@
   {"predicate": {"custom_model_data": 32136},"model": "minecraft:item/block/xp_red_glass"},
   {"predicate": {"custom_model_data": 32137},"model": "minecraft:item/block/exit"},
   {"predicate": {"custom_model_data": 32138},"model": "minecraft:item/block/liquid_chair"},
-  {"predicate": {"custom_model_data": 32139},"model": "minecraft:item/block/nuclear_waste"}
+  {"predicate": {"custom_model_data": 32139},"model": "minecraft:item/block/nuclear_waste"},
+
+  {"predicate": {"custom_model_data": 32140},"model": "minecraft:item/block/golden_dandelion"},
+  {"predicate": {"custom_model_data": 32141},"model": "minecraft:item/block/copper_dandelion"},
+  {"predicate": {"custom_model_data": 32142},"model": "minecraft:item/block/lapis_dandelion"},
+  {"predicate": {"custom_model_data": 32143},"model": "minecraft:item/block/redstone_dandelion"},
+  {"predicate": {"custom_model_data": 32144},"model": "minecraft:item/block/iron_dandelion"},
+  {"predicate": {"custom_model_data": 32145},"model": "minecraft:item/block/diamond_dandelion"},
+  {"predicate": {"custom_model_data": 32146},"model": "minecraft:item/block/emerald_dandelion"}
+
   ]
 }

@@ -1,8 +1,8 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent":"item/templates/display_as_block",
+	"parent": "item/templates/display_as_block",
 	"ambientocclusion": false,
-	"gui_light": "front",
 	"textures": {
 		"particle": "#b"
 	},
@@ -31,5 +31,20 @@
 				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
 			}
 		}
-	]
+	],
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-12, -10, 4],
+			"translation": [1.25, 4.25, 0],
+			"scale": [0.54, 0.54, 0.001]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"scale": [1, 1, 0.01]
+		}
+	}
 }
