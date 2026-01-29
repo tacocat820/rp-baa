@@ -19,11 +19,6 @@
     {"predicate": {"custom_model_data": 32007},"model": "minecraft:item/item/pufferfish_chocolate"},
     {"predicate": {"custom_model_data": 32008},"model": "minecraft:item/item/mogus_candy"},
     {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/potassium_permanganate_sandwich"},
-    {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/golden_candy"},
-    {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/golden_dandelion"},
-    {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/emerald_dandelion"},
-    {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/lapis_dandelion"},
-    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/redstone_dandelion"}
-    
+    {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/golden_candy"}
   ]
 }
