@@ -160,7 +160,11 @@
   {"predicate": {"custom_model_data": 32143},"model": "minecraft:item/block/redstone_dandelion"},
   {"predicate": {"custom_model_data": 32144},"model": "minecraft:item/block/iron_dandelion"},
   {"predicate": {"custom_model_data": 32145},"model": "minecraft:item/block/diamond_dandelion"},
-  {"predicate": {"custom_model_data": 32146},"model": "minecraft:item/block/emerald_dandelion"}
+  {"predicate": {"custom_model_data": 32146},"model": "minecraft:item/block/emerald_dandelion"},
+
+  {"predicate": {"custom_model_data": 32147},"model": "minecraft:item/block/toaster/toaster"},
+  {"predicate": {"custom_model_data": 32148},"model": "minecraft:item/block/toaster/toaster_baking"},
+  {"predicate": {"custom_model_data": 32149},"model": "minecraft:item/block/toaster/toasted"}
 
   ]
 }
