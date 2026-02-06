@@ -766,5 +766,25 @@
 	"what.credits.filler.5" : "my deer friend notjuan",
 
 	"what.credits.end.1" : "thank you for playing",
-	"what.credits.end.2" : "see you :3"
+	"what.credits.end.2" : "see you :3",
+
+    "menu.singleplayer": "Play with friends",
+    "menu.multiplayer": "Play with friends",
+    "menu.online": "Play with friends",
+    "menu.quit": "Play with friends",
+    "menu.options": "Play with friends",
+    "title.credits": "CREDITS !!! HERE",
+    "datapackFailure.title": "datapack bad check version or something",
+    "datapackFailure.safeMode.failed.title": ":((9",
+    "selectWorld.create": "ma",
+    "selectWorld.gameMode.creative": "loser mode",
+    "selectWorld.gameMode.hardcore": "realistic mode",
+    "selectWorld.gameMode.survival": "normal mode",
+    "selectWorld.allowCommands.new": "unserious mode",
+    "selectWorld.allowCommands": "unserious mode",
+    "selectWorld.allowCommands.info": "Allow commands like /kill @e, /function what:mob/_spawner/betterhorse, /loot give @s loot what:items/hypermangun",
+    "selectWorld.backupJoinConfirmButton": "Create Backup and Load",
+    "selectWorld.backupJoinSkipButton": "--> CLICK HERE DON'T BACKUP <--",
+    "selectWorld.backupQuestion.experimental": "Worlds using Experimental Settings are blah blah blah blah blah",
+	"selectWorld.backupWarning.experimental": "This world uses experimental settings blah blah blah"
 }
