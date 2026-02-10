@@ -133,6 +133,8 @@
 	{"category": "player","sounds": [{"name": "what/ost/eror","stream": true}]},
 	"what.pop":
 	{"category": "player","sounds": [{"name": "what/pop","stream": false}]},
+	"what.shotgun":
+	{"category": "player","sounds": [{"name": "what/shotgun","stream": false}]},
 	"what.ost.garbagemusic":
 	{"category": "player","sounds": [{"name": "what/ost/garbagemusic","stream": false}]},
 	"what.ost.speedrunmode":
