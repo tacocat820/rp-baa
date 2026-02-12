@@ -107,7 +107,9 @@
 	"what.item.optical_disc" : "♻ 💾 компакт-диск 💧 🐠",
 	"what.item.crystal_ball" : "🔮 💧 хрустальный шар 🐬 💣",
 	"what.item.fknife" : "🔪 🩸 🧠 но- падажжи его не так надо держать!! 🚿 🐬 🥶",
-
+	"what.item.untoast" : "тостовый хлеб",
+	"what.item.toast" : "тост",
+	"what.item.blues_crystal" : "Blues Crystal",
 
 	"what.block.brazil": "Блок Бразилии",
 	"what.block.windows12": "Windows 12",
@@ -334,7 +336,18 @@
 	"what.adv.triple_baka.desc": "найдите золото 2, алмаз 2 и редстоун 2!",
 	"what.adv.nfts": "на что ты тратишь деньги?",
 	"what.adv.nfts.desc": "соберите все NFT",
-	
+	"what.adv.wwtb_final": "Финал",
+	"what.adv.wwtb_final.desc": "поучавствуйте в ПОСЛЕДНЕМ эпизоде КХСММ",
+	"what.adv.musichall": "average edm fan vs a classical music enjoyer",
+	"what.adv.musichall.desc": "find the nether music hell (hall)",
+	"what.adv.toaster": "объективно лучше зачарованного зяблока",
+	"what.adv.toaster.desc": "сделайте ТОСТ!",
+	"what.adv.enjoyer": "Просветленный",
+	"what.adv.enjoyer.desc": "find all the music discs!",
+	"what.adv.blues": "i never had the blues",
+	"what.adv.blues.desc": "enter the BLUES DIMENSION!!!",
+
+
 	"what.mob.new_zealand" : "Новая Зеландия",
 	"what.mob.homeless" : "Бездомный",
 	"what.mob.slave" : "Раб",
