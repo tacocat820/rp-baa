@@ -21,7 +21,8 @@
     {"predicate": {"custom_model_data": 32009},"model": "minecraft:item/item/potassium_permanganate_sandwich"},
     {"predicate": {"custom_model_data": 32010},"model": "minecraft:item/item/golden_candy"},
     {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/toast"},
-    {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/minitoast"}
+    {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/minitoast"},
+    {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/toast_crumbs"}
     
   ]
 }
