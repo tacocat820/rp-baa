@@ -168,5 +168,9 @@
 	"what.ost.credits":
 	{"category": "player","sounds": [{"name": "what/ost/credits","stream": true}]},
 	"what.ost.dangerous":
-	{"category": "player","sounds": [{"name": "what/ost/dangerous","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/dangerous","stream": true}]},
+	"what.ost.mapple":
+	{"category": "player","sounds": [{"name": "what/ost/mapple","stream": true}]},
+	"what.ost.bapple":
+	{"category": "player","sounds": [{"name": "what/ost/bapple","stream": true}]}
 }
