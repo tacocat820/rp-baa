@@ -39,7 +39,8 @@
     {"predicate": {"custom_model_data": 32032},"model": "minecraft:item/item/glass_of_pee"},
     {"predicate": {"custom_model_data": 32033},"model": "minecraft:item/item/glass_of_uranium"},
     {"predicate": {"custom_model_data": 32034},"model": "minecraft:item/item/toastthrower"},
-    {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/item/minitoastgun"}
+    {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/item/minitoastgun"},
+    {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/item/glass_of_lava"}
     
   
   ]
