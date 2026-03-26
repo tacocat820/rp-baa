@@ -164,7 +164,9 @@
 
   {"predicate": {"custom_model_data": 32147},"model": "minecraft:item/block/toaster/toaster"},
   {"predicate": {"custom_model_data": 32148},"model": "minecraft:item/block/toaster/toaster_baking"},
-  {"predicate": {"custom_model_data": 32149},"model": "minecraft:item/block/toaster/toasted"}
+  {"predicate": {"custom_model_data": 32149},"model": "minecraft:item/block/toaster/toasted"},
+  {"predicate": {"custom_model_data": 32150},"model": "minecraft:item/block/yellow_metal_block"},
+  {"predicate": {"custom_model_data": 32151},"model": "minecraft:item/block/golden_window"}
 
   ]
 }
