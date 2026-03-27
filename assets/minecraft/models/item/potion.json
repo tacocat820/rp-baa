@@ -94,6 +94,7 @@
 	  {"predicate": {"custom_model_data": 32081},"model": "minecraft:item/ent/potentiallyjuan/walk"},
 	  {"predicate": {"custom_model_data": 32082},"model": "minecraft:item/ent/crish"},
 	  {"predicate": {"custom_model_data": 32083},"model": "minecraft:item/ent/lion"},
-	  {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/ent/witherent"}
+	  {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/ent/witherent"},
+	  {"predicate": {"custom_model_data": 32085},"model": "minecraft:item/ent/ievil/walk"}
     ]
   }
