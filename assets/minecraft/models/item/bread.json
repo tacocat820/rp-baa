@@ -23,7 +23,9 @@
     {"predicate": {"custom_model_data": 32011},"model": "minecraft:item/item/toast"},
     {"predicate": {"custom_model_data": 32012},"model": "minecraft:item/item/minitoast"},
     {"predicate": {"custom_model_data": 32013},"model": "minecraft:item/item/toast_crumbs"},
-    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/sulfur"}
+    {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/sulfur"},
+    {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/item/bapple"}
+    
     
   ]
 }

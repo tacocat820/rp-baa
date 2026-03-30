@@ -224,6 +224,7 @@
 	"what.block.brazil_painting" : "\"Brazil\"",
 	"what.item.heating_radiator" : "Radiator",
 	"what.item.epstein_file" : "Epstein file",
+	"what.item.bapple" : "Bad apple",
 
 	"what.block.crappy_cobblestone" : "Crappy looking cobblestone",
 	"what.block.cloud" : "☁💨 cloud ⭕💧",
@@ -262,6 +263,11 @@
 	"what.message.gaster_3": "BURN THEIR BODIES ABOVE THIS FIRE",
 	"what.message.speedrun": "speedrun mode beat minecrap 2 in 800 seconds.\nhint: mine dirt and cobblestone",
 	"what.message.welcome_to_hell": "<God> Due to the wicked sins of yours, we have decided that we shall send you to hell instead of heaven. If you disagree, please call us (+7 777 777 77 77 (also you don't deserve the achivement))",
+	
+	"what.message.gcs_1": "HELLO\n WELCOME AGAIN",
+	"what.message.gcs_2": "I HAVE SOMETHING\n I WANT TO SHOW YOU SOMETHING\n I THINK YOU WILL FIND\n VERY, VERY INTERESTING",
+	"what.message.gcs_3": "PLAYER\n\n\n WE NEED TO COOK",
+	"what.message.gcs_4": "WE SHALL GET 999 999 999 FOLLOWERS",
 	
 	
 	"what.message.fed_ritual_1": "<Pentagram> ",
