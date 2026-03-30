@@ -225,6 +225,7 @@
 	"what.item.heating_radiator" : "Radiator",
 	"what.item.epstein_file" : "Epstein file",
 	"what.item.bapple" : "Bad apple",
+	"what.item.cotton_swab" : "Cotton swab",
 
 	"what.block.crappy_cobblestone" : "Crappy looking cobblestone",
 	"what.block.cloud" : "☁💨 cloud ⭕💧",
@@ -241,6 +242,7 @@
 
 	"what.block.cursed_planks" : "Cursed planks",
 	"what.block.cursed_wood" : "Cursed wood",
+	"what.block.ear" : "Ear",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

@@ -167,7 +167,8 @@
   {"predicate": {"custom_model_data": 32149},"model": "minecraft:item/block/toaster/toasted"},
   {"predicate": {"custom_model_data": 32150},"model": "minecraft:item/block/yellow_metal_block"},
   {"predicate": {"custom_model_data": 32151},"model": "minecraft:item/block/golden_window"},
-  {"predicate": {"custom_model_data": 32152},"model": "minecraft:item/block/sulfuric_acid"}
+  {"predicate": {"custom_model_data": 32152},"model": "minecraft:item/block/sulfuric_acid"},
+  {"predicate": {"custom_model_data": 32153},"model": "minecraft:item/block/ear"}
 
   ]
 }
