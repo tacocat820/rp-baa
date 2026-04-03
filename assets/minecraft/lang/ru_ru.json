@@ -97,7 +97,11 @@
 	"what.item.golden_candy" : "Золотая конфета",
 	"what.item.tooth" : "Зуб",
 	"what.item.macadamia" : "Макадамия",
-
+	"what.item.cotton_swab" : "Ватная палочка",
+	"what.item.blue_tape" : "Синяя изолента",
+	"what.item.toast_crumbs" : "Крошки от тоста",
+	"what.item.sulfur" : "Сера",
+	
 	"what.jukebox_song.creator": "Lena Raine (?) - Creator (???)",
 	"what.jukebox_song.otherside": "lena brain otersideh",
 	"what.item.music_disc_creator" : "помогите.",
@@ -151,6 +155,7 @@
 	"what.block.floppa" : "Шлёпа",
 	"what.block.RCWIP" : "Угловая рельса без железной кирки",
 	"what.block.VLC" : "Дорожный конус",
+	"what.block.sulfur_block" : "Блок серы",
 
 	"what.block.rotten_flesh_block" : "Блок гнилой плоти",
 	"what.block.die" : "СДОХНИ",

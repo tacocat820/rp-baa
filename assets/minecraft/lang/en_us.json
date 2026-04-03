@@ -226,6 +226,10 @@
 	"what.item.epstein_file" : "Epstein file",
 	"what.item.bapple" : "Bad apple",
 	"what.item.cotton_swab" : "Cotton swab",
+	"what.item.blue_tape" : "Blue tape",
+	"what.item.toast_crumbs" : "Toast crumbs",
+	"what.item.toastthrower" : "T.O.A.S.T. v2",
+	"what.item.sulfur" : "Sulfur",
 
 	"what.block.crappy_cobblestone" : "Crappy looking cobblestone",
 	"what.block.cloud" : "☁💨 cloud ⭕💧",
@@ -243,6 +247,7 @@
 	"what.block.cursed_planks" : "Cursed planks",
 	"what.block.cursed_wood" : "Cursed wood",
 	"what.block.ear" : "Ear",
+	"what.block.sulfur_block" : "Sulfur block",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

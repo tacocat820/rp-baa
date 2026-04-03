@@ -168,7 +168,9 @@
   {"predicate": {"custom_model_data": 32150},"model": "minecraft:item/block/yellow_metal_block"},
   {"predicate": {"custom_model_data": 32151},"model": "minecraft:item/block/golden_window"},
   {"predicate": {"custom_model_data": 32152},"model": "minecraft:item/block/sulfuric_acid"},
-  {"predicate": {"custom_model_data": 32153},"model": "minecraft:item/block/ear"}
+  {"predicate": {"custom_model_data": 32153},"model": "minecraft:item/block/ear"},
+  {"predicate": {"custom_model_data": 32154},"model": "minecraft:item/block/package"},
+  {"predicate": {"custom_model_data": 32155},"model": "minecraft:item/block/sulfur_block"}
 
   ]
 }
