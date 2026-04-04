@@ -228,8 +228,9 @@
 	"what.item.cotton_swab" : "Cotton swab",
 	"what.item.blue_tape" : "Blue tape",
 	"what.item.toast_crumbs" : "Toast crumbs",
-	"what.item.toastthrower" : "T.O.A.S.T. v2",
+	"what.item.toastthrower" : "T.O.A.S.T.E.R. v2",
 	"what.item.sulfur" : "Sulfur",
+	"what.item.fried_apple" : "Fried apple",
 
 	"what.block.crappy_cobblestone" : "Crappy looking cobblestone",
 	"what.block.cloud" : "☁💨 cloud ⭕💧",
@@ -291,6 +292,15 @@
 	"what.message.gcs_18": "WE SHALL NOW ADD THE HONEY",
 	"what.message.gcs_19": "NOW",
 	"what.message.gcs_20": "WE SHALL WAIT I GUESS",
+	"what.message.gcs_21": "OH WOW",
+	"what.message.gcs_22": "I SEE APPARENT PROGRESS",
+	"what.message.gcs_23": "THAT LOOKS REALLY GOOD",
+	"what.message.gcs_24": "AT LEAST BY MY STANDARDS",
+	"what.message.gcs_25": "SOON SOON",
+	"what.message.gcs_26": "WE SHALL WAIT JUST A MINUTE MORE",
+	"what.message.gcs_27": "WE ARE ALMOST THERE",
+	"what.message.gcs_28": "LOOK",
+	"what.message.gcs_29": "WE HAVE DONE IT\n\nWE FRIED AN APPLE",
 	
 	
 	"what.message.fed_ritual_1": "<Pentagram> ",

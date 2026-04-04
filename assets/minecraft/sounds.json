@@ -172,5 +172,7 @@
 	"what.ost.mapple":
 	{"category": "player","sounds": [{"name": "what/ost/mapple","stream": true}]},
 	"what.ost.bapple":
-	{"category": "player","sounds": [{"name": "what/ost/bapple","stream": true}]}
+	{"category": "player","sounds": [{"name": "what/ost/bapple","stream": true}]},
+	"what.ost.fryingapples":
+	{"category": "player","sounds": [{"name": "what/ost/fryingapples","stream": true}]}
 }
