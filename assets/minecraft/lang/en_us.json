@@ -26,6 +26,7 @@
 	"what.item.glass_empty" : "Empty glass",
 	"what.item.glass_of_water" : "Glass of water",
 	"what.item.glass_of_pee" : "Glass of PISS",
+	"what.item.glass_of_uranium" : "Glass of uranium",
 	"what.item.knife" : "Knife",
 	"what.item.screwdriver": "Multifunctional Precision Fastening and Unfastening Instrument for Rotary-Driven Screws and Bolts of Various Specifications",
 	
@@ -452,6 +453,12 @@
 	"what.adv.blues.desc": "enter the BLUES DIMENSION!!!",
 	"what.adv.minigun": "It costs $400,000 to fire this weapon for 12 seconds",
 	"what.adv.minigun.desc": "get the minigun",
+	"what.adv.witherent": "You will die in a fire",
+	"what.adv.witherent.desc": "defeat WITHEREN'T!",
+	"what.adv.maniac": "aha hahaha hAhahha hAHha hhAHAHHAHAHAHAHDDHASDhASDFIAHSD",
+	"what.adv.maniac.desc": "play around with dangerous things",
+	"what.adv.bapple": "Needy Gaster Overdose",
+	"what.adv.bapple.desc": "participate in Wing Ding Gaster's cooking show",
 
 	"what.mob.new_zealand" : "New Zealand",
 	"what.mob.homeless" : "Homeless",
