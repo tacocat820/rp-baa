@@ -250,6 +250,8 @@
 	"what.block.cursed_wood" : "Cursed wood",
 	"what.block.ear" : "Ear",
 	"what.block.sulfur_block" : "Sulfur block",
+	"what.block.villager" : "Villager",
+	"what.block.villager_block" : "Villager block",
 
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",

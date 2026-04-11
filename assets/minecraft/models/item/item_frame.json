@@ -170,7 +170,9 @@
   {"predicate": {"custom_model_data": 32152},"model": "minecraft:item/block/sulfuric_acid"},
   {"predicate": {"custom_model_data": 32153},"model": "minecraft:item/block/ear"},
   {"predicate": {"custom_model_data": 32154},"model": "minecraft:item/block/package"},
-  {"predicate": {"custom_model_data": 32155},"model": "minecraft:item/block/sulfur_block"}
+  {"predicate": {"custom_model_data": 32155},"model": "minecraft:item/block/sulfur_block"},
+  {"predicate": {"custom_model_data": 32156},"model": "minecraft:item/item/villager"},
+  {"predicate": {"custom_model_data": 32157},"model": "minecraft:item/block/villager_block"}
 
   ]
 }
