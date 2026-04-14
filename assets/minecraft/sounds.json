@@ -175,8 +175,34 @@
 	{"category": "player","sounds": [{"name": "what/ost/bapple","stream": true}]},
 	"what.ost.fryingapples":
 	{"category": "player","sounds": [{"name": "what/ost/fryingapples","stream": true}]},
+	"what.ost.aaa":
+	{"category": "player","sounds": [{"name": "what/ost/aaa","stream": true}]},
+	"what.ost.smi":
+	{"category": "player","sounds": [{"name": "what/ost/smi","stream": true}]},
+	"what.ed2_alarm":
+	{"category": "player","sounds": [{"name": "what/ed2_1","stream": false}]},
+	"what.ed2_hysteria":
+	{"category": "player","sounds": [{"name": "what/ed2_2","stream": false}]},
+	"what.ed2_music":
+	{"category": "player","sounds": [{"name": "what/ed2_6","stream": false}]},
 
 
+	"what.ed2_scream": {
+	    "sounds": [
+	      {
+	        "name": "what/ed2_3",
+	        "stream": false
+	      },
+  	   	  {
+  	   	     "name": "what/ed2_4",
+  	   	     "stream": false
+ 	   	  },
+	      {
+	        "name": "what/ed2_5",
+	        "stream": false
+	      }
+	  ]
+	},
 	"music.menu": {
 	    "sounds": [
 	      {
