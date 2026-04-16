@@ -459,6 +459,7 @@
     {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/item/very_orchestral_music"},
     {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/item/untoast"},
     {"predicate": {"custom_model_data": 32039},"model": "minecraft:item/item/trplbk"},
-    {"predicate": {"custom_model_data": 32040},"model": "minecraft:item/item/blue_tape"}
+    {"predicate": {"custom_model_data": 32040},"model": "minecraft:item/item/blue_tape"},
+    {"predicate": {"custom_model_data": 32041},"model": "minecraft:item/item/volem"}
   ]
 }
