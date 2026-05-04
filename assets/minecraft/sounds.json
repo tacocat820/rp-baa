@@ -178,7 +178,7 @@
 	"what.ost.aaa":
 	{"category": "player","sounds": [{"name": "what/ost/aaa","stream": true}]},
 	"what.ost.smi":
-	{"category": "player","sounds": [{"name": "what/ost/smi","stream": true}]},
+	{"category": "player","sounds": [{"name": "what/ost/smi2","stream": true}]},
 	"what.ed2_alarm":
 	{"category": "player","sounds": [{"name": "what/ed2_1","stream": false}]},
 	"what.ed2_hysteria":
