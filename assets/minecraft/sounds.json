@@ -185,6 +185,8 @@
 	{"category": "player","sounds": [{"name": "what/ed2_2","stream": false}]},
 	"what.ed2_music":
 	{"category": "player","sounds": [{"name": "what/ed2_6","stream": false}]},
+	"what.ost.ki":
+	{"category": "player","sounds": [{"name": "what/ost/ki","stream": true}]},
 
 
 	"what.ed2_scream": {
