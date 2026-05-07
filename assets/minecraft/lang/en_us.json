@@ -805,6 +805,24 @@
 	"what.message.wwtb.solo_outro.14": "it's time to die losers!!!",
 	"what.message.wwtb.solo_outro.15": "h-huh..?",
 
+	"what.message.wback.1": "hey so",
+	"what.message.wback.2": "you got the bad ending",
+	"what.message.wback.3": "good job!!!",
+	"what.message.wback.4": "but you probably wanna see the uh",
+	"what.message.wback.5": "the 'good ending'",
+	"what.message.wback.6": "let me teleport you back to the end",
+	"what.message.wback.7": "you'll know what to do",
+
+	"what.message.wback.8": "You may rest here for some time",
+	"what.message.wback.9": "When you are ready...",
+	"what.message.wback.10": "Go down the stairs into the basement :3",
+	"what.message.wback.11": "(or whatever it's called)",
+
+	"what.message.wback_leave.1": "Before you go...",
+	"what.message.wback_leave.2": "You should take this",
+	"what.message.wback_leave.3": "No need to thank me!",
+	"what.message.wback_leave.4": "You may now proceed",
+
 	"what.message.adios.1": "yay congrats",
 	"what.message.adios.2": "You've seen one fake ending...",
 	"what.message.adios.3": "You've seen another...",
