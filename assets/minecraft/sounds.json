@@ -187,6 +187,8 @@
 	{"category": "player","sounds": [{"name": "what/ed2_6","stream": false}]},
 	"what.ost.ki":
 	{"category": "player","sounds": [{"name": "what/ost/ki","stream": true}]},
+	"what.ost.hog":
+	{"category": "player","sounds": [{"name": "what/ost/hog","stream": true}]},
 
 
 	"what.ed2_scream": {
