@@ -97,6 +97,8 @@
 	  {"predicate": {"custom_model_data": 32084},"model": "minecraft:item/ent/witherent"},
 	  {"predicate": {"custom_model_data": 32085},"model": "minecraft:item/ent/ievil/walk"},
 	  {"predicate": {"custom_model_data": 32086},"model": "minecraft:item/ent/volem"},
-	  {"predicate": {"custom_model_data": 32087},"model": "minecraft:item/ent/gates"}
+	  {"predicate": {"custom_model_data": 32087},"model": "minecraft:item/ent/gates"},
+	  {"predicate": {"custom_model_data": 32088},"model": "minecraft:item/ent/bgb_stevejobs/transform"},
+	  {"predicate": {"custom_model_data": 32089},"model": "minecraft:item/ent/bgb_stevejobs/lie"}
     ]
   }
