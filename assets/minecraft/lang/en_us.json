@@ -845,6 +845,11 @@
 	"what.message.bgb.flat_joke.2": "<Steve Jobs> It's a great thing i'm flat",
 	"what.message.bgb.flat_joke.3": "<Steve Jobs> I'll wait for you here",
 
+	"what.message.bgb.imafraid.1": "<Steve Jobs> I fear that I cannot follow you there right now",
+	"what.message.bgb.imafraid.2": "<Steve Jobs> I'll try to find an another way of getting here",
+	"what.message.bgb.imafraid.3": "<Steve Jobs> ...and here I am",
+	"what.message.bgb.thatswhere": "<Steve Jobs> So that's where all the money went huh...",
+
 	"what.credits.1.1" : "MIENCRAP 2 MINERAT",
 	"what.credits.1.2" : "Developer - tacocat820",
 	"what.credits.1.3" : "Developer - runrun228",
