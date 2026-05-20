@@ -41,7 +41,8 @@
     {"predicate": {"custom_model_data": 32034},"model": "minecraft:item/item/toastthrower"},
     {"predicate": {"custom_model_data": 32035},"model": "minecraft:item/item/minitoastgun"},
     {"predicate": {"custom_model_data": 32036},"model": "minecraft:item/item/glass_of_lava"},
-    {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/item/cotton_swab"}
+    {"predicate": {"custom_model_data": 32037},"model": "minecraft:item/item/cotton_swab"},
+    {"predicate": {"custom_model_data": 32038},"model": "minecraft:item/ent/bgb_stevejobs/spin"}
     
     
   
