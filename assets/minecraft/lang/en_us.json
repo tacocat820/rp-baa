@@ -936,6 +936,11 @@
 	"mco.compatibility.upgrade.description": "Wait what are you doing",
 	"mco.compatibility.upgrade.title": "Wa-wa-wa-wa-wait there's only miencrap 2 minerat for 1.21.3 and you need a new world for it do you understand that",
 
+	"menu.singleplayer": "Play with friends",
+    "menu.multiplayer": "Play with friends",
+    "menu.online": "Play with friends",
+    "menu.quit": "Play with friends",
+    "menu.options": "Play with friends",
 	
 	"command.context.here": "[HERE]-->",
     "title.credits": "CREDITS !!! HERE",
