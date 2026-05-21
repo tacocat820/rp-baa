@@ -925,13 +925,56 @@
 	"what.credits2.end.4" : "i wonder what would happen",
 	
 	"what.credits2.end.5" : "this was the STEVE JOBS ending",
+	"mco.client.incompatible.msg.line1": "No you cannot actually play realms here.",
+	"mco.client.incompatible.msg.line2": "バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ ",
+	"mco.client.incompatible.msg.line3": "バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ ",
 
-    "menu.singleplayer": "Play with friends",
-    "menu.multiplayer": "Play with friends",
-    "menu.online": "Play with friends",
-    "menu.quit": "Play with friends",
-    "menu.options": "Play with friends",
+	"mco.client.incompatible.title": "No you cannot actually play realms here.",
+	"mco.client.outdated.stable.version": "バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ ",
+	"mco.client.unsupported.snapshot.version": "バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ バ－カ ",
+
+	"mco.compatibility.upgrade.description": "Wait what are you doing",
+	"mco.compatibility.upgrade.title": "Wa-wa-wa-wa-wait there's only miencrap 2 minerat for 1.21.3 and you need a new world for it do you understand that",
+
+	
+	"command.context.here": "[HERE]-->",
     "title.credits": "CREDITS !!! HERE",
+	"command.context.parse_error": "error somewhere idk lmao",
+	"command.exception": "error somewhere idk lmao",
+	"command.expected.separator": "What?",
+	"command.failed": "Tee-hee something failed",
+	"command.forkLimit": "A 'fork limit' has been violated. What's a fork?",
+	"command.unknown.argument": "error somewhere idk lmao",
+	"command.unknown.command": "error somewhere idk lmao",
+
+	"commands.ban.failed": "The player has been banned",
+	"commands.ban.success": "Nothing changed. The player is already banned",
+	"commands.banip.failed": "The player's IP address has been banned",
+	"commands.banip.info": "Nothing changed. That IP is already banned",
+	"commands.banip.invalid": "Nothing changed. That IP is already banned",
+	"commands.banip.success": "Invalid IP address or unknown player",
+
+	"commands.banlist.entry": "%s was banned by %s: %s",
+	"commands.fill.failed": "Successfully filled 0 block(s)",
+	"commands.fill.success": "No blocks were filled",
+	"commands.kick.owner.failed": "Cannot kick in an offline singleplayer game",
+	"commands.kick.singleplayer.failed": "Kicked %s: %s",
+	"commands.kick.success": "Cannot kick server owner in LAN game",
+
+	"commands.playsound.failed": "The sound is too far away to be heard",
+	"commands.playsound.success.multiple": "The sound is too far away to be heard",
+	"commands.playsound.success.single": "The sound is too far away to be heard",
+
+	"commands.publish.alreadyPublished": "Multiplayer game is now hosted on port %s",
+	"commands.publish.failed": "Local game hosted on port 443",
+	"commands.publish.started": "Unable to host local gamet",
+	"commands.publish.success": "Unable to host local game",
+
+	"argument.entity.notfound.entity": "error somewhere idk lmao",
+	"argument.entity.notfound.player": "error somewhere idk lmao",
+
+	"commands.scoreboard.objectives.list.success": "There are no objectives",
+
     "datapackFailure.title": "datapack bad check version or something",
     "datapackFailure.safeMode.failed.title": ":((9",
     "selectWorld.create": "ma",
