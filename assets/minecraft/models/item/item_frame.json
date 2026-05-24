@@ -176,7 +176,8 @@
   {"predicate": {"custom_model_data": 32158},"model": "minecraft:item/block/banana_tape_art"},
   {"predicate": {"custom_model_data": 32159},"model": "minecraft:item/block/den_portal"},
   {"predicate": {"custom_model_data": 32160},"model": "minecraft:item/block/door_3"},
-  {"predicate": {"custom_model_data": 32161},"model": "minecraft:item/block/block_of_crumbs"}
+  {"predicate": {"custom_model_data": 32161},"model": "minecraft:item/block/block_of_crumbs"},
+  {"predicate": {"custom_model_data": 32162},"model": "minecraft:item/block/compressed_slop_block"}
 
   ]
 }
