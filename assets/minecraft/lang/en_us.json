@@ -169,6 +169,7 @@
 	"what.block.beans_plant" : "Beans plant",
 	"what.block.bing_chilling" : "Bing Chilling",
 	"what.block.chinese_anvil" : "Chinese anvil",
+	"what.block.american_oil" : "American Oil 🦅🦅🇺🇸🇺🇸🛢🦅",
 	
 	"what.block.dust_block" : "Dust block",
 	"what.block.solid_dust" : "Solid dust",
@@ -193,6 +194,7 @@
 	"what.block.greenscreen" : "Greenscreen",
 	"what.block.leather_block" : "Leather block",
 	"what.block.grassblockmond_block" : "Grassblockmond block",
+	"what.block.flower" : "Flower",
 	
 	"what.block.die" : "DIE",
 	"what.block.pc" : "PC",
@@ -223,6 +225,8 @@
 	"what.block.conveyor_belt" : "Conveyor belt",
 	"what.block.914_blocks_stare" : "\"914 Blocks stare\"",
 	"what.block.brazil_painting" : "\"Brazil\"",
+	"what.block.sulfuric_acid": "Sulfuric acid",
+
 	"what.item.heating_radiator" : "Radiator",
 	"what.item.epstein_file" : "Epstein file",
 	"what.item.bapple" : "Bad apple",
@@ -252,7 +256,6 @@
 	"what.block.sulfur_block" : "Sulfur block",
 	"what.block.villager" : "Villager",
 	"what.block.villager_block" : "Villager block",
-
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
 	"death.attack.psycho": "%1$s bitten to death",
