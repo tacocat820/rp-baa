@@ -84,8 +84,8 @@ void main() {
             float timeT = abs(1+sin(fract(GameTime * 66) * 12))/3;
             color = vec4( vec3(1), abs(timeT - color.r) );
         }
-        else if (isMCrapCustom == 7) {
-            color = vec4(FogColor.rgb, clamp((vertexDistance-22)/7,  0.0,1.0));
+        else if (isMCrapCustom == 7) { //туман?
+            color = vec4(FogColor.rgb, clamp((vertexDistance-44)/7,  0.0,1.0));
             // float seed = vertexDistance;
             // float rand = fract(543.2543 * sin(dot(vec2(seed, seed), vec2(3525.46, -54.3415 ))));
             // if (rand <= ( clamp((vertexDistance-22)/7,  0.0,1.0) )) {
