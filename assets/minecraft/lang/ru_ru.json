@@ -43,7 +43,6 @@
 	"what.item.uranium" : "Уран",
 	"what.item.villager_meat" : "Жареное мясо крестьянина",
 	"what.item.villager_meat_raw" : "Мясо крестьянина",
-	"what.block.obamium" : "Обамиум",
 	"what.item.cooked_seeds" : "Семечки",
 	"what.item.diamond_2" : "Алмаз 2",
 	"what.item.gold_2" : "Золото 2",
@@ -212,7 +211,10 @@
 	"what.block.nuke" : "Я Д Е Р К А",
 	"what.block.sulfuric_acid" : "Серная кислота",
 	"what.block.american_oil" : "Американская нефть",
-	
+	"what.block.obamium" : "Обамиум",
+	"what.block.maple_planks" : "Кленовые доски",
+	"what.block.maple_log" : "Кленовое бревно",
+
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
 
