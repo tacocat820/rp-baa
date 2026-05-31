@@ -179,7 +179,11 @@
   {"predicate": {"custom_model_data": 32161},"model": "minecraft:item/block/block_of_crumbs"},
   {"predicate": {"custom_model_data": 32162},"model": "minecraft:item/block/compressed_slop_block"},
   {"predicate": {"custom_model_data": 32163},"model": "minecraft:item/block/cinema_chair"},
-  {"predicate": {"custom_model_data": 32164},"model": "minecraft:item/block/blue_chair"}
+  {"predicate": {"custom_model_data": 32164},"model": "minecraft:item/block/blue_chair"},
+  {"predicate": {"custom_model_data": 32165},"model": "minecraft:item/block/maple_planks"},
+  {"predicate": {"custom_model_data": 32166},"model": "minecraft:item/block/maple_log"},
+  {"predicate": {"custom_model_data": 32167},"model": "minecraft:item/block/lavender"},
+  {"predicate": {"custom_model_data": 32168},"model": "minecraft:item/block/maple_leaves"}
 
   ]
 }

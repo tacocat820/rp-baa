@@ -256,6 +256,9 @@
 	"what.block.sulfur_block" : "Sulfur block",
 	"what.block.villager" : "Villager",
 	"what.block.villager_block" : "Villager block",
+
+	"what.block.maple_planks" : "Maple planks",
+	"what.block.maple_log" : "Maple log",
 	
 	"death.attack.foot.pain": "%1$s stepped on lego",
 	"death.attack.psycho": "%1$s bitten to death",
