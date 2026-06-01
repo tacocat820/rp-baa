@@ -183,7 +183,8 @@
   {"predicate": {"custom_model_data": 32165},"model": "minecraft:item/block/maple_planks"},
   {"predicate": {"custom_model_data": 32166},"model": "minecraft:item/block/maple_log"},
   {"predicate": {"custom_model_data": 32167},"model": "minecraft:item/block/lavender"},
-  {"predicate": {"custom_model_data": 32168},"model": "minecraft:item/block/maple_leaves"}
+  {"predicate": {"custom_model_data": 32168},"model": "minecraft:item/block/maple_leaves"},
+  {"predicate": {"custom_model_data": 32169},"model": "minecraft:item/block/maple_slab"}
 
   ]
 }

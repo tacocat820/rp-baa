@@ -214,6 +214,7 @@
 	"what.block.obamium" : "Обамиум",
 	"what.block.maple_planks" : "Кленовые доски",
 	"what.block.maple_log" : "Кленовое бревно",
+	"what.block.maple_slab" : "Кленовая плита",
 
 	"death.attack.foot.pain": "%1$s наступил на лего",
 	"death.attack.psycho": "%1$s загрызен до смерти",
