@@ -193,6 +193,8 @@
 	{"category": "player","sounds": [{"name": "what/ost/hog","stream": true}]},
 	"what.ost.bgb":
 	{"category": "player","sounds": [{"name": "what/ost/bgb","stream": true}]},
+	"what.ost.edibles":
+	{"category": "player","sounds": [{"name": "what/ost/edibles","stream": true}]},
 
 
 	"what.ed2_scream": {
