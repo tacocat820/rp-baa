@@ -25,7 +25,7 @@ in float transition;
 
 
 //uniform vec3 ChunkOffset;
-in vec3 chunk_offset;
+//in vec3 chunk_offset;
 flat in int isCustom;
 flat in int isGUI;
 flat in int isHand;
@@ -72,7 +72,8 @@ void main() {
             color = vec4(255,255,255,255);
         }
         else if (isMCrapCustom == 4) {
-            vec3 pos_a = chunk_offset + Pos;
+            //vec3 pos_a = chunk_offset + Pos;
+            vec3 pos_a = Pos;
             color = vec4(sin(fract(GameTime * 100) * 12) * (0.5 + cos(fract(pos_a.y) * 20 + sin(fract(GameTime * 200) * 12) * 4)), sin(fract(GameTime * 200) * 3), 1.0 - sin(fract(GameTime * 200) * 3), 5.0);
             //color = vec4(ChunkOffset/10.0, 1.0);
         }

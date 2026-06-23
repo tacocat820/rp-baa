@@ -31,7 +31,7 @@ out vec2 texCoord2;
 out vec3 Pos;
 out float transition;
 
-out vec3 chunk_offset;
+//out vec3 chunk_offset;
 flat out int isCustom;
 flat out int isGUI;
 flat out int isHand;
@@ -43,7 +43,7 @@ flat out float realTexSizeY;
 #moj_import <objmc_tools.glsl>
 
 void main() {
-    chunk_offset = ChunkOffset;
+    //chunk_offset = ChunkOffset;
     Pos = Position;
     texCoord = UV0;
     texCoordStartY = UV0.y;
