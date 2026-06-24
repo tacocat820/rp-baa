@@ -26,7 +26,9 @@
     {"predicate": {"custom_model_data": 32014},"model": "minecraft:item/item/sulfur"},
     {"predicate": {"custom_model_data": 32015},"model": "minecraft:item/item/bapple"},
     {"predicate": {"custom_model_data": 32016},"model": "minecraft:item/item/fried_apple"},
-    {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/item/fish_in_bowl"}
+    {"predicate": {"custom_model_data": 32017},"model": "minecraft:item/item/fish_in_bowl"},
+    {"predicate": {"custom_model_data": 32018},"model": "minecraft:item/item/honey"}
+    
     
     
     

@@ -195,6 +195,10 @@
 	{"category": "player","sounds": [{"name": "what/ost/bgb","stream": true}]},
 	"what.ost.edibles":
 	{"category": "player","sounds": [{"name": "what/ost/edibles","stream": true}]},
+	"what.bee":
+	{"category": "player","sounds": [{"name": "what/bee","stream": false}]},
+	"what.bee_alt":
+	{"category": "player","sounds": [{"name": "what/bee_alt","stream": false}]},
 
 
 	"what.ed2_scream": {
