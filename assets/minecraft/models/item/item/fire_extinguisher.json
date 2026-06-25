@@ -1,6 +1,0 @@
-{
-  "parent": "item/wooden_sword",
-  "textures": {
-    "layer0": "minecraft:item/item/fire_extinguisher"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/templates/painting",
-  "textures": {
-    "image": "item/block/brazil_painting"
-  }
-}

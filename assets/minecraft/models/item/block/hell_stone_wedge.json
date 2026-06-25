@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:item/templates/wedge_1x1x1",
-	 "textures": {
-		"block": "item/block/hell_stone_wedge"
-	 }
- }

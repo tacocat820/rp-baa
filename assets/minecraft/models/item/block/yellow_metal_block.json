@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/templates/block_with_marker",
-  "textures": {
-    "b": "item/block/yellow_metal_block",
-    "marker": "marker/metal"
-  }
-}

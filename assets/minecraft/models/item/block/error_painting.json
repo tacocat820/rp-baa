@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/templates/painting",
-  "textures": {
-    "image": "item/block/paintings/error_painting"
-  }
-}
