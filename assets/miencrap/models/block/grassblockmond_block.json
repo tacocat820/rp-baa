@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/templates/block_6s",
+   "textures": {
+    "north": "item/block/grassblockmond_block_side",
+    "east":  "item/block/grassblockmond_block_side",
+    "south": "item/block/grassblockmond_block_side",
+    "west":  "item/block/grassblockmond_block_side",
+    "up":    "item/block/grassblockmond_block_top",
+    "down":  "item/block/grassblockmond_block_bottom"
+   }
+}

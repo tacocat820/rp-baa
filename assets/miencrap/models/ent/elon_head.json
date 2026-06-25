@@ -1,0 +1,23 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [200, 159],
+	"textures": {
+		"0": "item/ent/elon_b",
+		"particle": "item/ent/elon_b"
+	},
+	"elements": [
+		{
+			"from": [-6, 0, -6],
+			"to": [23, 28, 20],
+			"faces": {
+				"north": {"uv": [4.8, 4.62893, 9.36, 11.97484], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.08, 2.41509], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.32, 2.41509], "texture": "#0"},
+				"west": {"uv": [9.12, 4.72956, 11.44, 10.06289], "texture": "#0"},
+				"up": {"uv": [4.4, 1.10692, 9.76, 4.93082], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 2.32, 2.61635], "texture": "#0"}
+			}
+		}
+	]
+}

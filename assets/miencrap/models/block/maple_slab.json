@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/slab",
+	 "textures": {
+		"b": "item/block/maple_planks"
+	 }
+ }

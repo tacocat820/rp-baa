@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/block/chair_plant/2",
+	"textures": {
+		"0": "item/block/liquid_wooden_planks",
+		"1": "item/block/liquid_wood",
+		"particle": "block/oak_planks"
+	}
+}

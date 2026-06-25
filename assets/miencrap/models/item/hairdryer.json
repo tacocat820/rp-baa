@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/templates/item_handheld",
+  "textures": {
+    "layer0": "minecraft:item/item/hairdryer"
+  }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "minecraft:item/templates/block",
+    "textures": {
+       "b": "item/item/windows_12"
+    }
+}

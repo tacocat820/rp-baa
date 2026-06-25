@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/templates/2s_block",
+  "textures": {
+    "b": "item/block/weather_vane"
+  }
+}

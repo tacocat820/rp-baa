@@ -1,0 +1,34 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/item/fencing_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-25.75, -90, 0],
+			"translation": [0, 15.75, 0],
+			"scale": [1.01, 3.13, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 101, 0],
+			"translation": [2, 3.25, -19.5],
+			"scale": [3, 1.11, 1]
+		},
+		"ground": {
+			"scale": [4, 1, 1]
+		},
+		"gui": {
+			"scale": [1.62, 1, 1]
+		},
+		"head": {
+			"rotation": [177.8, -3.32, -33.8],
+			"translation": [-3, 2, 0],
+			"scale": [2.86, 1.88, 1]
+		},
+		"fixed": {
+			"scale": [3.02, 1, 1]
+		}
+	}
+}

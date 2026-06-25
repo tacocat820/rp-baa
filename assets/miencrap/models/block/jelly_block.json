@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/templates/block_6s",
+  "textures": {
+    "north": "item/block/jelly_block",
+   "east":  "item/block/jelly_block",
+   "south": "item/block/jelly_block",
+   "west":  "item/block/jelly_block",
+   "up":    "item/block/jelly_block_top",
+   "down":  "item/block/jelly_block_bottom"
+  }
+}

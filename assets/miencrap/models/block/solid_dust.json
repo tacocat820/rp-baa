@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/block",
+	 "textures": {
+		"b": "item/block/solid_dust"
+	 }
+ }

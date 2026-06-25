@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/templates/inverted_block_6s",
+	 "textures": {
+		"0": "block/oak_sapling",
+		"1": "block/oak_sapling",
+		"2": "block/oak_sapling",
+		"3": "block/oak_sapling",
+		"4": "block/oak_sapling",
+		"5": "block/oak_sapling"
+	 }
+ }

@@ -1,0 +1,44 @@
+{
+	"credit": "Made automatically",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/item/baguette"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [51.19, -67.34, 89.44],
+			"translation": [-5.25, 19.75, 4.5],
+			"scale": [3, 3, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [173.07, -61.5, 104.18],
+			"translation": [0, 7.75, 0],
+			"scale": [3, 3, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-57.91, -64.11, 43.38],
+			"translation": [2.5, 7, 0],
+			"scale": [3, 3, 3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-117.96, -69.68, -84.29],
+			"translation": [4.5, 3, 0],
+			"scale": [3, 3, 3]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0],
+			"scale": [3, 3, 3]
+		},
+		"gui": {
+			"scale": [3, 3, 3]
+		},
+		"head": {
+			"rotation": [86.41, -1.4, -17.12],
+			"translation": [0, 7.5, 0],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"scale": [3, 3, 3]
+		}
+	}
+}

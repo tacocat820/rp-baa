@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/item/heating_radiator",
+	"textures": {
+		"0": "item/item/heating_radiator_hot"
+	}
+}

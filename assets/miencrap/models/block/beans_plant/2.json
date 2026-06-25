@@ -1,0 +1,6 @@
+﻿{
+   "parent": "minecraft:item/templates/4s_r_block",
+    "textures": {
+       "b": "item/block/beans_plant/2"
+    }
+}

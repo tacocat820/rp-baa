@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/templates/block_with_marker",
+  "textures": {
+    "b": "item/block/liquid_glass",
+    "marker": "marker/shine"
+  }
+}

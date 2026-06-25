@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/templates/flat",
+	 "textures": {
+		"b": "item/block/rail_corner_without_iron_pickaxe"
+	 }
+ }

@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/ui_center",
+  "textures": {
+    "txt": "item/ui/table_2"
+  }
+}
